@@ -1,0 +1,85 @@
+Reading the alignment...
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+Compressing the alignment patterns...
+
+
+This is RAxML version 8.2.3 released by Alexandros Stamatakis on August 12 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 1584 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 14.57%
+
+RAxML Model Optimization up to an accuracy of 0.100000 log likelihood units
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1584
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+Base frequencies: ML estimate
+
+
+
+
+RAxML was called as follows:
+
+/hits/basement/sco/kozlov/sativa/raxml/raxmlHPC8-AVX2.PTHREADS -T 16 -s /hits/basement/sco/kozlov/long-reads/repo/data/ref_and_long_reads_nws_sorted.fasta -t /hits/basement/sco/kozlov/long-reads/repo/trees/ref_and_long_reads_nws.fasta/UNCONS_RAND/search.raxml.bestTree --no-seq-check -f e -m GTRGAMMAX -n eval_long --verbose -p 1 
+
+
+Reading the starting/constraint tree...
+Evaluating the tree...
+Initial LH: -460684.014155, optimizing branch lengths...
+LH after optimization: -368086.126940
+
+Model parameters (binary file format) written to: /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_long_reads/RAxML_binaryModelParameters.eval_long
+
+
+Overall Time for Tree Evaluation 29.258112
+Final GAMMA  likelihood: -347594.153379
+
+Number of free parameters for AIC-TEST(BR-LEN): 4628
+Number of free parameters for AIC-TEST(NO-BR-LEN): 9
+
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.601362
+Tree-Length: 112.500083
+rate A <-> C: 1.465171
+rate A <-> G: 3.860810
+rate A <-> T: 1.598016
+rate C <-> G: 0.926539
+rate C <-> T: 5.258235
+rate G <-> T: 1.000000
+
+freq pi(A): 0.245059
+freq pi(C): 0.197177
+freq pi(G): 0.266318
+freq pi(T): 0.291446
+
+Final tree written to:                 /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_long_reads/RAxML_result.eval_long
+Execution Log File written to:         /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_long_reads/RAxML_log.eval_long

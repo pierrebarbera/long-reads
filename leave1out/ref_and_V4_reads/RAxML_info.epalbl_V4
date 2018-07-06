@@ -1,0 +1,72 @@
+Reading the alignment...
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+Compressing the alignment patterns...
+Found a total of 2311 taxa in tree file RAxML_result.eval_V4
+
+
+This is RAxML version 8.2.3 released by Alexandros Stamatakis on August 12 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 1579 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 27.32%
+
+RAxML parsimony-based placement algorithm
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+Partition: 0
+Alignment Patterns: 1579
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+Base frequencies: ML estimate
+
+
+
+
+RAxML was called as follows:
+
+/hits/basement/sco/kozlov/sativa/raxml/raxmlHPC8-AVX2.PTHREADS -T 16 -s epalbl.fa -t RAxML_result.eval_V4 --no-seq-check -f y --epa-accumulated-threshold 0.99 -m GTRGAMMAX -n epalbl_V4 --verbose -p 1 
+
+
+Reading the starting/constraint tree...
+RAxML placement algorithm: You provided a reference tree with 2311 taxa; alignmnet has 2312 taxa
+1 query taxa will be placed using parsimony
+
+RAxML Evolutionary Placement Algorithm using parsimony
+
+parsimony score of reference tree: 64998
+
+RAxML will place 1 Query Sequences into the 4619 branches of the reference tree with 2311 taxa
+
+Overall Classification time: 0.220504
+
+Equally parsimonious read placements written to file: /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_V4_reads/RAxML_equallyParsimoniousPlacements.epalbl_V4
+
+Labelled reference tree with branch labels (without query sequences) written to file: /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_V4_reads/RAxML_originalLabelledTree.epalbl_V4
+
+Labelled reference tree with branch labels in portable pplacer/EPA format (without query sequences) written to file: /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_V4_reads/RAxML_portableTree.epalbl_V4.jplace
+
+Labelled reference tree including branch labels and query sequences written to file: /hits/basement/sco/kozlov/long-reads/repo/leave1out/ref_and_V4_reads/RAxML_labelledTree.epalbl_V4
+
