@@ -24,18 +24,18 @@ Run Time Options
 
 Command line:      (not available)
 Number of threads: 1
-Random seed:       2863832428
+Random seed:       1206405967
 
-14:46:49 INFO Started
-14:46:49 INFO reading jplace sample
-14:46:49 INFO edpl
-14:46:53 INFO max edpl 0.42185
-14:46:53 INFO dists
-14:47:33 INFO queries
-14:47:34 INFO 0 out of 650 did not have a placement on their branch
-14:47:34 INFO max_wd_bu 0.0725675
-14:47:34 INFO max_wd_pl 7.7874
-14:47:36 INFO Finished
+19:43:04 INFO Started
+19:43:04 INFO reading jplace sample
+19:43:04 INFO edpl
+19:43:10 INFO max edpl 0.42185
+19:43:10 INFO dists
+19:44:18 INFO queries
+19:44:18 INFO 0 out of 650 did not have a placement on their branch
+19:44:18 INFO max_wd_bu 0.0725675
+19:44:18 INFO max_wd_pl 7.7874
+19:44:22 INFO Finished
                                      ,     
         __    __    __    __   __     __   
       /   ) /___) /   ) /___) (_ ` / (_ `  
@@ -62,15 +62,15 @@ Run Time Options
 
 Command line:      (not available)
 Number of threads: 1
-Random seed:       2810493007
+Random seed:       1865105746
 
-14:47:36 INFO Started
-14:47:36 INFO reading jplace sample
-14:47:36 INFO edpl
-14:47:46 INFO max edpl 0.46074
-14:47:46 INFO dists
-14:48:26 INFO queries
-14:48:27 INFO 0 out of 650 did not have a placement on their branch
-14:48:27 INFO max_wd_bu 0.442839
-14:48:27 INFO max_wd_pl 29.3742
-14:48:29 INFO Finished
+19:44:22 INFO Started
+19:44:22 INFO reading jplace sample
+19:44:22 INFO edpl
+19:44:37 INFO max edpl 0.46074
+19:44:37 INFO dists
+19:45:34 INFO queries
+19:45:35 INFO 0 out of 650 did not have a placement on their branch
+19:45:35 INFO max_wd_bu 0.442839
+19:45:35 INFO max_wd_pl 29.3742
+19:45:38 INFO Finished
