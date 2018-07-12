@@ -30,9 +30,12 @@ THREADS=40
 
 BASE="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 ALI=${BASE}/data/ref_only_nws.fasta
-TDIR=${BASE}/trees/ref_only_nws.fasta/UNCONS_RAND
-TREE=${TDIR}/search.raxml.bestTree
-MODELFILE=${TDIR}/search.raxml.bestModel
+# TDIR=${BASE}/trees/ref_only_nws.fasta/UNCONS_RAND
+TDIR=${BASE}/trees/ref_and_V4_reads_nws.fasta
+# TREE=${TDIR}/search.raxml.bestTree
+TREE=${TDIR}/pruned/pruned.newick
+# MODELFILE=${TDIR}/search.raxml.bestModel
+MODELFILE=${TDIR}/UNCONS_PARS/search.raxml.bestModel
 QRY=$1
 
 if [ -d ${BASE} -a -r ${ALI} -a -r ${QRY} -a -r ${TREE} -a -r ${MODELFILE} ]
@@ -45,7 +48,8 @@ MODEL="$(head -n 1 ${MODELFILE} | awk -F "," '{print $1}')"
 
 QRYNAME=$(basename ${QRY})
 
-OUT=${BASE}/jplace/${QRYNAME}/
+# OUT=${BASE}/jplace/${QRYNAME}/
+OUT=${BASE}/jplace/pruned_V4/${QRYNAME}/
 
 mkdir -p ${OUT}
 rm -f ${OUT}/*
