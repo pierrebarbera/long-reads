@@ -1,0 +1,39 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.1.24 released by Alexandros Stamatakis on June 29 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+RAxML computation of RF distances for all pairs of trees in a set of trees
+
+
+RAxML was called as follows:
+
+raxml -m GTRCAT -z /home/lucas/Projects/long-reads/trees/rf-dists/trees.nw -f r -n rfd 
+
+
+
+
+Found 3 trees in File /home/lucas/Projects/long-reads/trees/rf-dists/trees.nw
+
+
+
+Average relative RF in this set: 0.173502
+
+
+Number of unique trees in this tree set: 3
+
+File containing all 3 pair-wise RF distances written to file /home/lucas/Projects/long-reads/trees/rf-dists/RAxML_RF-Distances.rfd
+
