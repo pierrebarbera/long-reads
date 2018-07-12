@@ -45,5 +45,5 @@ DBG  Using threads: 40
 DBG  Max threads: 40
 DBG  Filtering output placements below threshold: 0.01
 INFO 650 Sequences done!
-INFO Time spent placing: 98s
-INFO Elapsed Time: 99s
+INFO Time spent placing: 100s
+INFO Elapsed Time: 101s
