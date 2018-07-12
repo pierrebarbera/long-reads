@@ -1,0 +1,76 @@
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.19.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       2863832428
+
+14:46:49 INFO Started
+14:46:49 INFO reading jplace sample
+14:46:49 INFO edpl
+14:46:53 INFO max edpl 0.42185
+14:46:53 INFO dists
+14:47:33 INFO queries
+14:47:34 INFO 0 out of 650 did not have a placement on their branch
+14:47:34 INFO max_wd_bu 0.0725675
+14:47:34 INFO max_wd_pl 7.7874
+14:47:36 INFO Finished
+                                     ,     
+        __    __    __    __   __     __   
+      /   ) /___) /   ) /___) (_ ` / (_ `  
+     (___/ (___  /   / (___  (__) / (__)   
+      __/______________________________    
+    (__/                                   
+               2014-2017 by Lucas Czech    
+               http://genesis-lib.org
+               v0.19.0
+
+Compile Time Options
+=============================================
+
+Platform:          Linux
+Compiler:          clang 3.9.1 (tags/RELEASE_391/rc2)
+C++ version:       201103
+Build type:        debug
+Endianness:        little endian
+Using Pthreads:    true
+Using OpenMP:      true
+
+Run Time Options
+=============================================
+
+Command line:      (not available)
+Number of threads: 1
+Random seed:       2810493007
+
+14:47:36 INFO Started
+14:47:36 INFO reading jplace sample
+14:47:36 INFO edpl
+14:47:46 INFO max edpl 0.46074
+14:47:46 INFO dists
+14:48:26 INFO queries
+14:48:27 INFO 0 out of 650 did not have a placement on their branch
+14:48:27 INFO max_wd_bu 0.442839
+14:48:27 INFO max_wd_pl 29.3742
+14:48:29 INFO Finished
