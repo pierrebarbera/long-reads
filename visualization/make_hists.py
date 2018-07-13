@@ -61,13 +61,13 @@ def plot_dataset(datasets, measure, method):
 
 	# Get max x
 	if measure == "edpl":
-		max_x = 0.03
+		max_x = 0.1
 	elif measure == "lwr_placed":
 		max_x = 1.0
 	elif measure == "wd_bu":
-		max_x = 0.001
+		max_x = 0.01
 	elif measure == "wd_pl":
-		max_x = 0.8
+		max_x = 2.0
 	else:
 		raise error
 
@@ -119,8 +119,8 @@ def plot_dataset(datasets, measure, method):
 	# 	ax.xaxis.grid(False, which='minor')
 
 	# Save files
-	plt.savefig( measure + "_" + method + ".png", format='png' )
-	plt.savefig( measure + "_" + method + ".svg", format='svg' )
+	plt.savefig( "figures_png/" + measure + "_" + method + ".png", format='png' )
+	plt.savefig( "figures_svg/" + measure + "_" + method + ".svg", format='svg' )
 	#plt.show()
 
 #######################################################################
@@ -129,7 +129,8 @@ def plot_dataset(datasets, measure, method):
 
 datasets    = [ "long", "V4" ]
 measure     = [ "edpl", "lwr_placed", "wd_bu", "wd_pl" ]
-methods     = [ "exact", "histogram" ]
+methods     = [ "exact" ]
+# methods     = [ "exact", "histogram" ]
 
 #######################################################################
 #    Plotting Loop
@@ -138,10 +139,17 @@ methods     = [ "exact", "histogram" ]
 sns.set(font_scale=1.6)
 plotnum = 1
 
+# if not os.path.exists("figures_pdf"):
+#     os.makedirs("figures_pdf")
+if not os.path.exists("figures_png"):
+    os.makedirs("figures_png")
+if not os.path.exists("figures_svg"):
+    os.makedirs("figures_svg")
+
 # Make all needed combinations of plots
-for measure in methods:
+for measure in measure:
 	for method in methods:
-		print "Figure", plotnum, ":", method
+		print "Figure", plotnum, ":", measure, method
 		plt.figure( plotnum )
 
 		plot_dataset(datasets, measure, method)
