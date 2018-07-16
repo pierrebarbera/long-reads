@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9640" height="9643.6">
-<!-- Created with genesis v0.19.0 (http://genesis-lib.org) on 2018-07-12 at 19:44:19 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11488" height="9695.44">
+<!-- Created with genesis v0.19.0 (http://genesis-lib.org) on 2018-07-16 at 22:50:40 -->
     <g transform="translate( 4820, 4820)" >
         <g>
             <line x1="288.723" y1="3.92517" x2="4619.57" y2="62.8027" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -11555,23 +11555,23 @@
             <text x="0" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1" alignment-baseline="middle" transform="translate( 4628.61, 113.282 ) rotate( 1.40199 )">Eukaryota_Amoebozoa_Schizoplasmodiida_Phalansterium@FPLS01058912_1588_bp</text>
             <text x="0" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1" alignment-baseline="middle" transform="translate( 4629.57, 62.9387 ) rotate( 0.778884 )">Eukaryota_Amoebozoa_Incertae_Sedis_Ischnamoeba_Lobosea@AB425950_1588_bp</text>
         </g>
-        <g transform="translate( 4620, 0 )">
+        <g transform="translate( 5544, 0 )">
             <rect x="0" y="3465" width="462" height="1155" stroke="none" fill="#ffa02f" fill-opacity="1" />
             <rect x="0" y="2310" width="462" height="1155" stroke="none" fill="#c83e4f" fill-opacity="1" />
             <rect x="0" y="1155" width="462" height="1155" stroke="none" fill="#87216b" fill-opacity="1" />
             <rect x="0" y="0" width="462" height="1155" stroke="none" fill="#00000c" fill-opacity="1" />
             <rect x="0" y="0" width="462" height="4620" stroke="#000000" stroke-opacity="1" stroke-width="1" fill="none" />
-            <text x="485.1" y="4620" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0</text>
+            <text x="485.1" y="4620" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0</text>
             <line x1="0" y1="3465" x2="69.3" y2="3465" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="392.7" y1="3465" x2="462" y2="3465" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="485.1" y="3465" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.25</text>
+            <text x="485.1" y="3465" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0.25</text>
             <line x1="0" y1="2310" x2="69.3" y2="2310" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="392.7" y1="2310" x2="462" y2="2310" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="485.1" y="2310" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.5</text>
+            <text x="485.1" y="2310" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0.5</text>
             <line x1="0" y1="1155" x2="69.3" y2="1155" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="392.7" y1="1155" x2="462" y2="1155" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="485.1" y="1155" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.75</text>
-            <text x="485.1" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">1</text>
+            <text x="485.1" y="1155" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0.75</text>
+            <text x="485.1" y="0" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">1</text>
         </g>
     </g>
 </svg>

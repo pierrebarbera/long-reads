@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14260" height="28116.4">
-<!-- Created with genesis v0.19.0 (http://genesis-lib.org) on 2018-07-12 at 19:44:20 -->
-    <g transform="translate( 200, 208.4)" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19803.6" height="28496">
+<!-- Created with genesis v0.19.0 (http://genesis-lib.org) on 2018-07-16 at 22:50:41 -->
+    <g transform="translate( 200, 588.03)" >
         <g>
             <line x1="280.476" y1="59.974" x2="788.073" y2="59.974" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="280.476" y1="199.994" x2="280.476" y2="59.974" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1372.97" y1="107.953" x2="1557.1" y2="107.953" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1372.97" y1="113.951" x2="1372.97" y2="107.953" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1372.97" y1="119.948" x2="1419.75" y2="119.948" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1372.97" y1="113.951" x2="1372.97" y2="119.948" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1372.97" y1="119.948" x2="1419.75" y2="119.948" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1372.97" y1="113.951" x2="1372.97" y2="119.948" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1346.4" y1="113.951" x2="1372.97" y2="113.951" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1346.4" y1="104.955" x2="1346.4" y2="113.951" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1346.4" y1="95.9585" x2="1674.23" y2="95.9585" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -21,10 +21,10 @@
             <line x1="477.499" y1="120.698" x2="477.499" y2="94.4591" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="527.239" y1="131.943" x2="908.404" y2="131.943" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="527.239" y1="146.936" x2="527.239" y2="131.943" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="760.77" y1="179.922" x2="1129.36" y2="179.922" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="760.77" y1="185.92" x2="760.77" y2="179.922" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="760.77" y1="191.917" x2="877.213" y2="191.917" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="760.77" y1="185.92" x2="760.77" y2="191.917" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="760.77" y1="179.922" x2="1129.36" y2="179.922" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="760.77" y1="185.92" x2="760.77" y2="179.922" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="760.77" y1="191.917" x2="877.213" y2="191.917" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="760.77" y1="185.92" x2="760.77" y2="191.917" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="728.248" y1="185.92" x2="760.77" y2="185.92" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="728.248" y1="197.914" x2="728.248" y2="185.92" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="973.122" y1="203.912" x2="2080.75" y2="203.912" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -85,8 +85,8 @@
             <line x1="672.962" y1="240.084" x2="672.962" y2="252.266" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="591.21" y1="240.084" x2="672.962" y2="240.084" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="591.21" y1="1095.42" x2="591.21" y2="240.084" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1046.97" y1="1727.25" x2="1837.8" y2="1727.25" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1046.97" y1="1733.25" x2="1046.97" y2="1727.25" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1046.97" y1="1727.25" x2="1837.8" y2="1727.25" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1046.97" y1="1733.25" x2="1046.97" y2="1727.25" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1046.97" y1="1739.25" x2="1934.34" y2="1739.25" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1046.97" y1="1733.25" x2="1046.97" y2="1739.25" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="820.478" y1="1733.25" x2="1046.97" y2="1733.25" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -715,8 +715,8 @@
             <line x1="1928.31" y1="2302.49" x2="1928.31" y2="2254.27" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2093.52" y1="2315" x2="2220.4" y2="2315" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2093.52" y1="2326.24" x2="2093.52" y2="2315" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2099.27" y1="2326.99" x2="2099.28" y2="2326.99" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2099.27" y1="2337.49" x2="2099.27" y2="2326.99" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2099.27" y1="2326.99" x2="2099.28" y2="2326.99" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2099.27" y1="2337.49" x2="2099.27" y2="2326.99" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2384.45" y1="2350.98" x2="2421.8" y2="2350.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2384.45" y1="2356.98" x2="2384.45" y2="2350.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2384.45" y1="2362.98" x2="2489.98" y2="2362.98" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1153,8 +1153,8 @@
             <line x1="6110.73" y1="4492.06" x2="6110.73" y2="4498.05" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="6110.73" y1="4492.06" x2="6110.73" y2="4492.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="6110.73" y1="4483.06" x2="6110.73" y2="4492.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="6110.73" y1="4474.06" x2="6143.47" y2="4474.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="6110.73" y1="4483.06" x2="6110.73" y2="4474.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="6110.73" y1="4474.06" x2="6143.47" y2="4474.06" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="6110.73" y1="4483.06" x2="6110.73" y2="4474.06" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="5925.41" y1="4483.06" x2="6110.73" y2="4483.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="5925.41" y1="4472.56" x2="5925.41" y2="4483.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="5579.15" y1="4472.56" x2="5925.41" y2="4472.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1211,8 +1211,8 @@
             <line x1="850.393" y1="6259.53" x2="850.393" y2="4265.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1337.29" y1="7652.69" x2="1997.5" y2="7652.69" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1337.29" y1="7663.18" x2="1337.29" y2="7652.69" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1774.79" y1="7664.68" x2="6891.04" y2="7664.68" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1774.79" y1="7673.68" x2="1774.79" y2="7664.68" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1774.79" y1="7664.68" x2="6891.04" y2="7664.68" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1774.79" y1="7673.68" x2="1774.79" y2="7664.68" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2997.46" y1="7676.68" x2="3080.53" y2="7676.68" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2997.46" y1="7682.67" x2="2997.46" y2="7676.68" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2997.46" y1="7688.67" x2="3133.87" y2="7688.67" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1223,12 +1223,12 @@
             <line x1="1337.29" y1="7663.18" x2="1337.29" y2="7673.68" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1295.74" y1="7663.18" x2="1337.29" y2="7663.18" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1295.74" y1="7810.83" x2="1295.74" y2="7663.18" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2711.06" y1="7892.58" x2="2777.42" y2="7892.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2711.06" y1="7901.58" x2="2711.06" y2="7892.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2711.06" y1="7892.58" x2="2777.42" y2="7892.58" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2711.06" y1="7901.58" x2="2711.06" y2="7892.58" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2711.07" y1="7904.58" x2="3092.84" y2="7904.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2711.07" y1="7910.58" x2="2711.07" y2="7904.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2711.07" y1="7916.57" x2="2839.71" y2="7916.57" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2711.07" y1="7910.58" x2="2711.07" y2="7916.57" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2711.07" y1="7916.57" x2="2839.71" y2="7916.57" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2711.07" y1="7910.58" x2="2711.07" y2="7916.57" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2711.06" y1="7910.58" x2="2711.07" y2="7910.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2711.06" y1="7901.58" x2="2711.06" y2="7910.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2609.15" y1="7901.58" x2="2711.06" y2="7901.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1237,12 +1237,12 @@
             <line x1="2609.15" y1="7891.08" x2="2609.15" y2="7880.59" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2030.38" y1="7891.08" x2="2609.15" y2="7891.08" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2030.38" y1="7879.84" x2="2030.38" y2="7891.08" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2030.38" y1="7868.59" x2="2791.95" y2="7868.59" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2030.38" y1="7879.84" x2="2030.38" y2="7868.59" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2030.38" y1="7868.59" x2="2791.95" y2="7868.59" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2030.38" y1="7879.84" x2="2030.38" y2="7868.59" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1916.63" y1="7879.84" x2="2030.38" y2="7879.84" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1916.63" y1="7868.22" x2="1916.63" y2="7879.84" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1916.63" y1="7856.6" x2="2390.19" y2="7856.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1916.63" y1="7868.22" x2="1916.63" y2="7856.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1916.63" y1="7856.6" x2="2390.19" y2="7856.6" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1916.63" y1="7868.22" x2="1916.63" y2="7856.6" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1777.42" y1="7868.22" x2="1916.63" y2="7868.22" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1777.42" y1="7919.55" x2="1777.42" y2="7868.22" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="5188.25" y1="8048.52" x2="5647.4" y2="8048.52" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1303,8 +1303,8 @@
             <line x1="4164.04" y1="8054.19" x2="4164.04" y2="8030.52" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3751.8" y1="8054.19" x2="4164.04" y2="8054.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3751.8" y1="8033.36" x2="3751.8" y2="8054.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3751.8" y1="8012.53" x2="13860" y2="8012.53" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3751.8" y1="8033.36" x2="3751.8" y2="8012.53" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3751.8" y1="8012.53" x2="13860" y2="8012.53" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3751.8" y1="8033.36" x2="3751.8" y2="8012.53" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2159.49" y1="8033.36" x2="3751.8" y2="8033.36" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2159.49" y1="8004.2" x2="2159.49" y2="8033.36" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2539.97" y1="7964.55" x2="4936.57" y2="7964.55" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1323,12 +1323,12 @@
             <line x1="2159.49" y1="8004.2" x2="2159.49" y2="7975.05" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1994.34" y1="8004.2" x2="2159.49" y2="8004.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1994.34" y1="7970.88" x2="1994.34" y2="8004.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="4094.94" y1="7928.57" x2="4299.4" y2="7928.57" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="4094.94" y1="7937.56" x2="4094.94" y2="7928.57" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="4167.11" y1="7940.56" x2="4589.3" y2="7940.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="4167.11" y1="7946.56" x2="4167.11" y2="7940.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="4167.11" y1="7952.56" x2="4493.08" y2="7952.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="4167.11" y1="7946.56" x2="4167.11" y2="7952.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="4094.94" y1="7928.57" x2="4299.4" y2="7928.57" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="4094.94" y1="7937.56" x2="4094.94" y2="7928.57" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="4167.11" y1="7940.56" x2="4589.3" y2="7940.56" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="4167.11" y1="7946.56" x2="4167.11" y2="7940.56" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="4167.11" y1="7952.56" x2="4493.08" y2="7952.56" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="4167.11" y1="7946.56" x2="4167.11" y2="7952.56" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="4094.94" y1="7946.56" x2="4167.11" y2="7946.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="4094.94" y1="7937.56" x2="4094.94" y2="7946.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1994.34" y1="7937.56" x2="4094.94" y2="7937.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1385,8 +1385,8 @@
             <line x1="4118.38" y1="8946.63" x2="4118.38" y2="8936.13" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="4035.56" y1="8946.63" x2="4118.38" y2="8946.63" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="4035.56" y1="8970.99" x2="4035.56" y2="8946.63" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="4095.35" y1="8984.11" x2="4434.19" y2="8984.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="4095.35" y1="8995.36" x2="4095.35" y2="8984.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="4095.35" y1="8984.11" x2="4434.19" y2="8984.11" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="4095.35" y1="8995.36" x2="4095.35" y2="8984.11" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="4153.96" y1="8996.11" x2="4342.63" y2="8996.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="4153.96" y1="9006.6" x2="4153.96" y2="8996.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="4430.53" y1="9008.1" x2="4805.24" y2="9008.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1421,8 +1421,8 @@
             <line x1="3384.16" y1="8866.56" x2="3384.16" y2="8880.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3040.96" y1="8866.56" x2="3384.16" y2="8866.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3040.96" y1="8853.37" x2="3040.96" y2="8866.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3040.96" y1="8840.17" x2="3665.65" y2="8840.17" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3040.96" y1="8853.37" x2="3040.96" y2="8840.17" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3040.96" y1="8840.17" x2="3665.65" y2="8840.17" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3040.96" y1="8853.37" x2="3040.96" y2="8840.17" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2946" y1="8853.37" x2="3040.96" y2="8853.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2946" y1="8840.77" x2="2946" y2="8853.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2946" y1="8828.18" x2="3662.29" y2="8828.18" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1437,8 +1437,8 @@
             <line x1="3058.24" y1="8789.2" x2="3058.24" y2="8780.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3130.37" y1="8792.19" x2="3393.06" y2="8792.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3130.37" y1="8798.19" x2="3130.37" y2="8792.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3130.37" y1="8804.19" x2="3269.12" y2="8804.19" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3130.37" y1="8798.19" x2="3130.37" y2="8804.19" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3130.37" y1="8804.19" x2="3269.12" y2="8804.19" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3130.37" y1="8798.19" x2="3130.37" y2="8804.19" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3058.24" y1="8798.19" x2="3130.37" y2="8798.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3058.24" y1="8789.2" x2="3058.24" y2="8798.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2967.28" y1="8789.2" x2="3058.24" y2="8789.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1477,8 +1477,8 @@
             <line x1="1493.08" y1="8614.8" x2="1493.08" y2="8661.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1674.62" y1="8552.3" x2="2398.74" y2="8552.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1674.62" y1="8568.04" x2="1674.62" y2="8552.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2232.09" y1="8588.28" x2="2373.21" y2="8588.28" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2232.09" y1="8597.28" x2="2232.09" y2="8588.28" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2232.09" y1="8588.28" x2="2373.21" y2="8588.28" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2232.09" y1="8597.28" x2="2232.09" y2="8588.28" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2356.25" y1="8600.28" x2="2594.42" y2="8600.28" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2356.25" y1="8606.27" x2="2356.25" y2="8600.28" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2356.25" y1="8612.27" x2="2491.08" y2="8612.27" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1617,8 +1617,8 @@
             <line x1="1367.36" y1="8189.17" x2="1367.36" y2="8458.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1339.59" y1="8189.17" x2="1367.36" y2="8189.17" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1339.59" y1="7958.48" x2="1339.59" y2="8189.17" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2127.41" y1="7748.65" x2="2836.2" y2="7748.65" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2127.41" y1="7767.2" x2="2127.41" y2="7748.65" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2127.41" y1="7748.65" x2="2836.2" y2="7748.65" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2127.41" y1="7767.2" x2="2127.41" y2="7748.65" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2748.48" y1="7760.64" x2="3117.31" y2="7760.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2748.48" y1="7766.64" x2="2748.48" y2="7760.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2748.48" y1="7772.64" x2="2849.15" y2="7772.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -1993,8 +1993,8 @@
             <line x1="1528.75" y1="6677.36" x2="1528.75" y2="6691.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1633.39" y1="6657.12" x2="2061.59" y2="6657.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1633.39" y1="6663.12" x2="1633.39" y2="6657.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1633.39" y1="6669.11" x2="1763.84" y2="6669.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1633.39" y1="6663.12" x2="1633.39" y2="6669.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1633.39" y1="6669.11" x2="1763.84" y2="6669.11" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1633.39" y1="6663.12" x2="1633.39" y2="6669.11" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1528.75" y1="6663.12" x2="1633.39" y2="6663.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1528.75" y1="6677.36" x2="1528.75" y2="6663.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1360.44" y1="6677.36" x2="1528.75" y2="6677.36" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2055,8 +2055,8 @@
             <line x1="2730.28" y1="5851.97" x2="2730.28" y2="5841.47" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2525.84" y1="5851.97" x2="2730.28" y2="5851.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2525.84" y1="5876.61" x2="2525.84" y2="5851.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2545.27" y1="5889.45" x2="2654.09" y2="5889.45" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2545.27" y1="5901.26" x2="2545.27" y2="5889.45" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2545.27" y1="5889.45" x2="2654.09" y2="5889.45" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2545.27" y1="5901.26" x2="2545.27" y2="5889.45" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2574" y1="5901.45" x2="2587.86" y2="5901.45" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2574" y1="5913.07" x2="2574" y2="5901.45" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2614.07" y1="5913.44" x2="2622.46" y2="5913.44" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2153,8 +2153,8 @@
             <line x1="2485.17" y1="6043.32" x2="2485.17" y2="6009.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2447.46" y1="6043.32" x2="2485.17" y2="6043.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2447.46" y1="6012.87" x2="2447.46" y2="6043.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2464.53" y1="5973.41" x2="2605.59" y2="5973.41" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2464.53" y1="5982.41" x2="2464.53" y2="5973.41" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2464.53" y1="5973.41" x2="2605.59" y2="5973.41" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2464.53" y1="5982.41" x2="2464.53" y2="5973.41" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2676.13" y1="5985.41" x2="2761.88" y2="5985.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2676.13" y1="5991.41" x2="2676.13" y2="5985.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2676.13" y1="5997.4" x2="2687.33" y2="5997.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2395,8 +2395,8 @@
             <line x1="3410.16" y1="5289.62" x2="3410.16" y2="5339" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3398.78" y1="5289.62" x2="3410.16" y2="5289.62" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3398.78" y1="5397.43" x2="3398.78" y2="5289.62" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3452.33" y1="5457.64" x2="3493.45" y2="5457.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3452.33" y1="5466.63" x2="3452.33" y2="5457.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3452.33" y1="5457.64" x2="3493.45" y2="5457.64" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3452.33" y1="5466.63" x2="3452.33" y2="5457.64" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3493.3" y1="5469.63" x2="3554.05" y2="5469.63" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3493.3" y1="5475.63" x2="3493.3" y2="5469.63" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3493.3" y1="5481.63" x2="3513.14" y2="5481.63" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2617,12 +2617,12 @@
             <line x1="2311.41" y1="5093.67" x2="2311.41" y2="5073.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2326.91" y1="5121.78" x2="2421.84" y2="5121.78" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2326.91" y1="5132.28" x2="2326.91" y2="5121.78" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2340.8" y1="5133.78" x2="2451.04" y2="5133.78" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2340.8" y1="5142.77" x2="2340.8" y2="5133.78" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2342.38" y1="5145.77" x2="2518.85" y2="5145.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2342.38" y1="5151.77" x2="2342.38" y2="5145.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2342.38" y1="5157.77" x2="2633.2" y2="5157.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2342.38" y1="5151.77" x2="2342.38" y2="5157.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2340.8" y1="5133.78" x2="2451.04" y2="5133.78" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2340.8" y1="5142.77" x2="2340.8" y2="5133.78" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2342.38" y1="5145.77" x2="2518.85" y2="5145.77" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2342.38" y1="5151.77" x2="2342.38" y2="5145.77" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2342.38" y1="5157.77" x2="2633.2" y2="5157.77" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2342.38" y1="5151.77" x2="2342.38" y2="5157.77" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2340.8" y1="5151.77" x2="2342.38" y2="5151.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2340.8" y1="5142.77" x2="2340.8" y2="5151.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2326.91" y1="5142.77" x2="2340.8" y2="5142.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2651,8 +2651,8 @@
             <line x1="2727.46" y1="5019.83" x2="2727.46" y2="5025.82" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2430.8" y1="5019.83" x2="2727.46" y2="5019.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2430.8" y1="5010.83" x2="2430.8" y2="5019.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2430.8" y1="5001.83" x2="2604.65" y2="5001.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2430.8" y1="5010.83" x2="2430.8" y2="5001.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2430.8" y1="5001.83" x2="2604.65" y2="5001.83" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2430.8" y1="5010.83" x2="2430.8" y2="5001.83" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2365.37" y1="5010.83" x2="2430.8" y2="5010.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2365.37" y1="5000.34" x2="2365.37" y2="5010.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2365.37" y1="4989.84" x2="2594.91" y2="4989.84" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2665,8 +2665,8 @@
             <line x1="2161.81" y1="5029.67" x2="2161.81" y2="4989.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2051.41" y1="5029.67" x2="2161.81" y2="5029.67" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2051.41" y1="4997.76" x2="2051.41" y2="5029.67" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2051.41" y1="4965.85" x2="2712.99" y2="4965.85" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2051.41" y1="4997.76" x2="2051.41" y2="4965.85" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2051.41" y1="4965.85" x2="2712.99" y2="4965.85" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2051.41" y1="4997.76" x2="2051.41" y2="4965.85" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2016.53" y1="4997.76" x2="2051.41" y2="4997.76" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2016.53" y1="4963.06" x2="2016.53" y2="4997.76" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1898.14" y1="4963.06" x2="2016.53" y2="4963.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -2801,8 +2801,8 @@
             <line x1="2216.11" y1="10012.7" x2="2216.11" y2="10003.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2216.12" y1="10015.7" x2="2464.31" y2="10015.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2216.12" y1="10021.7" x2="2216.12" y2="10015.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2216.12" y1="10027.7" x2="2241.34" y2="10027.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2216.12" y1="10021.7" x2="2216.12" y2="10027.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2216.12" y1="10027.7" x2="2241.34" y2="10027.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2216.12" y1="10021.7" x2="2216.12" y2="10027.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2216.11" y1="10021.7" x2="2216.12" y2="10021.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2216.11" y1="10012.7" x2="2216.11" y2="10021.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2207.68" y1="10012.7" x2="2216.11" y2="10012.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -3073,12 +3073,12 @@
             <line x1="2157.38" y1="11060.2" x2="2157.38" y2="11041.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2130.55" y1="11060.2" x2="2157.38" y2="11060.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2130.55" y1="11041.7" x2="2130.55" y2="11060.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2130.55" y1="11023.2" x2="2294.74" y2="11023.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2130.55" y1="11041.7" x2="2130.55" y2="11023.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2130.55" y1="11023.2" x2="2294.74" y2="11023.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2130.55" y1="11041.7" x2="2130.55" y2="11023.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2097.42" y1="11041.7" x2="2130.55" y2="11041.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2097.42" y1="11026.5" x2="2097.42" y2="11041.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2097.42" y1="11011.2" x2="2370.85" y2="11011.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2097.42" y1="11026.5" x2="2097.42" y2="11011.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2097.42" y1="11011.2" x2="2370.85" y2="11011.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2097.42" y1="11026.5" x2="2097.42" y2="11011.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2079.71" y1="11026.5" x2="2097.42" y2="11026.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2079.71" y1="11009.9" x2="2079.71" y2="11026.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2318.84" y1="10987.2" x2="2331.52" y2="10987.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -3397,8 +3397,8 @@
             <line x1="1620.32" y1="9295.23" x2="1620.32" y2="9283.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2155.06" y1="9319.97" x2="2640.49" y2="9319.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2155.06" y1="9325.96" x2="2155.06" y2="9319.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2155.06" y1="9331.96" x2="2344.22" y2="9331.96" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2155.06" y1="9325.96" x2="2155.06" y2="9331.96" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2155.06" y1="9331.96" x2="2344.22" y2="9331.96" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2155.06" y1="9325.96" x2="2155.06" y2="9331.96" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2070.67" y1="9325.96" x2="2155.06" y2="9325.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2070.67" y1="9316.97" x2="2070.67" y2="9325.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2070.67" y1="9307.97" x2="2913.15" y2="9307.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -3465,8 +3465,8 @@
             <line x1="1304.13" y1="9096.09" x2="1304.13" y2="9127.86" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1775.49" y1="9092.06" x2="1941.89" y2="9092.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1775.49" y1="9098.06" x2="1775.49" y2="9092.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1775.49" y1="9104.06" x2="1872.37" y2="9104.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1775.49" y1="9098.06" x2="1775.49" y2="9104.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1775.49" y1="9104.06" x2="1872.37" y2="9104.06" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1775.49" y1="9098.06" x2="1775.49" y2="9104.06" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1723.51" y1="9098.06" x2="1775.49" y2="9098.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1723.51" y1="9089.07" x2="1723.51" y2="9098.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1723.51" y1="9080.07" x2="1886.46" y2="9080.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -3813,8 +3813,8 @@
             <line x1="2612.29" y1="12711.3" x2="2612.29" y2="12726.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2578.97" y1="12711.3" x2="2612.29" y2="12711.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2578.97" y1="12694.9" x2="2578.97" y2="12711.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2578.97" y1="12678.5" x2="2973.55" y2="12678.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2578.97" y1="12694.9" x2="2578.97" y2="12678.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2578.97" y1="12678.5" x2="2973.55" y2="12678.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2578.97" y1="12694.9" x2="2578.97" y2="12678.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2536.24" y1="12694.9" x2="2578.97" y2="12694.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2536.24" y1="12662.3" x2="2536.24" y2="12694.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3043.68" y1="12618.5" x2="3069.32" y2="12618.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -3847,8 +3847,8 @@
             <line x1="2468.42" y1="12607" x2="2468.42" y2="12631.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2453.1" y1="12607" x2="2468.42" y2="12607" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2453.1" y1="12588.8" x2="2453.1" y2="12607" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2453.1" y1="12570.6" x2="2632.85" y2="12570.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2453.1" y1="12588.8" x2="2453.1" y2="12570.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2453.1" y1="12570.6" x2="2632.85" y2="12570.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2453.1" y1="12588.8" x2="2453.1" y2="12570.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2364.22" y1="12588.8" x2="2453.1" y2="12588.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2364.22" y1="12553.8" x2="2364.22" y2="12588.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2254.13" y1="12553.8" x2="2364.22" y2="12553.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -3915,12 +3915,12 @@
             <line x1="2676.59" y1="13023.4" x2="2676.59" y2="13032.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2631.36" y1="13023.4" x2="2676.59" y2="13023.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2631.36" y1="13012.9" x2="2631.36" y2="13023.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2631.36" y1="13002.4" x2="2883.24" y2="13002.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2631.36" y1="13012.9" x2="2631.36" y2="13002.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2631.36" y1="13002.4" x2="2883.24" y2="13002.4" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2631.36" y1="13012.9" x2="2631.36" y2="13002.4" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2533.49" y1="13012.9" x2="2631.36" y2="13012.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2533.49" y1="13001.6" x2="2533.49" y2="13012.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2533.49" y1="12990.4" x2="3817.44" y2="12990.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2533.49" y1="13001.6" x2="2533.49" y2="12990.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2533.49" y1="12990.4" x2="3817.44" y2="12990.4" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2533.49" y1="13001.6" x2="2533.49" y2="12990.4" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2482.22" y1="13001.6" x2="2533.49" y2="13001.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2482.22" y1="12987" x2="2482.22" y2="13001.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2692.62" y1="12966.4" x2="3058.26" y2="12966.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4097,8 +4097,8 @@
             <line x1="1571.34" y1="12257.2" x2="1571.34" y2="12246.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1623.61" y1="12258.7" x2="1929.3" y2="12258.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1623.61" y1="12267.7" x2="1623.61" y2="12258.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1729.41" y1="12270.7" x2="1896.05" y2="12270.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1729.41" y1="12276.7" x2="1729.41" y2="12270.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1729.41" y1="12270.7" x2="1896.05" y2="12270.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1729.41" y1="12276.7" x2="1729.41" y2="12270.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1729.41" y1="12282.7" x2="1971.48" y2="12282.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1729.41" y1="12276.7" x2="1729.41" y2="12282.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1623.61" y1="12276.7" x2="1729.41" y2="12276.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4237,8 +4237,8 @@
             <line x1="1707.48" y1="13738.2" x2="1707.48" y2="13757.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1859.45" y1="13710.1" x2="2270.12" y2="13710.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1859.45" y1="13719.1" x2="1859.45" y2="13710.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1883.73" y1="13722.1" x2="2128.76" y2="13722.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1883.73" y1="13728.1" x2="1883.73" y2="13722.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1883.73" y1="13722.1" x2="2128.76" y2="13722.1" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1883.73" y1="13728.1" x2="1883.73" y2="13722.1" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1883.73" y1="13734.1" x2="2282.42" y2="13734.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1883.73" y1="13728.1" x2="1883.73" y2="13734.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1859.45" y1="13728.1" x2="1883.73" y2="13728.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4285,8 +4285,8 @@
             <line x1="2776.25" y1="13956" x2="2776.25" y2="13962" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2125.32" y1="13956" x2="2776.25" y2="13956" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2125.32" y1="13947" x2="2125.32" y2="13956" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2125.32" y1="13938" x2="2361.11" y2="13938" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2125.32" y1="13947" x2="2125.32" y2="13938" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2125.32" y1="13938" x2="2361.11" y2="13938" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2125.32" y1="13947" x2="2125.32" y2="13938" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2078.2" y1="13947" x2="2125.32" y2="13947" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2078.2" y1="13968.5" x2="2078.2" y2="13947" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1986.77" y1="13968.5" x2="2078.2" y2="13968.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4311,8 +4311,8 @@
             <line x1="1866.39" y1="14188.4" x2="1866.39" y2="14177.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1866.38" y1="14188.4" x2="1866.39" y2="14188.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1866.38" y1="14174.1" x2="1866.38" y2="14188.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1919.02" y1="14153.9" x2="2042.57" y2="14153.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1919.02" y1="14159.9" x2="1919.02" y2="14153.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1919.02" y1="14153.9" x2="2042.57" y2="14153.9" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1919.02" y1="14159.9" x2="1919.02" y2="14153.9" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1919.02" y1="14165.9" x2="1942.47" y2="14165.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1919.02" y1="14159.9" x2="1919.02" y2="14165.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1866.38" y1="14159.9" x2="1919.02" y2="14159.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4393,8 +4393,8 @@
             <line x1="2054.52" y1="14483.7" x2="2054.52" y2="14489.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2044.61" y1="14483.7" x2="2054.52" y2="14483.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2044.61" y1="14474.7" x2="2044.61" y2="14483.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2044.61" y1="14465.7" x2="2194.36" y2="14465.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2044.61" y1="14474.7" x2="2044.61" y2="14465.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2044.61" y1="14465.7" x2="2194.36" y2="14465.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2044.61" y1="14474.7" x2="2044.61" y2="14465.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1769.8" y1="14474.7" x2="2044.61" y2="14474.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1769.8" y1="14464.2" x2="1769.8" y2="14474.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1769.8" y1="14453.7" x2="1821.95" y2="14453.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4407,10 +4407,10 @@
             <line x1="1706.65" y1="14441.4" x2="1706.65" y2="14453" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1695.64" y1="14441.4" x2="1706.65" y2="14441.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1695.64" y1="14511.7" x2="1695.64" y2="14441.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1704.37" y1="14501.7" x2="1894.42" y2="14501.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1704.37" y1="14507.7" x2="1704.37" y2="14501.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1704.37" y1="14513.7" x2="2346.61" y2="14513.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1704.37" y1="14507.7" x2="1704.37" y2="14513.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1704.37" y1="14501.7" x2="1894.42" y2="14501.7" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1704.37" y1="14507.7" x2="1704.37" y2="14501.7" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1704.37" y1="14513.7" x2="2346.61" y2="14513.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1704.37" y1="14507.7" x2="1704.37" y2="14513.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1704.36" y1="14507.7" x2="1704.37" y2="14507.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1704.36" y1="14582" x2="1704.36" y2="14507.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2115" y1="14837.6" x2="2197.06" y2="14837.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4421,8 +4421,8 @@
             <line x1="1842.53" y1="14865.1" x2="1842.53" y2="14843.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1930.38" y1="14861.6" x2="2470.1" y2="14861.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1930.38" y1="14867.6" x2="1930.38" y2="14861.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1930.38" y1="14873.6" x2="2528.17" y2="14873.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1930.38" y1="14867.6" x2="1930.38" y2="14873.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1930.38" y1="14873.6" x2="2528.17" y2="14873.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1930.38" y1="14867.6" x2="1930.38" y2="14873.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1873.69" y1="14867.6" x2="1930.38" y2="14867.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1873.69" y1="14886.7" x2="1873.69" y2="14867.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2442.48" y1="14933.5" x2="2499.44" y2="14933.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4487,8 +4487,8 @@
             <line x1="2563.5" y1="14752.1" x2="2563.5" y2="14741.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1896.63" y1="14752.1" x2="2563.5" y2="14752.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1896.63" y1="14740.9" x2="1896.63" y2="14752.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1896.63" y1="14729.6" x2="2507.12" y2="14729.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1896.63" y1="14740.9" x2="1896.63" y2="14729.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1896.63" y1="14729.6" x2="2507.12" y2="14729.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1896.63" y1="14740.9" x2="1896.63" y2="14729.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1777.38" y1="14740.9" x2="1896.63" y2="14740.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1777.38" y1="14726.2" x2="1777.38" y2="14740.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1737.74" y1="14726.2" x2="1777.38" y2="14726.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4501,12 +4501,12 @@
             <line x1="2021.26" y1="14559.2" x2="2021.26" y2="14537.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2056.5" y1="14549.7" x2="2081.21" y2="14549.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2056.5" y1="14580.6" x2="2056.5" y2="14549.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2102.41" y1="14561.7" x2="2255.8" y2="14561.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2102.41" y1="14576.7" x2="2102.41" y2="14561.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2132.64" y1="14573.7" x2="2234.92" y2="14573.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2132.64" y1="14579.7" x2="2132.64" y2="14573.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2132.64" y1="14585.7" x2="2271.31" y2="14585.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2132.64" y1="14579.7" x2="2132.64" y2="14585.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2102.41" y1="14561.7" x2="2255.8" y2="14561.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2102.41" y1="14576.7" x2="2102.41" y2="14561.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2132.64" y1="14573.7" x2="2234.92" y2="14573.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2132.64" y1="14579.7" x2="2132.64" y2="14573.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2132.64" y1="14585.7" x2="2271.31" y2="14585.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2132.64" y1="14579.7" x2="2132.64" y2="14585.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2118.68" y1="14579.7" x2="2132.64" y2="14579.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2118.68" y1="14591.7" x2="2118.68" y2="14579.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2169.18" y1="14597.7" x2="2279.26" y2="14597.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4539,8 +4539,8 @@
             <line x1="2116.06" y1="14646.4" x2="2116.06" y2="14665.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2145.36" y1="14621.7" x2="2499.93" y2="14621.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2145.36" y1="14627.7" x2="2145.36" y2="14621.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2145.36" y1="14633.7" x2="2254.63" y2="14633.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2145.36" y1="14627.7" x2="2145.36" y2="14633.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2145.36" y1="14633.7" x2="2254.63" y2="14633.7" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2145.36" y1="14627.7" x2="2145.36" y2="14633.7" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2116.06" y1="14627.7" x2="2145.36" y2="14627.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2116.06" y1="14646.4" x2="2116.06" y2="14627.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2087.11" y1="14646.4" x2="2116.06" y2="14646.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4559,8 +4559,8 @@
             <line x1="1695.64" y1="14511.7" x2="1695.64" y2="14582" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1686.61" y1="14511.7" x2="1695.64" y2="14511.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1686.61" y1="14464.7" x2="1686.61" y2="14511.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1686.61" y1="14417.8" x2="1848.58" y2="14417.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1686.61" y1="14464.7" x2="1686.61" y2="14417.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1686.61" y1="14417.8" x2="1848.58" y2="14417.8" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1686.61" y1="14464.7" x2="1686.61" y2="14417.8" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1686.6" y1="14464.7" x2="1686.61" y2="14464.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1686.6" y1="14400.3" x2="1686.6" y2="14464.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1813.17" y1="14321.8" x2="2266.06" y2="14321.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4655,8 +4655,8 @@
             <line x1="1561.85" y1="13665.5" x2="1561.85" y2="13521.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1529.13" y1="13665.5" x2="1561.85" y2="13665.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1529.13" y1="13573.9" x2="1529.13" y2="13665.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1529.13" y1="13482.2" x2="2418.6" y2="13482.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1529.13" y1="13573.9" x2="1529.13" y2="13482.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1529.13" y1="13482.2" x2="2418.6" y2="13482.2" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1529.13" y1="13573.9" x2="1529.13" y2="13482.2" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1508.6" y1="13573.9" x2="1529.13" y2="13573.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1508.6" y1="13522" x2="1508.6" y2="13573.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1508.6" y1="13470.2" x2="1821.75" y2="13470.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -4779,8 +4779,8 @@
             <line x1="1477.6" y1="15671.2" x2="1477.6" y2="15677.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1287.96" y1="15671.2" x2="1477.6" y2="15671.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1287.96" y1="15662.2" x2="1287.96" y2="15671.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1287.96" y1="15653.2" x2="1467.14" y2="15653.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1287.96" y1="15662.2" x2="1287.96" y2="15653.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1287.96" y1="15653.2" x2="1467.14" y2="15653.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1287.96" y1="15662.2" x2="1287.96" y2="15653.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1244.69" y1="15662.2" x2="1287.96" y2="15662.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1244.69" y1="15648.7" x2="1244.69" y2="15662.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1455.16" y1="15629.2" x2="1558.62" y2="15629.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5013,8 +5013,8 @@
             <line x1="3926.96" y1="17113.6" x2="3926.96" y2="17104.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3976.38" y1="17116.6" x2="4345.56" y2="17116.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3976.38" y1="17122.6" x2="3976.38" y2="17116.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3976.38" y1="17128.6" x2="4068.56" y2="17128.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3976.38" y1="17122.6" x2="3976.38" y2="17128.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3976.38" y1="17128.6" x2="4068.56" y2="17128.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3976.38" y1="17122.6" x2="3976.38" y2="17128.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3926.96" y1="17122.6" x2="3976.38" y2="17122.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3926.96" y1="17113.6" x2="3926.96" y2="17122.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3878.92" y1="17113.6" x2="3926.96" y2="17113.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5177,8 +5177,8 @@
             <line x1="7124.48" y1="17893.3" x2="7124.48" y2="17884.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="7066.13" y1="17893.3" x2="7124.48" y2="17893.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="7066.13" y1="17882.8" x2="7066.13" y2="17893.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="7066.13" y1="17872.3" x2="7066.14" y2="17872.3" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="7066.13" y1="17882.8" x2="7066.13" y2="17872.3" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="7066.13" y1="17872.3" x2="7066.14" y2="17872.3" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="7066.13" y1="17882.8" x2="7066.13" y2="17872.3" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="7052.32" y1="17882.8" x2="7066.13" y2="17882.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="7052.32" y1="17871.5" x2="7052.32" y2="17882.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="5731.8" y1="17871.5" x2="7052.32" y2="17871.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5685,8 +5685,8 @@
             <line x1="3263.2" y1="17342.2" x2="3263.2" y2="17358" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3353.03" y1="17320.5" x2="3996.73" y2="17320.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3353.03" y1="17326.5" x2="3353.03" y2="17320.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3353.03" y1="17332.5" x2="3905.95" y2="17332.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3353.03" y1="17326.5" x2="3353.03" y2="17332.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3353.03" y1="17332.5" x2="3905.95" y2="17332.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3353.03" y1="17326.5" x2="3353.03" y2="17332.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3263.2" y1="17326.5" x2="3353.03" y2="17326.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3263.2" y1="17342.2" x2="3263.2" y2="17326.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3146.08" y1="17342.2" x2="3263.2" y2="17342.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5749,8 +5749,8 @@
             <line x1="2710.37" y1="17130.9" x2="2710.37" y2="16941" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2657.09" y1="17130.9" x2="2710.37" y2="17130.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2657.09" y1="17015.8" x2="2657.09" y2="17130.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2657.09" y1="16900.7" x2="4826.34" y2="16900.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2657.09" y1="17015.8" x2="2657.09" y2="16900.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2657.09" y1="16900.7" x2="4826.34" y2="16900.7" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2657.09" y1="17015.8" x2="2657.09" y2="16900.7" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2639.33" y1="17015.8" x2="2657.09" y2="17015.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2639.33" y1="16842.9" x2="2639.33" y2="17015.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2856.73" y1="16540.8" x2="3146.05" y2="16540.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5795,8 +5795,8 @@
             <line x1="3427.03" y1="16597.8" x2="3427.03" y2="16606.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3333.8" y1="16597.8" x2="3427.03" y2="16597.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3333.8" y1="16587.3" x2="3333.8" y2="16597.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3333.8" y1="16576.8" x2="3953.68" y2="16576.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3333.8" y1="16587.3" x2="3333.8" y2="16576.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3333.8" y1="16576.8" x2="3953.68" y2="16576.8" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3333.8" y1="16587.3" x2="3333.8" y2="16576.8" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3301.81" y1="16587.3" x2="3333.8" y2="16587.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3301.81" y1="16576.1" x2="3301.81" y2="16587.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3231.64" y1="16576.1" x2="3301.81" y2="16576.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5813,8 +5813,8 @@
             <line x1="3861.57" y1="16726.8" x2="3861.57" y2="16732.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3816.37" y1="16726.8" x2="3861.57" y2="16726.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3816.37" y1="16741" x2="3816.37" y2="16726.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="3892.07" y1="16756.7" x2="4075.45" y2="16756.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="3892.07" y1="16765.7" x2="3892.07" y2="16756.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="3892.07" y1="16756.7" x2="4075.45" y2="16756.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="3892.07" y1="16765.7" x2="3892.07" y2="16756.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3943.9" y1="16768.7" x2="4202.35" y2="16768.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="3943.9" y1="16774.7" x2="3943.9" y2="16768.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3943.9" y1="16780.7" x2="4198.08" y2="16780.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -5875,8 +5875,8 @@
             <line x1="2547.47" y1="16656.8" x2="2547.47" y2="16842.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2730.44" y1="16456.9" x2="3477.44" y2="16456.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2730.44" y1="16470.7" x2="2730.44" y2="16456.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="5004.64" y1="16468.9" x2="5025.84" y2="16468.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="5004.64" y1="16484.6" x2="5004.64" y2="16468.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="5004.64" y1="16468.9" x2="5025.84" y2="16468.9" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="5004.64" y1="16484.6" x2="5004.64" y2="16468.9" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="5283" y1="16480.9" x2="5308.97" y2="16480.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="5283" y1="16486.9" x2="5283" y2="16480.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="5283" y1="16492.9" x2="5299.63" y2="16492.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -6041,8 +6041,8 @@
             <line x1="1882.67" y1="22176.9" x2="1882.67" y2="22166.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1897.08" y1="22178.4" x2="2188.62" y2="22178.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1897.08" y1="22187.4" x2="1897.08" y2="22178.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1912.11" y1="22190.4" x2="1912.11" y2="22190.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1912.11" y1="22196.4" x2="1912.11" y2="22190.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1912.11" y1="22190.4" x2="1912.11" y2="22190.4" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1912.11" y1="22196.4" x2="1912.11" y2="22190.4" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1912.11" y1="22202.4" x2="1912.11" y2="22202.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1912.11" y1="22196.4" x2="1912.11" y2="22202.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1897.08" y1="22196.4" x2="1912.11" y2="22196.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -6631,8 +6631,8 @@
             <line x1="1472.8" y1="22727.3" x2="1472.8" y2="22797.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1331.56" y1="22727.3" x2="1472.8" y2="22727.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1331.56" y1="22680.8" x2="1331.56" y2="22727.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1331.56" y1="22634.2" x2="1541.24" y2="22634.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1331.56" y1="22680.8" x2="1331.56" y2="22634.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1331.56" y1="22634.2" x2="1541.24" y2="22634.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1331.56" y1="22680.8" x2="1331.56" y2="22634.2" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1316.66" y1="22680.8" x2="1331.56" y2="22680.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1316.66" y1="22648.5" x2="1316.66" y2="22680.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1264.59" y1="22648.5" x2="1316.66" y2="22648.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -7869,8 +7869,8 @@
             <line x1="2291.66" y1="21752.6" x2="2291.66" y2="21758.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1156.31" y1="21752.6" x2="2291.66" y2="21752.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1156.31" y1="21743.6" x2="1156.31" y2="21752.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1156.31" y1="21734.6" x2="1645.66" y2="21734.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1156.31" y1="21743.6" x2="1156.31" y2="21734.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1156.31" y1="21734.6" x2="1645.66" y2="21734.6" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1156.31" y1="21743.6" x2="1156.31" y2="21734.6" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1103.48" y1="21743.6" x2="1156.31" y2="21743.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1103.48" y1="21761.6" x2="1103.48" y2="21743.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1402.74" y1="21770.6" x2="1821.03" y2="21770.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -7885,12 +7885,12 @@
             <line x1="1103.48" y1="21761.6" x2="1103.48" y2="21779.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1023.74" y1="21761.6" x2="1103.48" y2="21761.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1023.74" y1="21811" x2="1023.74" y2="21761.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1428.11" y1="21842.5" x2="1469.3" y2="21842.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1428.11" y1="21851.5" x2="1428.11" y2="21842.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1428.11" y1="21842.5" x2="1469.3" y2="21842.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1428.11" y1="21851.5" x2="1428.11" y2="21842.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1442.69" y1="21854.5" x2="1570.42" y2="21854.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1442.69" y1="21860.5" x2="1442.69" y2="21854.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1442.69" y1="21866.5" x2="1621.95" y2="21866.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1442.69" y1="21860.5" x2="1442.69" y2="21866.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1442.69" y1="21866.5" x2="1621.95" y2="21866.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1442.69" y1="21860.5" x2="1442.69" y2="21866.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1428.11" y1="21860.5" x2="1442.69" y2="21860.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1428.11" y1="21851.5" x2="1428.11" y2="21860.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1146.06" y1="21851.5" x2="1428.11" y2="21851.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -7903,12 +7903,12 @@
             <line x1="1146.06" y1="21838" x2="1146.06" y2="21824.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1121.09" y1="21838" x2="1146.06" y2="21838" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1121.09" y1="21822.3" x2="1121.09" y2="21838" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1121.09" y1="21806.6" x2="2358.2" y2="21806.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1121.09" y1="21822.3" x2="1121.09" y2="21806.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1121.09" y1="21806.6" x2="2358.2" y2="21806.6" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1121.09" y1="21822.3" x2="1121.09" y2="21806.6" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1064" y1="21822.3" x2="1121.09" y2="21822.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1064" y1="21860.4" x2="1064" y2="21822.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1264.46" y1="21890.5" x2="1686.2" y2="21890.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1264.46" y1="21899.5" x2="1264.46" y2="21890.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1264.46" y1="21890.5" x2="1686.2" y2="21890.5" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1264.46" y1="21899.5" x2="1264.46" y2="21890.5" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2507.85" y1="21902.5" x2="2575.74" y2="21902.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2507.85" y1="21908.5" x2="2507.85" y2="21902.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2507.85" y1="21914.5" x2="2507.85" y2="21914.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -7921,8 +7921,8 @@
             <line x1="1616.99" y1="21937.8" x2="1616.99" y2="21926.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1679.89" y1="21938.5" x2="1997.48" y2="21938.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1679.89" y1="21949" x2="1679.89" y2="21938.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1691.15" y1="21950.5" x2="1809.73" y2="21950.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1691.15" y1="21959.5" x2="1691.15" y2="21950.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1691.15" y1="21950.5" x2="1809.73" y2="21950.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1691.15" y1="21959.5" x2="1691.15" y2="21950.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1727.21" y1="21962.5" x2="1794.96" y2="21962.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1727.21" y1="21968.5" x2="1727.21" y2="21962.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1727.21" y1="21974.5" x2="1788.54" y2="21974.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -7951,8 +7951,8 @@
             <line x1="992.932" y1="20754.8" x2="992.932" y2="20739" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1184.16" y1="20751" x2="2006.6" y2="20751" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1184.16" y1="20757" x2="1184.16" y2="20751" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1184.16" y1="20763" x2="1799.05" y2="20763" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1184.16" y1="20757" x2="1184.16" y2="20763" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1184.16" y1="20763" x2="1799.05" y2="20763" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1184.16" y1="20757" x2="1184.16" y2="20763" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1035.75" y1="20757" x2="1184.16" y2="20757" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1035.75" y1="20770.5" x2="1035.75" y2="20757" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1093.68" y1="20775" x2="1471.19" y2="20775" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -8009,10 +8009,10 @@
             <line x1="982.626" y1="20805.6" x2="982.626" y2="20856.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="940.058" y1="20805.6" x2="982.626" y2="20805.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="940.058" y1="20917.9" x2="940.058" y2="20805.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1073.88" y1="20930.9" x2="1783.64" y2="20930.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1073.88" y1="20942.6" x2="1073.88" y2="20930.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1233.63" y1="20942.9" x2="1663.98" y2="20942.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1233.63" y1="20954.2" x2="1233.63" y2="20942.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1073.88" y1="20930.9" x2="1783.64" y2="20930.9" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1073.88" y1="20942.6" x2="1073.88" y2="20930.9" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1233.63" y1="20942.9" x2="1663.98" y2="20942.9" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1233.63" y1="20954.2" x2="1233.63" y2="20942.9" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1435.29" y1="20966.9" x2="1494.44" y2="20966.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1435.29" y1="20975.9" x2="1435.29" y2="20966.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1511.33" y1="20978.9" x2="1614.88" y2="20978.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -8145,8 +8145,8 @@
             <line x1="1552.12" y1="21471.8" x2="1552.12" y2="21490.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1430.08" y1="21471.8" x2="1552.12" y2="21471.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1430.08" y1="21533.7" x2="1430.08" y2="21471.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1745.12" y1="21650.6" x2="3043.63" y2="21650.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1745.12" y1="21670.1" x2="1745.12" y2="21650.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1745.12" y1="21650.6" x2="3043.63" y2="21650.6" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1745.12" y1="21670.1" x2="1745.12" y2="21650.6" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1946.68" y1="21662.6" x2="2086.49" y2="21662.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1946.68" y1="21671.6" x2="1946.68" y2="21662.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2212.1" y1="21674.6" x2="2339.21" y2="21674.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -8157,12 +8157,12 @@
             <line x1="1946.68" y1="21671.6" x2="1946.68" y2="21680.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1823.77" y1="21671.6" x2="1946.68" y2="21671.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1823.77" y1="21689.6" x2="1823.77" y2="21671.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2262.32" y1="21698.6" x2="2401.01" y2="21698.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2262.32" y1="21707.6" x2="2262.32" y2="21698.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2364.9" y1="21710.6" x2="2590" y2="21710.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2364.9" y1="21716.6" x2="2364.9" y2="21710.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="2364.9" y1="21722.6" x2="2630.74" y2="21722.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="2364.9" y1="21716.6" x2="2364.9" y2="21722.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2262.32" y1="21698.6" x2="2401.01" y2="21698.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2262.32" y1="21707.6" x2="2262.32" y2="21698.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2364.9" y1="21710.6" x2="2590" y2="21710.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2364.9" y1="21716.6" x2="2364.9" y2="21710.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="2364.9" y1="21722.6" x2="2630.74" y2="21722.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="2364.9" y1="21716.6" x2="2364.9" y2="21722.6" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2262.32" y1="21716.6" x2="2364.9" y2="21716.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="2262.32" y1="21707.6" x2="2262.32" y2="21716.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1823.77" y1="21707.6" x2="2262.32" y2="21707.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -8191,18 +8191,18 @@
             <line x1="1575.75" y1="21637.9" x2="1575.75" y2="21605.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1552.78" y1="21637.9" x2="1575.75" y2="21637.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1552.78" y1="21595.5" x2="1552.78" y2="21637.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1618.7" y1="21554.7" x2="2050.43" y2="21554.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1618.7" y1="21563.7" x2="1618.7" y2="21554.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1618.7" y1="21554.7" x2="2050.43" y2="21554.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1618.7" y1="21563.7" x2="1618.7" y2="21554.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1641.82" y1="21566.7" x2="1726.04" y2="21566.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1641.82" y1="21572.7" x2="1641.82" y2="21566.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1641.82" y1="21578.7" x2="1979.49" y2="21578.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1641.82" y1="21572.7" x2="1641.82" y2="21578.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1641.82" y1="21578.7" x2="1979.49" y2="21578.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1641.82" y1="21572.7" x2="1641.82" y2="21578.7" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1618.7" y1="21572.7" x2="1641.82" y2="21572.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1618.7" y1="21563.7" x2="1618.7" y2="21572.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1608.35" y1="21563.7" x2="1618.7" y2="21563.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1608.35" y1="21553.2" x2="1608.35" y2="21563.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1608.35" y1="21542.7" x2="1767.35" y2="21542.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1608.35" y1="21553.2" x2="1608.35" y2="21542.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1608.35" y1="21542.7" x2="1767.35" y2="21542.7" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1608.35" y1="21553.2" x2="1608.35" y2="21542.7" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1552.78" y1="21553.2" x2="1608.35" y2="21553.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1552.78" y1="21595.5" x2="1552.78" y2="21553.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1430.08" y1="21595.5" x2="1552.78" y2="21595.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -8419,8 +8419,8 @@
             <line x1="1544.58" y1="19992.3" x2="1544.58" y2="20001.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1391.98" y1="19992.3" x2="1544.58" y2="19992.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1391.98" y1="20011.5" x2="1391.98" y2="19992.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1409.23" y1="20019.3" x2="1527.51" y2="20019.3" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1409.23" y1="20030.6" x2="1409.23" y2="20019.3" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1409.23" y1="20019.3" x2="1527.51" y2="20019.3" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1409.23" y1="20030.6" x2="1409.23" y2="20019.3" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1624.49" y1="20043.3" x2="1672.1" y2="20043.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1624.49" y1="20052.3" x2="1624.49" y2="20043.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1635.73" y1="20055.3" x2="1797.32" y2="20055.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -8697,12 +8697,12 @@
             <line x1="1024.98" y1="19652.1" x2="1024.98" y2="19617.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1237.41" y1="19635.5" x2="1561.26" y2="19635.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1237.41" y1="19641.5" x2="1237.41" y2="19635.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1237.41" y1="19647.5" x2="1254.13" y2="19647.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1237.41" y1="19641.5" x2="1237.41" y2="19647.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1237.41" y1="19647.5" x2="1254.13" y2="19647.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1237.41" y1="19641.5" x2="1237.41" y2="19647.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1180.81" y1="19641.5" x2="1237.41" y2="19641.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1180.81" y1="19655" x2="1180.81" y2="19641.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1241.26" y1="19659.5" x2="1368.49" y2="19659.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1241.26" y1="19668.5" x2="1241.26" y2="19659.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1241.26" y1="19659.5" x2="1368.49" y2="19659.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1241.26" y1="19668.5" x2="1241.26" y2="19659.5" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1294.82" y1="19671.5" x2="1620.61" y2="19671.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1294.82" y1="19677.5" x2="1294.82" y2="19671.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1294.82" y1="19683.5" x2="1346.39" y2="19683.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -9121,8 +9121,8 @@
             <line x1="1835.95" y1="674.005" x2="1835.95" y2="688.296" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1725.81" y1="674.005" x2="1835.95" y2="674.005" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1725.81" y1="660.862" x2="1725.81" y2="674.005" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1725.81" y1="647.72" x2="4966.56" y2="647.72" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1725.81" y1="660.862" x2="1725.81" y2="647.72" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1725.81" y1="647.72" x2="4966.56" y2="647.72" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1725.81" y1="660.862" x2="1725.81" y2="647.72" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1520.55" y1="660.862" x2="1725.81" y2="660.862" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1520.55" y1="645.295" x2="1520.55" y2="660.862" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="2293.38" y1="623.73" x2="3079.04" y2="623.73" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -9159,8 +9159,8 @@
             <line x1="2086.62" y1="553.635" x2="2086.62" y2="539.766" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1971.21" y1="553.635" x2="2086.62" y2="553.635" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1971.21" y1="540.703" x2="1971.21" y2="553.635" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="1971.21" y1="527.772" x2="6154.34" y2="527.772" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="1971.21" y1="540.703" x2="1971.21" y2="527.772" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="1971.21" y1="527.772" x2="6154.34" y2="527.772" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="1971.21" y1="540.703" x2="1971.21" y2="527.772" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="1793.95" y1="540.703" x2="1971.21" y2="540.703" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="1793.95" y1="525.241" x2="1793.95" y2="540.703" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="3108.01" y1="503.782" x2="3915.4" y2="503.782" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -9203,8 +9203,8 @@
             <line x1="376.215" y1="608.057" x2="376.215" y2="1095.42" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="353.669" y1="608.057" x2="376.215" y2="608.057" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="353.669" y1="340.013" x2="353.669" y2="608.057" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
-            <line x1="353.669" y1="71.9688" x2="1709.42" y2="71.9688" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
-            <line x1="353.669" y1="340.013" x2="353.669" y2="71.9688" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
+            <line x1="353.669" y1="71.9688" x2="1709.42" y2="71.9688" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
+            <line x1="353.669" y1="340.013" x2="353.669" y2="71.9688" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="280.476" y1="340.013" x2="353.669" y2="340.013" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
             <line x1="280.476" y1="199.994" x2="280.476" y2="340.013" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="square" />
             <line x1="245.017" y1="199.994" x2="280.476" y2="199.994" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="butt" />
@@ -11555,23 +11555,23 @@
             <text x="0" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1" alignment-baseline="middle" transform="translate( 1562.1, 107.953 )">Eukaryota_Amoebozoa_Schizoplasmodiida_Phalansterium@FPLS01058912_1588_bp</text>
             <text x="0" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1" alignment-baseline="middle" transform="translate( 793.073, 59.974 )">Eukaryota_Amoebozoa_Incertae_Sedis_Ischnamoeba_Lobosea@AB425950_1588_bp</text>
         </g>
-        <g transform="translate( 13860, 6929.1 )">
+        <g transform="translate( 16632, 13858.2 )">
             <rect x="0" y="10393.7" width="1385.82" height="3464.55" stroke="none" fill="#00000c" fill-opacity="1" />
             <rect x="0" y="6929.1" width="1385.82" height="3464.55" stroke="none" fill="#87216b" fill-opacity="1" />
             <rect x="0" y="3464.55" width="1385.82" height="3464.55" stroke="none" fill="#c83e4f" fill-opacity="1" />
             <rect x="0" y="0" width="1385.82" height="3464.55" stroke="none" fill="#ffa02f" fill-opacity="1" />
             <rect x="0" y="0" width="1385.82" height="13858.2" stroke="#000000" stroke-opacity="1" stroke-width="1" fill="none" />
-            <text x="1455.11" y="13858.2" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0</text>
+            <text x="1455.11" y="13858.2" font-size="461.94" font-family="Verdana" fill="#000000" fill-opacity="1">0</text>
             <line x1="0" y1="10393.7" x2="207.873" y2="10393.7" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="1177.95" y1="10393.7" x2="1385.82" y2="10393.7" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="1455.11" y="10393.7" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.105463</text>
+            <text x="1455.11" y="10393.7" font-size="461.94" font-family="Verdana" fill="#000000" fill-opacity="1">0.0125</text>
             <line x1="0" y1="6929.1" x2="207.873" y2="6929.1" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="1177.95" y1="6929.1" x2="1385.82" y2="6929.1" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="1455.11" y="6929.1" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.210925</text>
+            <text x="1455.11" y="6929.1" font-size="461.94" font-family="Verdana" fill="#000000" fill-opacity="1">0.025</text>
             <line x1="0" y1="3464.55" x2="207.873" y2="3464.55" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="1177.95" y1="3464.55" x2="1385.82" y2="3464.55" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="1455.11" y="3464.55" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.316388</text>
-            <text x="1455.11" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.42185</text>
+            <text x="1455.11" y="3464.55" font-size="461.94" font-family="Verdana" fill="#000000" fill-opacity="1">0.0375</text>
+            <text x="1455.11" y="0" font-size="461.94" font-family="Verdana" fill="#000000" fill-opacity="1">≥ 0.05</text>
         </g>
     </g>
 </svg>
