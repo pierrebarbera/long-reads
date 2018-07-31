@@ -131,6 +131,14 @@ int main( int argc, char** argv )
     HistogramAccumulator hist_acc_wd_bu;
     HistogramAccumulator hist_acc_wd_pl;
 
+    // Also do the same with actual lists of dobules,
+    // for more precision, so that they can be plotted properly later on.
+    std::vector<double> list_lwr_max;
+    std::vector<double> list_lwr_placed;
+    std::vector<double> list_edpl;
+    std::vector<double> list_wd_bu;
+    std::vector<double> list_wd_pl;
+
     // -------------------------------------------------------------------------
     //     Main Loop
     // -------------------------------------------------------------------------
@@ -298,6 +306,13 @@ int main( int argc, char** argv )
         hist_acc_edpl.increment( edpls[ qi ] );
         hist_acc_wd_bu.increment( weighted_bu_dist );
         hist_acc_wd_pl.increment( weighted_pl_dist );
+
+        // accumulate lists
+        list_lwr_max.push_back( pquery.placement_at(0).like_weight_ratio );
+        list_lwr_placed.push_back( lwr );
+        list_edpl.push_back( edpls[ qi ] );
+        list_wd_bu.push_back( weighted_bu_dist );
+        list_wd_pl.push_back( weighted_pl_dist );
     }
 
     // -------------------------------------------------------------------------
@@ -411,11 +426,29 @@ int main( int argc, char** argv )
         hists_of << "\n\n";
     };
 
+    // Print histograms
     print_hist( "hist_lwr_max", hist_lwr_max );
     print_hist( "hist_lwr_placed", hist_lwr_placed );
     print_hist( "hist_edpl", hist_edpl );
     print_hist( "hist_wd_bu", hist_wd_bu );
     print_hist( "hist_wd_pl", hist_wd_pl );
+
+    auto print_list = [&]( std::vector<double>& list, std::string const& fn ){
+        std::ofstream list_of;
+        file_output_stream( outdir + fn, list_of );
+        std::sort( list.begin(), list.end() );
+
+        for( auto e : list ) {
+            list_of << e << "\n";
+        }
+    };
+
+    // Print lists
+    print_list( list_lwr_max, "list_lwr_max.txt" );
+    print_list( list_lwr_placed, "list_lwr_placed.txt" );
+    print_list( list_edpl, "list_edpl.txt" );
+    print_list( list_wd_bu, "list_wd_bu.txt" );
+    print_list( list_wd_pl, "list_wd_pl.txt" );
 
     LOG_INFO << "Finished";
     return 0;
