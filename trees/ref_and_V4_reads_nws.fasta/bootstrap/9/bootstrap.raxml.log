@@ -1,0 +1,220 @@
+
+RAxML-NG v. 0.6.0.dev BETA released on 15.06.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+raxml-ng --bootstrap --bs-trees 20 --msa data/ref_and_V4_reads_nws.fasta --model GTR+G --prefix /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap --threads 8
+
+Analysis options:
+  run mode: Bootstrapping
+  start tree(s): 
+  bootstrap replicates: 20
+  random seed: 1531536849
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: PTHREADS (8 threads)
+
+[00:00:00] Reading alignment from file: data/ref_and_V4_reads_nws.fasta
+[00:00:00] Loaded alignment with 2311 taxa and 1588 sites
+
+WARNING: Duplicate sequences found: 31
+WARNING: Sequences Eukaryota_Archaeplastida_Chloroplastida_Chlorophyta_Trebouxiophyceae_Coccomyxa_simplex@HG972989_1588_bp and Eukaryota_Archaeplastida_Chloroplastida_Chlorophyta_Trebouxiophyceae_Coccomyxa_simplex@FN298926_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Archaeplastida_Chloroplastida_Chlorophyta_Chlorophyceae_Chlorosarcinopsis@HQ246305_1588_bp and Eukaryota_Archaeplastida_Chloroplastida_Chlorophyta_Chlorophyceae_Chlorosarcinopsis@HQ246304_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Archaeplastida_Chloroplastida_Charophyta_Phragmoplastophyta_Streptophyta_Embryophyta_Tracheophyta_Spermatophyta_Magnoliophyta_Asterales_Diplostephium_jenesanum@KX064033_1588_bp and Eukaryota_Archaeplastida_Chloroplastida_Charophyta_Phragmoplastophyta_Streptophyta_Embryophyta_Tracheophyta_Spermatophyta_Magnoliophyta_Asterales_Diplostephium_rupestre@KX063977_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Archaeplastida_Chloroplastida_Charophyta_Phragmoplastophyta_Streptophyta_Embryophyta_Tracheophyta_Spermatophyta_Magnoliophyta_Asterales_Diplostephium_jenesanum@KX064033_1588_bp and Eukaryota_Archaeplastida_Chloroplastida_Charophyta_Phragmoplastophyta_Streptophyta_Embryophyta_Tracheophyta_Spermatophyta_Magnoliophyta_Asterales_Diplostephium_oblongifolium@KX063984_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Archaeplastida_Chloroplastida_Charophyta_Phragmoplastophyta_Streptophyta_Embryophyta_Tracheophyta_Spermatophyta_Magnoliophyta_Malpighiales_Hirtella_physophora@KJ414478_1588_bp and Eukaryota_Archaeplastida_Chloroplastida_Charophyta_Phragmoplastophyta_Streptophyta_Embryophyta_Tracheophyta_Spermatophyta_Magnoliophyta_Malpighiales_Hirtella_racemosa@KJ414472_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Tremellales_Cuniculitremaceae_Kockovaella_lichenicola@AB032661_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Tremellales_Cuniculitremaceae_Kockovaella_litseae@AB042218_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Trichosporonales_Trichosporonaceae_Apiotrichum_dulcitum@AB001755_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Trichosporonales_Trichosporonaceae_Apiotrichum_dulcitum@JN939419_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Filobasidiales_Piskurozymaceae_Solicoccozyma_terreus@AB032647_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Filobasidiales_Piskurozymaceae_Solicoccozyma_aeria@AB032614_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Filobasidiales_Piskurozymaceae_Solicoccozyma_terreus@AB032647_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Filobasidiales_Piskurozymaceae_Solicoccozyma_fuscescens@AB032631_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Agaricomycetes_Thelephorales@EF023538_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Agaricomycetes_Thelephorales@EF023524_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Agaricomycetes_Sebacinales_Sebacinaceae@EF023308_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_AgaricomycetesSebacinales_Sebacinaceae@EF023231_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Cystofilobasidiales_Cystofilobasidiaceae_Cystofilobasidium_macerans@AB032642_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Cystofilobasidiales_Cystofilobasidiaceae_Cystofilobasidium_bisporidii@AB072225_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Cystofilobasidiales_Cystofilobasidiaceae_Cystofilobasidium_macerans@AB032642_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Cystofilobasidiales_Cystofilobasidiaceae_Cystofilobasidium_infirmominiatum@AB072226_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Cystofilobasidiales_Cystofilobasidiaceae_Cystofilobasidium_macerans@AB032642_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Basidiomycota_Agaricomycotina_Tremellomycetes_Cystofilobasidiales_Cystofilobasidiaceae_Cystofilobasidium_ferigula@AB032628_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Dothideomycetes_Capnodiales_Cladosporiaceae_Cladosporium_herbarum@EU167558_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Dothideomycetes_Capnodiales_Cladosporiaceae_Cladosporium_iridis@EU167591_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Sordariales_Cephalothecaceae_Phialemonium_dimorphosporum@AB278185_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Xylariales_Phialemoniopsis_curvata@AB278180_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Magnaporthales_Magnaporthaceae_Magnaporthe_grisea@AB026819_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Magnaporthales_Magnaporthaceae_Magnaporthe_oryzae@JQ747492_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Xylariales_Apiosporaceae_Arthrinium_euphorbiae@AB220190_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Xylariales_Apiosporaceae_Arthrinium_sacchari@AB220188_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Hypocreales_Clavicipitaceae_Epichloe_typhina@KU710348_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Hypocreales_Clavicipitaceae_Epichloe@KU710347_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Glomerellales_Glomerellaceae_Colletotrichum_truncatum@AJ301945_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Dikarya_Ascomycota_Pezizomycotina_Sordariomycetes_Glomerellales_Glomerellaceae_Colletotrichum_truncatum@AJ301944_1588_bp are exactly identical!
+WARNING: Sequences c-1065_conseq_Otu00003_1281_1588_bp and m54032_170210_154134_55641023_ccs_Otu00049_45_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Mucoromycota_Mortierellomycotina_Mortierellales_Mortierellaceae_Mortierella_alpina@AJ271630_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Mucoromycota_Mortierellomycotina_Mortierellales_Mortierellaceae_Mortierella_alpina@AJ271629_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Nucletmycea_Fungi_Zoopagomycota_Entomophthoromycotina_Basidiobolomycetes_Basidiobolales_Basidiobolaceae_Basidiobolus_meristosporus@MCFE01000866_1588_bp and Eukaryota_Opisthokonta_Nucletmycea_Fungi_Zoopagomycota_Entomophthoromycotina_Basidiobolomycetes_Basidiobolales_Basidiobolaceae_Basidiobolus_meristosporus@MCFE01000829_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_SAR_Alveolata_Apicomplexa_Conoidasida_Cryptosporida_Cryptosporidium_muris_RN66@AAZY02000007_1588_bp and Eukaryota_SAR_Alveolata_Apicomplexa_Conoidasida_Cryptosporida_Cryptosporidium_muris_RN66@AAZY02000003_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_SAR_Stramenopiles_Ochrophyta_Eustigmatophyceae_Eustigmatales_Vischeria_helvetica@AF045051_1588_bp and Eukaryota_SAR_Stramenopiles_Ochrophyta_Eustigmatophyceae_Eustigmatales_Vischeria_helvetica@JX188080_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_SAR_Stramenopiles_Ochrophyta_Chrysophyceae_Chromulinales@EF024344_1588_bp and Eukaryota_SAR_Stramenopiles_Ochrophyta_Chrysophyceae_Chromulinales@EF024085_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_SAR_Stramenopiles_Peronosporomycetes_Phytophthora_primulae@JN635180_1588_bp and Eukaryota_SAR_Stramenopiles_Peronosporomycetes_Phytophthora_brassicae@JN635066_1588_bp are exactly identical!
+WARNING: Sequences c-2213_conseq_Otu00048_46_1588_bp and m54088_170214_101554_9110177_ccs_Otu00387_3_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Holozoa_Metazoa_Animalia_Eumetazoa_Bilateria_Annelida_Clitellata_Oligochaeta_Haplotaxida_Rhyacodrilus_subterraneus@DQ459962_1588_bp and Eukaryota_Opisthokonta_Holozoa_Metazoa_Animalia_Eumetazoa_Bilateria_Annelida_Clitellata_Oligochaeta_Haplotaxida_Rhyacodrilus_hiemalis@DQ459964_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Holozoa_Metazoa_Animalia_Eumetazoa_Bilateria_Arthropoda_Chelicerata_Arachnida_Acari_Tectocepheus_sarekensis@EF093777_1588_bp and Eukaryota_Opisthokonta_Holozoa_Metazoa_Animalia_Eumetazoa_Bilateria_Arthropoda_Chelicerata_Arachnida_Acari_Tectocepheus_sarekensis@EF093776_1588_bp are exactly identical!
+WARNING: Sequences Eukaryota_Opisthokonta_Holozoa_Metazoa_Animalia_Eumetazoa_Bilateria_Nematoda_Chromadorea_Tylenchida_Pratylenchoides_nevadensis@KU854996_1588_bp and Eukaryota_Opisthokonta_Holozoa_Metazoa_Animalia_Eumetazoa_Bilateria_Nematoda_Chromadorea_Tylenchida_Pratylenchoides_nevadensis@KU854995_1588_bp are exactly identical!
+
+WARNING: Fully undetermined sequences found: 2
+
+NOTE: Reduced alignment (with gap-only columns removed) was printed to:
+/hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 1579 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 1588 / 1579
+Gaps: 27.30 %
+Invariant sites: 2.52 %
+
+
+NOTE: Binary MSA file created: /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap.raxml.rba
+
+
+NOTE: Per-rate scalers were automatically enabled to prevent numerical issues on taxa-rich alignments.
+NOTE: You can use --force switch to skip this check and fall back to per-site scalers.
+
+[00:00:00] Data distribution: partitions/thread: 1-1, patterns/thread: 197-198
+
+WARNING: You are probably using too many threads (8) for your alignment with 1579 unique patterns.
+NOTE:    For the optimal throughput, please consider using 2 threads ('--threads 2' option)
+NOTE:    and parallelize across starting trees/bootstrap replicates.
+NOTE:    As a general rule-of-thumb, please assign at least 200-1000 alignment patterns per thread.
+[00:00:00] Starting bootstrapping analysis with 20 replicates.
+
+[02:48:05] Bootstrap tree #1, logLikelihood: -312205.917631
+[06:21:07] Bootstrap tree #2, logLikelihood: -311840.843146
+[08:18:00] Bootstrap tree #3, logLikelihood: -297039.960800
+[10:02:27] Bootstrap tree #4, logLikelihood: -297815.644271
+[13:01:35] Bootstrap tree #5, logLikelihood: -290037.026973
+[16:24:32] Bootstrap tree #6, logLikelihood: -307719.438864
+[18:35:31] Bootstrap tree #7, logLikelihood: -329469.946349
+[21:22:50] Bootstrap tree #8, logLikelihood: -301040.961432
+[23:18:39] Bootstrap tree #9, logLikelihood: -297929.281959
+
+RAxML-NG v. 0.6.0git BETA released on 10.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+raxml-ng --bootstrap --bs-trees 20 --msa data/ref_and_V4_reads_nws.fasta --model GTR+G --prefix /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap --threads 8
+
+Analysis options:
+  run mode: Bootstrapping
+  start tree(s): 
+  bootstrap replicates: 20
+  random seed: 1532704318
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: PTHREADS (8 threads)
+
+WARNING: The model you specified on the command line (GTR+G) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap.raxml.rba
+[00:00:00] Alignment comprises 2311 taxa, 1 partitions and 1579 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 1588 / 1579
+Gaps: 27.30 %
+Invariant sites: 2.52 %
+
+
+
+NOTE: Per-rate scalers were automatically enabled to prevent numerical issues on taxa-rich alignments.
+NOTE: You can use --force switch to skip this check and fall back to per-site scalers.
+
+[00:00:00] NOTE: Resuming execution from checkpoint (logLH: -307407.25, ML trees: 0, bootstraps: 9)
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 198 / 3168
+[00:00:00] Starting bootstrapping analysis with 20 replicates.
+
+[03:26:11] Bootstrap tree #10, logLikelihood: -312234.042306
+[06:40:29] Bootstrap tree #11, logLikelihood: -315722.261504
+[09:33:09] Bootstrap tree #12, logLikelihood: -321810.151934
+[12:11:53] Bootstrap tree #13, logLikelihood: -313371.059146
+[15:33:57] Bootstrap tree #14, logLikelihood: -321611.430931
+[18:19:28] Bootstrap tree #15, logLikelihood: -299197.362640
+[20:22:48] Bootstrap tree #16, logLikelihood: -302931.527144
+[22:07:49] Bootstrap tree #17, logLikelihood: -319660.191393
+
+RAxML-NG v. 0.6.0git BETA released on 10.07.2018 by The Exelixis Lab.
+Authors: Alexey Kozlov, Alexandros Stamatakis, Diego Darriba, Tomas Flouri, Benoit Morel.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+WARNING: This is a BETA release, please use at your own risk!
+
+RAxML-NG was called as follows:
+
+raxml-ng --bootstrap --bs-trees 20 --msa data/ref_and_V4_reads_nws.fasta --model GTR+G --prefix /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap --threads 8
+
+Analysis options:
+  run mode: Bootstrapping
+  start tree(s): 
+  bootstrap replicates: 20
+  random seed: 1532937362
+  tip-inner: ON
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: OFF
+  branch lengths: linked (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: PTHREADS (8 threads)
+
+WARNING: The model you specified on the command line (GTR+G) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap.raxml.rba
+[00:00:00] Alignment comprises 2311 taxa, 1 partitions and 1579 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 1588 / 1579
+Gaps: 27.30 %
+Invariant sites: 2.52 %
+
+
+
+NOTE: Per-rate scalers were automatically enabled to prevent numerical issues on taxa-rich alignments.
+NOTE: You can use --force switch to skip this check and fall back to per-site scalers.
+
+[00:00:00] NOTE: Resuming execution from checkpoint (logLH: -311543.06, ML trees: 0, bootstraps: 17)
+[00:00:00] Data distribution: max. partitions/sites/weight per thread: 1 / 198 / 3168
+[00:00:00] Starting bootstrapping analysis with 20 replicates.
+
+[03:17:45] Bootstrap tree #18, logLikelihood: -304990.218450
+[06:26:12] Bootstrap tree #19, logLikelihood: -311376.928589
+[09:38:11] Bootstrap tree #20, logLikelihood: -303157.290055
+
+Optimized model parameters:
+
+   Partition 0: noname
+   Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.586883 (ML),  weights&rates: (0.250000,0.050414) (0.250000,0.304902) (0.250000,0.874477) (0.250000,2.770207) 
+   Base frequencies (ML): 0.240311 0.187070 0.268257 0.304362 
+   Substitution rates (ML): 1.791243 4.240250 1.575433 1.126868 5.805125 1.000000 
+Bootstrap trees saved to: /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap.raxml.bootstraps
+
+Execution log saved to: /hits/basement/sco/barbera/long-reads/trees/ref_and_V4_reads_nws.fasta/bootstrap/9/bootstrap.raxml.log
+
+Analysis started: 30-Jul-2018 09:56:02 / finished: 30-Jul-2018 19:34:14
+
+Elapsed time: 34692.406 seconds (this run) / 207425.888 seconds (total with restarts)
+
