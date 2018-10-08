@@ -77,7 +77,8 @@ int main( int argc, char** argv )
     // Calc edpl.
     LOG_INFO << "edpl";
     auto const edpls = edpl( sample );
-    auto const max_edpl = *std::max_element( edpls.begin(), edpls.end());
+    auto const max_edpl = 0.05;
+    // auto const max_edpl = *std::max_element( edpls.begin(), edpls.end());
     LOG_INFO << "max edpl " << max_edpl;
 
     // Calc node dist mat.
@@ -114,6 +115,7 @@ int main( int argc, char** argv )
     // norm_edpl.scale( 0.0, max_edpl );
     auto norm_edpl = utils::ColorNormalizationBoundary();
     norm_edpl.scale( 0.0, max_edpl, 4 );
+    map_edpl.clip_over( true );
 
     // count how many seqs did not have a placement on their branch.
     size_t no_booking = 0;
@@ -130,6 +132,16 @@ int main( int argc, char** argv )
     HistogramAccumulator hist_acc_edpl;
     HistogramAccumulator hist_acc_wd_bu;
     HistogramAccumulator hist_acc_wd_pl;
+
+    // Also do the same with actual lists of dobules,
+    // for more precision, so that they can be plotted properly later on.
+    std::vector<double> list_lwr_max;
+    std::vector<double> list_lwr_placed;
+    std::vector<double> list_edpl;
+    std::vector<double> list_wd_bu;
+    std::vector<double> list_wd_pl;
+
+    std::vector<std::string> list_names;
 
     // -------------------------------------------------------------------------
     //     Main Loop
@@ -298,6 +310,15 @@ int main( int argc, char** argv )
         hist_acc_edpl.increment( edpls[ qi ] );
         hist_acc_wd_bu.increment( weighted_bu_dist );
         hist_acc_wd_pl.increment( weighted_pl_dist );
+
+        // accumulate lists
+        list_lwr_max.push_back( pquery.placement_at(0).like_weight_ratio );
+        list_lwr_placed.push_back( lwr );
+        list_edpl.push_back( edpls[ qi ] );
+        list_wd_bu.push_back( weighted_bu_dist );
+        list_wd_pl.push_back( weighted_pl_dist );
+
+        list_names.push_back( name );
     }
 
     // -------------------------------------------------------------------------
@@ -308,8 +329,10 @@ int main( int argc, char** argv )
     LOG_INFO << no_booking << " out of " << sample.size() << " did not have a placement on their branch";
 
     // weighted bu dists: find max and define color map accordingly.
-    auto const max_wd_bu = *std::max_element( weighted_bu_dists.begin(), weighted_bu_dists.end());
+    auto const max_wd_bu = 0.005;
+    // auto const max_wd_bu = *std::max_element( weighted_bu_dists.begin(), weighted_bu_dists.end());
     auto map_wd_bu = ColorMap( inferno );
+    map_wd_bu.clip_over( true );
     // auto norm_wd_bu = utils::ColorNormalizationLinear();
     // norm_wd_bu.scale( 0.0, max_wd_bu );
     auto norm_wd_bu = utils::ColorNormalizationBoundary();
@@ -317,8 +340,10 @@ int main( int argc, char** argv )
     LOG_INFO << "max_wd_bu " << max_wd_bu;
 
     // weighted pl dists: find max and define color map accordingly.
-    auto const max_wd_pl = *std::max_element( weighted_pl_dists.begin(), weighted_pl_dists.end());
+    auto const max_wd_pl = 1.2;
+    // auto const max_wd_pl = *std::max_element( weighted_pl_dists.begin(), weighted_pl_dists.end());
     auto map_wd_pl = ColorMap( inferno );
+    map_wd_pl.clip_over( true );
     // auto norm_wd_pl = utils::ColorNormalizationLinear();
     // norm_wd_pl.scale( 0.0, max_wd_pl );
     auto norm_wd_pl = utils::ColorNormalizationBoundary();
@@ -411,11 +436,53 @@ int main( int argc, char** argv )
         hists_of << "\n\n";
     };
 
+    // Print histograms
     print_hist( "hist_lwr_max", hist_lwr_max );
     print_hist( "hist_lwr_placed", hist_lwr_placed );
     print_hist( "hist_edpl", hist_edpl );
     print_hist( "hist_wd_bu", hist_wd_bu );
     print_hist( "hist_wd_pl", hist_wd_pl );
+
+    auto print_list = [&]( std::vector<double> list, std::string const& fn ){
+        std::ofstream list_of;
+        file_output_stream( outdir + fn, list_of );
+        std::sort( list.begin(), list.end() );
+
+        for( auto e : list ) {
+            list_of << e << "\n";
+        }
+    };
+
+    // Print lists
+    print_list( list_lwr_max, "list_lwr_max.txt" );
+    print_list( list_lwr_placed, "list_lwr_placed.txt" );
+    print_list( list_edpl, "list_edpl.txt" );
+    print_list( list_wd_bu, "list_wd_bu.txt" );
+    print_list( list_wd_pl, "list_wd_pl.txt" );
+
+    // Print full table with all numbers per pquery
+    if(
+        list_names.size() != list_lwr_max.size() ||
+        list_names.size() != list_lwr_placed.size() ||
+        list_names.size() != list_edpl.size() ||
+        list_names.size() != list_wd_bu.size() ||
+        list_names.size() != list_wd_pl.size()
+    ) {
+        throw std::runtime_error( "Differing list sizes." );
+    }
+
+    std::ofstream table_of;
+    file_output_stream( outdir + "table.tsv", table_of );
+    table_of << "Sequence\tLWR_max\tLWR_placed\tEDPL\twd_bu\twd_pl\n";
+
+    for( size_t i = 0; i < list_names.size(); ++i ) {
+        table_of << list_names[i] << "\t";
+        table_of << list_lwr_max[i] << "\t";
+        table_of << list_lwr_placed[i] << "\t";
+        table_of << list_edpl[i] << "\t";
+        table_of << list_wd_bu[i] << "\t";
+        table_of << list_wd_pl[i] << "\n";
+    }
 
     LOG_INFO << "Finished";
     return 0;

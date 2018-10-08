@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9640" height="9643.6">
-<!-- Created with genesis v0.19.0 (http://genesis-lib.org) on 2018-07-12 at 14:48:27 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11488" height="9695.44">
+<!-- Created with genesis v0.19.0 (http://genesis-lib.org) on 2018-08-15 at 17:13:23 -->
     <g transform="translate( 4820, 4820)" >
         <g>
             <line x1="4519.55" y1="12.2879" x2="4619.98" y2="12.5609" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -151,8 +151,8 @@
             <path d="M 4463.49 709.746 A 4519.57 4519.57 0 0 0 4464.45 703.678" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4365.24" y1="688.041" x2="4464.45" y2="703.678" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4365.24 688.041 A 4419.13 4419.13 0 0 0 4366.63 679.138" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4368.01" y1="670.233" x2="4566.55" y2="700.698" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4366.63 679.138 A 4419.13 4419.13 0 0 0 4368.01 670.233" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4368.01" y1="670.233" x2="4566.55" y2="700.698" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4366.63 679.138 A 4419.13 4419.13 0 0 0 4368.01 670.233" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3572.7" y1="555.658" x2="4366.63" y2="679.138" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3570.14 571.845 A 3615.65 3615.65 0 0 0 3572.7 555.658" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3863.21" y1="646.645" x2="4556.61" y2="762.709" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -177,8 +177,8 @@
             <path d="M 4148.6 763.454 A 4218.26 4218.26 0 0 0 4150.53 752.877" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4049.82" y1="745.276" x2="4148.6" y2="763.454" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4049.82 745.276 A 4117.83 4117.83 0 0 0 4053.01 727.721" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4451.32" y1="782.461" x2="4550.24" y2="799.849" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4450.25 788.512 A 4519.57 4519.57 0 0 0 4451.32 782.461" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4451.32" y1="782.461" x2="4550.24" y2="799.849" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4450.25 788.512 A 4519.57 4519.57 0 0 0 4451.32 782.461" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4449.17" y1="794.561" x2="4548.04" y2="812.217" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4449.17 794.561 A 4519.57 4519.57 0 0 0 4450.25 788.512" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4351.35" y1="770.989" x2="4450.25" y2="788.512" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -211,8 +211,8 @@
             <path d="M 4372.03 643.5 A 4419.13 4419.13 0 0 0 4373.33 634.583" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4470.94" y1="661.164" x2="4570.3" y2="675.856" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4470.04 667.241 A 4519.57 4519.57 0 0 0 4470.94 661.164" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4469.13" y1="673.317" x2="4568.44" y2="688.28" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4469.13 673.317 A 4519.57 4519.57 0 0 0 4470.04 667.241" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4469.13" y1="673.317" x2="4568.44" y2="688.28" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4469.13 673.317 A 4519.57 4519.57 0 0 0 4470.04 667.241" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4370.71" y1="652.413" x2="4470.04" y2="667.241" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4370.71 652.413 A 4419.13 4419.13 0 0 0 4372.03 643.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4272.66" y1="628.875" x2="4372.03" y2="643.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -339,8 +339,8 @@
             <path d="M 3948.3 1169.37 A 4117.83 4117.83 0 0 0 3954.7 1147.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1155.6" y1="342.254" x2="3948.3" y2="1169.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1148.91 364.089 A 1205.22 1205.22 0 0 0 1155.6 342.254" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4265.14" y1="1495" x2="4359.93" y2="1528.22" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4263.11 1500.79 A 4519.57 4519.57 0 0 0 4265.14 1495" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4265.14" y1="1495" x2="4359.93" y2="1528.22" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4263.11 1500.79 A 4519.57 4519.57 0 0 0 4265.14 1495" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4261.06" y1="1506.59" x2="4355.75" y2="1540.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4261.06 1506.59 A 4519.57 4519.57 0 0 0 4263.11 1500.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1421.04" y1="500.264" x2="4263.11" y2="1500.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -393,8 +393,8 @@
             <path d="M 3606.99 1986.49 A 4117.83 4117.83 0 0 0 3613.21 1975.14" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3519.01" y1="1938.04" x2="3606.99" y2="1986.49" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3519.01 1938.04 A 4017.39 4017.39 0 0 0 3535.19 1908.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3811.77" y1="2030.15" x2="4077.71" y2="2171.79" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3806.93 2039.22 A 4318.7 4318.7 0 0 0 3811.77 2030.15" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3811.77" y1="2030.15" x2="4077.71" y2="2171.79" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3806.93 2039.22 A 4318.7 4318.7 0 0 0 3811.77 2030.15" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3977.45" y1="2146.24" x2="4065.84" y2="2193.93" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3974.53 2151.64 A 4519.57 4519.57 0 0 0 3977.45 2146.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3971.6" y1="2157.05" x2="4059.86" y2="2204.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -503,8 +503,8 @@
             <path d="M 3244.9 2695.24 A 4218.26 4218.26 0 0 0 3251.76 2686.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3167.64" y1="2631.07" x2="3244.9" y2="2695.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3167.64 2631.07 A 4117.83 4117.83 0 0 0 3174.56 2622.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3181.46" y1="2614.35" x2="3569.44" y2="2933.17" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3174.56 2622.72 A 4117.83 4117.83 0 0 0 3181.46 2614.35" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3181.46" y1="2614.35" x2="3569.44" y2="2933.17" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3174.56 2622.72 A 4117.83 4117.83 0 0 0 3181.46 2614.35" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3097.13" y1="2558.75" x2="3174.56" y2="2622.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3097.13 2558.75 A 4017.39 4017.39 0 0 0 3103.97 2550.45" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3110.78" y1="2542.14" x2="3577.4" y2="2923.46" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -861,8 +861,8 @@
             <path d="M 2828.87 3524.77 A 4519.57 4519.57 0 0 0 2833.66 3520.92" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2518.81" y1="3129.7" x2="2833.66" y2="3520.92" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2508.29 3138.14 A 4017.39 4017.39 0 0 0 2518.81 3129.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="2622.35" y1="3304.09" x2="2872.1" y2="3618.76" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 2613.92 3310.76 A 4218.26 4218.26 0 0 0 2622.35 3304.09" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="2622.35" y1="3304.09" x2="2872.1" y2="3618.76" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 2613.92 3310.76 A 4218.26 4218.26 0 0 0 2622.35 3304.09" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2780.69" y1="3562.89" x2="2842.49" y2="3642.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2775.85 3566.67 A 4519.57 4519.57 0 0 0 2780.69 3562.89" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2771" y1="3570.44" x2="2832.57" y2="3649.78" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -939,8 +939,8 @@
             <path d="M 2742.93 2935.26 A 4017.39 4017.39 0 0 0 2763.44 2915.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2674.36" y1="2861.88" x2="2742.93" y2="2935.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2674.36 2861.88 A 3916.96 3916.96 0 0 0 2691.15 2846.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="2707.85" y1="2830.21" x2="3193.88" y2="3338.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 2691.15 2846.09 A 3916.96 3916.96 0 0 0 2707.85 2830.21" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="2707.85" y1="2830.21" x2="3193.88" y2="3338.2" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 2691.15 2846.09 A 3916.96 3916.96 0 0 0 2707.85 2830.21" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2622.15" y1="2773.12" x2="2691.15" y2="2846.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2622.15 2773.12 A 3816.52 3816.52 0 0 0 2648.56 2747.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3159.77" y1="3231.45" x2="3229.99" y2="3303.27" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -967,8 +967,8 @@
             <path d="M 2648.56 2747.9 A 3816.52 3816.52 0 0 0 2674.74 2722.43" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2578.87" y1="2675.59" x2="2648.56" y2="2747.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2578.87 2675.59 A 3716.09 3716.09 0 0 0 2625.76 2629.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3254.99" y1="3135.52" x2="3327.32" y2="3205.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3250.72 3139.95 A 4519.57 4519.57 0 0 0 3254.99 3135.52" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3254.99" y1="3135.52" x2="3327.32" y2="3205.2" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3250.72 3139.95 A 4519.57 4519.57 0 0 0 3254.99 3135.52" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3246.45" y1="3144.36" x2="3318.6" y2="3214.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3246.45 3144.36 A 4519.57 4519.57 0 0 0 3250.72 3139.95" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2961.77" y1="2860.84" x2="3250.72" y2="3139.95" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1045,8 +1045,8 @@
             <path d="M 1799.12 1751.47 A 2510.87 2510.87 0 0 0 1843.68 1704.49" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3360.24" y1="2870.11" x2="3512.97" y2="3000.57" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3354.38 2876.96 A 4419.13 4419.13 0 0 0 3360.24 2870.11" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3428.61" y1="2944.67" x2="3504.8" y2="3010.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3424.61 2949.33 A 4519.57 4519.57 0 0 0 3428.61 2944.67" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3428.61" y1="2944.67" x2="3504.8" y2="3010.11" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3424.61 2949.33 A 4519.57 4519.57 0 0 0 3428.61 2944.67" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3420.59" y1="2953.98" x2="3496.61" y2="3019.63" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3420.59 2953.98 A 4519.57 4519.57 0 0 0 3424.61 2949.33" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3348.5" y1="2883.79" x2="3424.61" y2="2949.33" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1095,8 +1095,8 @@
             <path d="M 1728.76 1532.16 A 2310 2310 0 0 0 1769.11 1485.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1692.2" y1="1420.79" x2="1769.11" y2="1485.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1692.2 1420.79 A 2209.57 2209.57 0 0 0 1752.95 1345.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3118.44" y1="2200.27" x2="3774.95" y2="2663.48" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3109.6 2212.74 A 3816.52 3816.52 0 0 0 3118.44 2200.27" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3118.44" y1="2200.27" x2="3774.95" y2="2663.48" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3109.6 2212.74 A 3816.52 3816.52 0 0 0 3118.44 2200.27" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3664.33" y1="2645.59" x2="3745.76" y2="2704.38" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3660.73 2650.57 A 4519.57 4519.57 0 0 0 3664.33 2645.59" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3657.13" y1="2655.54" x2="3738.4" y2="2714.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1147,8 +1147,8 @@
             <path d="M 3251.48 2359.51 A 4017.39 4017.39 0 0 0 3269.92 2333.89" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3170.19" y1="2300.53" x2="3251.48" y2="2359.51" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3170.19 2300.53 A 3916.96 3916.96 0 0 0 3182.32 2283.73" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3194.35" y1="2266.86" x2="3767.7" y2="2673.74" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3182.32 2283.73 A 3916.96 3916.96 0 0 0 3194.35 2266.86" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3194.35" y1="2266.86" x2="3767.7" y2="2673.74" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3182.32 2283.73 A 3916.96 3916.96 0 0 0 3194.35 2266.86" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3100.72" y1="2225.17" x2="3182.32" y2="2283.73" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3100.72 2225.17 A 3816.52 3816.52 0 0 0 3109.6 2212.74" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3027.77" y1="2154.51" x2="3109.6" y2="2212.74" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1159,8 +1159,8 @@
             <path d="M 3727.97 2555.14 A 4519.57 4519.57 0 0 0 3731.44 2550.07" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3482.67" y1="2380.06" x2="3731.44" y2="2550.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3474.97 2391.3 A 4218.26 4218.26 0 0 0 3482.67 2380.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3707" y1="2585.46" x2="3789.38" y2="2642.92" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3703.48 2590.5 A 4519.57 4519.57 0 0 0 3707 2585.46" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3707" y1="2585.46" x2="3789.38" y2="2642.92" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3703.48 2590.5 A 4519.57 4519.57 0 0 0 3707 2585.46" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3699.96" y1="2595.53" x2="3782.18" y2="2653.21" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3699.96 2595.53 A 4519.57 4519.57 0 0 0 3703.48 2590.5" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3621.18" y1="2532.93" x2="3703.48" y2="2590.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1243,8 +1243,8 @@
             <path d="M 3944.96 1493.65 A 4218.26 4218.26 0 0 0 3949.51 1481.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4039.41" y1="1527.84" x2="4321.23" y2="1634.43" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4034.19 1541.56 A 4318.7 4318.7 0 0 0 4039.41 1527.84" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4222.93" y1="1610.39" x2="4316.77" y2="1646.18" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4220.73 1616.13 A 4519.57 4519.57 0 0 0 4222.93 1610.39" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4222.93" y1="1610.39" x2="4316.77" y2="1646.18" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4220.73 1616.13 A 4519.57 4519.57 0 0 0 4222.93 1610.39" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4218.53" y1="1621.87" x2="4312.28" y2="1657.91" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4218.53 1621.87 A 4519.57 4519.57 0 0 0 4220.73 1616.13" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4126.94" y1="1580.22" x2="4220.73" y2="1616.13" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1305,8 +1305,8 @@
             <path d="M 3977.2 1683.15 A 4318.7 4318.7 0 0 0 3984.03 1666.92" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4153.76" y1="1781.22" x2="4246.06" y2="1820.81" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4151.33 1786.87 A 4519.57 4519.57 0 0 0 4153.76 1781.22" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4148.9" y1="1792.51" x2="4241.1" y2="1832.34" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4148.9 1792.51 A 4519.57 4519.57 0 0 0 4151.33 1786.87" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4148.9" y1="1792.51" x2="4241.1" y2="1832.34" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4148.9 1792.51 A 4519.57 4519.57 0 0 0 4151.33 1786.87" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4059.08" y1="1747.16" x2="4151.33" y2="1786.87" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4059.08 1747.16 A 4419.13 4419.13 0 0 0 4062.64 1738.88" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4066.17" y1="1730.59" x2="4251" y2="1809.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1347,8 +1347,8 @@
             <path d="M 3884.99 1886.27 A 4318.7 4318.7 0 0 0 3891.37 1873.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3794.64" y1="1842.4" x2="3884.99" y2="1886.27" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3794.64 1842.4 A 4218.26 4218.26 0 0 0 3805.53 1819.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4082.97" y1="1938" x2="4173.7" y2="1981.07" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4080.33 1943.55 A 4519.57 4519.57 0 0 0 4082.97 1938" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4082.97" y1="1938" x2="4173.7" y2="1981.07" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4080.33 1943.55 A 4519.57 4519.57 0 0 0 4082.97 1938" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4077.68" y1="1949.1" x2="4168.3" y2="1992.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4077.68 1949.1 A 4519.57 4519.57 0 0 0 4080.33 1943.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3989.65" y1="1900.36" x2="4080.33" y2="1943.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1373,8 +1373,8 @@
             <path d="M 4129.16 1837.52 A 4519.57 4519.57 0 0 0 4131.66 1831.91" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4039.84" y1="1791.2" x2="4131.66" y2="1831.91" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4034.96 1802.18 A 4419.13 4419.13 0 0 0 4039.84 1791.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4124.15" y1="1848.74" x2="4215.8" y2="1889.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4121.63 1854.35 A 4519.57 4519.57 0 0 0 4124.15 1848.74" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4124.15" y1="1848.74" x2="4215.8" y2="1889.83" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4121.63 1854.35 A 4519.57 4519.57 0 0 0 4124.15 1848.74" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4119.11" y1="1859.95" x2="4210.64" y2="1901.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4119.11 1859.95 A 4519.57 4519.57 0 0 0 4121.63 1854.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4030.04" y1="1813.14" x2="4121.63" y2="1854.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1467,8 +1467,8 @@
             <path d="M 1141.8 385.792 A 1205.22 1205.22 0 0 0 1148.91 364.089" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1053.17" y1="333.748" x2="1148.91" y2="364.089" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1053.17 333.748 A 1104.78 1104.78 0 0 0 1061.93 304.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4384.93" y1="1094.91" x2="4482.38" y2="1119.24" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4383.44 1100.87 A 4519.57 4519.57 0 0 0 4384.93 1094.91" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4384.93" y1="1094.91" x2="4482.38" y2="1119.24" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4383.44 1100.87 A 4519.57 4519.57 0 0 0 4384.93 1094.91" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4381.94" y1="1106.82" x2="4479.32" y2="1131.42" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4381.94 1106.82 A 4519.57 4519.57 0 0 0 4383.44 1100.87" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4188.62" y1="1051.94" x2="4383.44" y2="1100.87" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1523,8 +1523,8 @@
             <path d="M 4065.61 1124.5 A 4218.26 4218.26 0 0 0 4069.79 1109.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3972.89" y1="1082.88" x2="4069.79" y2="1109.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3972.89 1082.88 A 4117.83 4117.83 0 0 0 3977.09 1067.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3981.23" y1="1051.8" x2="4466.75" y2="1180.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3977.09 1067.35 A 4117.83 4117.83 0 0 0 3981.23 1051.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3981.23" y1="1051.8" x2="4466.75" y2="1180.06" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3977.09 1067.35 A 4117.83 4117.83 0 0 0 3981.23 1051.8" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3880.09" y1="1041.32" x2="3977.09" y2="1067.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3880.09 1041.32 A 4017.39 4017.39 0 0 0 3890.55 1001.54" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1069.9" y1="275.423" x2="3890.55" y2="1001.54" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1653,8 +1653,8 @@
             <path d="M 1888.05 3772.13 A 4218.26 4218.26 0 0 0 1904.06 3764.08" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1843.1" y1="3682.32" x2="1888.05" y2="3772.13" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1843.1 3682.32 A 4117.83 4117.83 0 0 0 1860.91 3673.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="2067.43" y1="4018.98" x2="2113.37" y2="4108.29" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 2061.96 4021.79 A 4519.57 4519.57 0 0 0 2067.43 4018.98" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="2067.43" y1="4018.98" x2="2113.37" y2="4108.29" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 2061.96 4021.79 A 4519.57 4519.57 0 0 0 2067.43 4018.98" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2056.49" y1="4024.59" x2="2102.19" y2="4114.02" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2056.49 4024.59 A 4519.57 4519.57 0 0 0 2061.96 4021.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1878.68" y1="3664.3" x2="2061.96" y2="4021.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1715,8 +1715,8 @@
             <path d="M 1427.71 4182.15 A 4419.13 4419.13 0 0 0 1436.23 4179.23" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1297.92" y1="3801.95" x2="1427.71" y2="4182.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1277.71 3808.79 A 4017.39 4017.39 0 0 0 1297.92 3801.95" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1306.5" y1="3905.07" x2="1465.83" y2="4381.29" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1288.9 3910.91 A 4117.83 4117.83 0 0 0 1306.5 3905.07" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1306.5" y1="3905.07" x2="1465.83" y2="4381.29" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1288.9 3910.91 A 4117.83 4117.83 0 0 0 1306.5 3905.07" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1390.7" y1="4194.6" x2="1453.91" y2="4385.26" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1382.14 4197.43 A 4419.13 4419.13 0 0 0 1390.7 4194.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1410.64" y1="4293.78" x2="1441.99" y2="4389.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1765,8 +1765,8 @@
             <path d="M 1142.45 4060.61 A 4218.26 4218.26 0 0 0 1152.8 4057.68" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1125.35" y1="3961.07" x2="1152.8" y2="4057.68" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1125.35 3961.07 A 4117.83 4117.83 0 0 0 1138.47 3957.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1269.82" y1="4337.51" x2="1298.04" y2="4433.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1263.93 4339.23 A 4519.57 4519.57 0 0 0 1269.82 4337.51" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1269.82" y1="4337.51" x2="1298.04" y2="4433.9" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1263.93 4339.23 A 4519.57 4519.57 0 0 0 1269.82 4337.51" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1258.03" y1="4340.95" x2="1285.98" y2="4437.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1258.03 4340.95 A 4519.57 4519.57 0 0 0 1263.93 4339.23" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1151.58" y1="3953.52" x2="1263.93" y2="4339.23" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1775,8 +1775,8 @@
             <path d="M 1110.7 3860.8 A 4017.39 4017.39 0 0 0 1136.1 3853.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1258.39" y1="4131.29" x2="1346.19" y2="4419.52" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1248.56 4134.28 A 4318.7 4318.7 0 0 0 1258.39 4131.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1293.39" y1="4330.54" x2="1322.13" y2="4426.78" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1287.5 4332.3 A 4519.57 4519.57 0 0 0 1293.39 4330.54" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1293.39" y1="4330.54" x2="1322.13" y2="4426.78" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1287.5 4332.3 A 4519.57 4519.57 0 0 0 1293.39 4330.54" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1281.61" y1="4334.04" x2="1310.09" y2="4430.36" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1281.61 4334.04 A 4519.57 4519.57 0 0 0 1287.5 4332.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1258.89" y1="4236.02" x2="1287.5" y2="4332.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1799,8 +1799,8 @@
             <path d="M 1103.14 3653.62 A 3816.52 3816.52 0 0 0 1158.62 3636.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="914.699" y1="2870.85" x2="1158.62" y2="3636.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 827.325 2897.23 A 3013.04 3013.04 0 0 0 914.699 2870.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1068.06" y1="4391.55" x2="1091.8" y2="4489.14" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1062.09 4393 A 4519.57 4519.57 0 0 0 1068.06 4391.55" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1068.06" y1="4391.55" x2="1091.8" y2="4489.14" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1062.09 4393 A 4519.57 4519.57 0 0 0 1068.06 4391.55" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1056.12" y1="4394.44" x2="1079.59" y2="4492.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1056.12 4394.44 A 4519.57 4519.57 0 0 0 1062.09 4393" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="778.866" y1="3221.53" x2="1062.09" y2="4393" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1857,8 +1857,8 @@
             <path d="M 721.866 4054.06 A 4117.83 4117.83 0 0 0 739.426 4050.89" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="721.391" y1="3952.09" x2="739.426" y2="4050.89" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 721.391 3952.09 A 4017.39 4017.39 0 0 0 739.348 3948.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="757.29" y1="3945.37" x2="870.883" y2="4537.18" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 739.348 3948.77 A 4017.39 4017.39 0 0 0 757.29 3945.37" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="757.29" y1="3945.37" x2="870.883" y2="4537.18" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 739.348 3948.77 A 4017.39 4017.39 0 0 0 757.29 3945.37" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="720.865" y1="3850.05" x2="739.348" y2="3948.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 720.865 3850.05 A 3916.96 3916.96 0 0 0 734.844 3847.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="716.002" y1="3748.76" x2="734.844" y2="3847.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -1927,8 +1927,8 @@
             <path d="M 1151.97 4266.34 A 4419.13 4419.13 0 0 0 1160.67 4263.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1125.79" y1="4169.38" x2="1151.97" y2="4266.34" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1104.52 4175.06 A 4318.7 4318.7 0 0 0 1125.79 4169.38" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1151.44" y1="4370.43" x2="1177.03" y2="4467.55" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1145.5 4371.99 A 4519.57 4519.57 0 0 0 1151.44 4370.43" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1151.44" y1="4370.43" x2="1177.03" y2="4467.55" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1145.5 4371.99 A 4519.57 4519.57 0 0 0 1151.44 4370.43" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1139.55" y1="4373.54" x2="1164.88" y2="4470.73" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1139.55 4373.54 A 4519.57 4519.57 0 0 0 1145.5 4371.99" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1120.04" y1="4274.84" x2="1145.5" y2="4371.99" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2159,8 +2159,8 @@
             <path d="M -3731.44 2550.07 A 4519.57 4519.57 0 0 0 -3727.97 2555.14" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3645.12" y1="2498.36" x2="-3727.97" y2="2555.14" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3645.12 2498.36 A 4419.13 4419.13 0 0 0 -3640.02 2505.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3634.9" y1="2513.2" x2="-3800.13" y2="2627.44" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3640.02 2505.79 A 4419.13 4419.13 0 0 0 -3634.9 2513.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3634.9" y1="2513.2" x2="-3800.13" y2="2627.44" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3640.02 2505.79 A 4419.13 4419.13 0 0 0 -3634.9 2513.2" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3557.29" y1="2448.84" x2="-3640.02" y2="2505.79" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3557.29 2448.84 A 4318.7 4318.7 0 0 0 -3551.46 2457.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3468.86" y1="2400.15" x2="-3551.46" y2="2457.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2185,8 +2185,8 @@
             <path d="M -2893.74 2167.77 A 3615.65 3615.65 0 0 0 -2857.86 2214.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2813.36" y1="2107.55" x2="-2893.74" y2="2167.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2813.36 2107.55 A 3515.22 3515.22 0 0 0 -2772.58 2160.91" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3487.94" y1="2874.15" x2="-3565.45" y2="2938.02" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3491.84 2869.41 A 4519.57 4519.57 0 0 0 -3487.94 2874.15" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3487.94" y1="2874.15" x2="-3565.45" y2="2938.02" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3491.84 2869.41 A 4519.57 4519.57 0 0 0 -3487.94 2874.15" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3495.74" y1="2864.66" x2="-3573.42" y2="2928.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3495.74 2864.66 A 4519.57 4519.57 0 0 0 -3491.84 2869.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3414.25" y1="2805.64" x2="-3491.84" y2="2869.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2279,8 +2279,8 @@
             <path d="M -2946.11 3157.78 A 4318.7 4318.7 0 0 0 -2938.59 3164.78" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3015.72" y1="3230.19" x2="-3152.8" y2="3377.02" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3022.3 3224.04 A 4419.13 4419.13 0 0 0 -3015.72 3230.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3093.23" y1="3295.21" x2="-3161.97" y2="3368.44" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3097.7 3291 A 4519.57 4519.57 0 0 0 -3093.23 3295.21" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3093.23" y1="3295.21" x2="-3161.97" y2="3368.44" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3097.7 3291 A 4519.57 4519.57 0 0 0 -3093.23 3295.21" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3102.18" y1="3286.79" x2="-3171.11" y2="3359.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3102.18 3286.79 A 4519.57 4519.57 0 0 0 -3097.7 3291" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3028.87" y1="3217.87" x2="-3097.7" y2="3291" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2333,8 +2333,8 @@
             <path d="M -3122.48 2684.52 A 4117.83 4117.83 0 0 0 -3108.52 2700.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3032.71" y1="2634.79" x2="-3108.52" y2="2700.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3032.71 2634.79 A 4017.39 4017.39 0 0 0 -3018.67 2650.86" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3376.04" y1="3004.8" x2="-3451.06" y2="3071.57" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3380.12 3000.21 A 4519.57 4519.57 0 0 0 -3376.04 3004.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3376.04" y1="3004.8" x2="-3451.06" y2="3071.57" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3380.12 3000.21 A 4519.57 4519.57 0 0 0 -3376.04 3004.8" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3384.2" y1="2995.61" x2="-3459.4" y2="3062.18" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3384.2 2995.61 A 4519.57 4519.57 0 0 0 -3380.12 3000.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3004.55" y1="2666.85" x2="-3380.12" y2="3000.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2419,8 +2419,8 @@
             <path d="M -3159.64 3089.56 A 4419.13 4419.13 0 0 0 -3153.34 3095.99" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3087.83" y1="3019.34" x2="-3159.64" y2="3089.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3087.83 3019.34 A 4318.7 4318.7 0 0 0 -3080.64 3026.68" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3073.43" y1="3034" x2="-3287.86" y2="3245.67" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3080.64 3026.68 A 4318.7 4318.7 0 0 0 -3073.43 3034" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3073.43" y1="3034" x2="-3287.86" y2="3245.67" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3080.64 3026.68 A 4318.7 4318.7 0 0 0 -3073.43 3034" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2865.71" y1="2815.51" x2="-3080.64" y2="3026.68" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2884.31 2796.46 A 4017.39 4017.39 0 0 0 -2865.71 2815.51" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2812.2" y1="2726.55" x2="-2884.31" y2="2796.46" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2493,12 +2493,12 @@
             <path d="M -3955.72 1733.03 A 4318.7 4318.7 0 0 0 -3950.4 1745.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3863.73" y1="1692.73" x2="-3955.72" y2="1733.03" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3863.73 1692.73 A 4218.26 4218.26 0 0 0 -3857.66 1706.51" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3851.55" y1="1720.26" x2="-4218.36" y2="1884.09" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3857.66 1706.51 A 4218.26 4218.26 0 0 0 -3851.55 1720.26" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3851.55" y1="1720.26" x2="-4218.36" y2="1884.09" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3857.66 1706.51 A 4218.26 4218.26 0 0 0 -3851.55 1720.26" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3765.81" y1="1665.87" x2="-3857.66" y2="1706.51" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3765.81 1665.87 A 4117.83 4117.83 0 0 0 -3760.56 1677.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3755.27" y1="1689.52" x2="-4213.23" y2="1895.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3760.56 1677.7 A 4117.83 4117.83 0 0 0 -3755.27 1689.52" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3755.27" y1="1689.52" x2="-4213.23" y2="1895.56" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3760.56 1677.7 A 4117.83 4117.83 0 0 0 -3755.27 1689.52" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3393.67" y1="1514.03" x2="-3760.56" y2="1677.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3408.99 1479.22 A 3716.09 3716.09 0 0 0 -3393.67 1514.03" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3316.85" y1="1439.24" x2="-3408.99" y2="1479.22" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2521,8 +2521,8 @@
             <path d="M -3788.04 1855.93 A 4218.26 4218.26 0 0 0 -3783.3 1865.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3607.66" y1="1767.55" x2="-3788.04" y2="1855.93" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3622.32 1737.3 A 4017.39 4017.39 0 0 0 -3607.66 1767.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4080.33" y1="1943.55" x2="-4171" y2="1986.74" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4082.97 1938 A 4519.57 4519.57 0 0 0 -4080.33 1943.55" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4080.33" y1="1943.55" x2="-4171" y2="1986.74" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4082.97 1938 A 4519.57 4519.57 0 0 0 -4080.33 1943.55" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4085.6" y1="1932.45" x2="-4176.39" y2="1975.39" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4085.6 1932.45 A 4519.57 4519.57 0 0 0 -4082.97 1938" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3720.04" y1="1765.74" x2="-4082.97" y2="1938" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2639,8 +2639,8 @@
             <path d="M -2758.18 935.803 A 2912.61 2912.61 0 0 0 -2724 1031.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2863.16" y1="938.48" x2="-4390.18" y2="1439" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2885.2 868.352 A 3013.04 3013.04 0 0 0 -2863.16 938.48" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4317.13" y1="1337.48" x2="-4413.07" y2="1367.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4318.95 1331.61 A 4519.57 4519.57 0 0 0 -4317.13 1337.48" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4317.13" y1="1337.48" x2="-4413.07" y2="1367.2" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4318.95 1331.61 A 4519.57 4519.57 0 0 0 -4317.13 1337.48" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4320.75" y1="1325.73" x2="-4416.77" y2="1355.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4320.75 1325.73 A 4519.57 4519.57 0 0 0 -4318.95 1331.61" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4222.97" y1="1302.01" x2="-4318.95" y2="1331.61" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2735,8 +2735,8 @@
             <path d="M -3558.43 1070.94 A 3716.09 3716.09 0 0 0 -3547.73 1105.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4203.03" y1="1365.02" x2="-4394.08" y2="1427.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4205.8 1356.44 A 4419.13 4419.13 0 0 0 -4203.03 1365.02" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4302.33" y1="1384.35" x2="-4397.94" y2="1415.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4304.21 1378.5 A 4519.57 4519.57 0 0 0 -4302.33 1384.35" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4302.33" y1="1384.35" x2="-4397.94" y2="1415.11" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4304.21 1378.5 A 4519.57 4519.57 0 0 0 -4302.33 1384.35" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4306.08" y1="1372.64" x2="-4401.77" y2="1403.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4306.08 1372.64 A 4519.57 4519.57 0 0 0 -4304.21 1378.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4208.56" y1="1347.86" x2="-4304.21" y2="1378.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -2973,8 +2973,8 @@
             <path d="M -3743.52 2153.41 A 4318.7 4318.7 0 0 0 -3734.71 2168.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3896.02" y1="2290.75" x2="-3982.59" y2="2341.65" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3899.13 2285.45 A 4519.57 4519.57 0 0 0 -3896.02 2290.75" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3902.23" y1="2280.15" x2="-3988.95" y2="2330.82" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3902.23 2280.15 A 4519.57 4519.57 0 0 0 -3899.13 2285.45" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3902.23" y1="2280.15" x2="-3988.95" y2="2330.82" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3902.23 2280.15 A 4519.57 4519.57 0 0 0 -3899.13 2285.45" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3725.83" y1="2183.88" x2="-3899.13" y2="2285.45" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3734.71 2168.66 A 4318.7 4318.7 0 0 0 -3725.83 2183.88" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3647.85" y1="2118.23" x2="-3734.71" y2="2168.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3063,8 +3063,8 @@
             <path d="M -3002.51 3378.08 A 4519.57 4519.57 0 0 0 -2997.91 3382.16" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2931.29" y1="3307" x2="-2997.91" y2="3382.16" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2931.29 3307 A 4419.13 4419.13 0 0 0 -2924.54 3312.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2917.78" y1="3318.93" x2="-3050.41" y2="3469.79" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2924.54 3312.97 A 4419.13 4419.13 0 0 0 -2917.78 3318.93" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2917.78" y1="3318.93" x2="-3050.41" y2="3469.79" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2924.54 3312.97 A 4419.13 4419.13 0 0 0 -2917.78 3318.93" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2725.14" y1="3087.09" x2="-2924.54" y2="3312.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2738.49 3075.25 A 4117.83 4117.83 0 0 0 -2725.14 3087.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2671.7" y1="3000.24" x2="-2738.49" y2="3075.25" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3125,8 +3125,8 @@
             <path d="M -1861.49 1685.03 A 2510.87 2510.87 0 0 0 -1597.68 1936.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1787.03" y1="1617.63" x2="-1861.49" y2="1685.03" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1787.03 1617.63 A 2410.43 2410.43 0 0 0 -1645.92 1761.01" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2785.53" y1="3559.11" x2="-2847.43" y2="3638.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2790.37 3555.32 A 4519.57 4519.57 0 0 0 -2785.53 3559.11" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2785.53" y1="3559.11" x2="-2847.43" y2="3638.2" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2790.37 3555.32 A 4519.57 4519.57 0 0 0 -2785.53 3559.11" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2795.2" y1="3551.52" x2="-2857.32" y2="3630.45" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2795.2 3551.52 A 4519.57 4519.57 0 0 0 -2790.37 3555.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2728.36" y1="3476.31" x2="-2790.37" y2="3555.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3407,8 +3407,8 @@
             <path d="M -855.259 3098.03 A 3213.91 3213.91 0 0 0 -804.006 3111.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-748.351" y1="2710.77" x2="-855.259" y2="3098.03" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -959.928 2643.27 A 2812.17 2812.17 0 0 0 -748.351 2710.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-1795.33" y1="4147.68" x2="-1835.23" y2="4239.85" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -1800.97 4145.24 A 4519.57 4519.57 0 0 0 -1795.33 4147.68" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-1795.33" y1="4147.68" x2="-1835.23" y2="4239.85" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -1800.97 4145.24 A 4519.57 4519.57 0 0 0 -1795.33 4147.68" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1806.6" y1="4142.78" x2="-1846.75" y2="4234.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1806.6 4142.78 A 4519.57 4519.57 0 0 0 -1800.97 4145.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1760.95" y1="4053.12" x2="-1800.97" y2="4145.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3561,8 +3561,8 @@
             <path d="M -1904 2834.7 A 3414.78 3414.78 0 0 0 -1826.74 2885.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1848" y1="2751.32" x2="-1904" y2="2834.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1848 2751.32 A 3314.35 3314.35 0 0 0 -1737.84 2822.2" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2170.53" y1="3964.25" x2="-2218.76" y2="4052.34" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2175.92 3961.29 A 4519.57 4519.57 0 0 0 -2170.53 3964.25" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2170.53" y1="3964.25" x2="-2218.76" y2="4052.34" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2175.92 3961.29 A 4519.57 4519.57 0 0 0 -2170.53 3964.25" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2181.3" y1="3958.33" x2="-2229.77" y2="4046.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2181.3 3958.33 A 4519.57 4519.57 0 0 0 -2175.92 3961.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1837.44" y1="3345.09" x2="-2175.92" y2="3961.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3665,8 +3665,8 @@
             <path d="M -1921.82 3641.85 A 4117.83 4117.83 0 0 0 -1908.5 3648.85" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2148.94" y1="3975.99" x2="-2196.7" y2="4064.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2154.35 3973.07 A 4519.57 4519.57 0 0 0 -2148.94 3975.99" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2159.74" y1="3970.14" x2="-2207.74" y2="4058.36" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2159.74 3970.14 A 4519.57 4519.57 0 0 0 -2154.35 3973.07" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2159.74" y1="3970.14" x2="-2207.74" y2="4058.36" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2159.74 3970.14 A 4519.57 4519.57 0 0 0 -2154.35 3973.07" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2106.47" y1="3884.78" x2="-2154.35" y2="3973.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2106.47 3884.78 A 4419.13 4419.13 0 0 0 -2098.54 3889.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2090.61" y1="3893.34" x2="-2185.64" y2="4070.31" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3747,8 +3747,8 @@
             <path d="M -1793.89 3817.81 A 4218.26 4218.26 0 0 0 -1777.66 3825.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1751.18" y1="3726.91" x2="-1793.89" y2="3817.81" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1751.18 3726.91 A 4117.83 4117.83 0 0 0 -1728.03 3737.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-1873.94" y1="4112.76" x2="-1915.58" y2="4204.16" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -1879.53 4110.21 A 4519.57 4519.57 0 0 0 -1873.94 4112.76" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-1873.94" y1="4112.76" x2="-1915.58" y2="4204.16" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -1879.53 4110.21 A 4519.57 4519.57 0 0 0 -1873.94 4112.76" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1885.11" y1="4107.65" x2="-1927" y2="4198.93" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1885.11 4107.65 A 4519.57 4519.57 0 0 0 -1879.53 4110.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1837.76" y1="4018.87" x2="-1879.53" y2="4110.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -3941,8 +3941,8 @@
             <path d="M -749.162 1755.05 A 1908.26 1908.26 0 0 0 -483.849 1845.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-458.383" y1="1748.75" x2="-483.849" y2="1845.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -458.383 1748.75 A 1807.83 1807.83 0 0 0 -134.068 1802.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="276.882" y1="4108.51" x2="310.649" y2="4609.54" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 266.06 4109.22 A 4117.83 4117.83 0 0 0 276.882 4108.51" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="276.882" y1="4108.51" x2="310.649" y2="4609.54" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 266.06 4109.22 A 4117.83 4117.83 0 0 0 276.882 4108.51" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="272.192" y1="4209.47" x2="298.115" y2="4610.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 261.462 4210.15 A 4218.26 4218.26 0 0 0 272.192 4209.47" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="266.954" y1="4310.44" x2="285.579" y2="4611.17" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4003,8 +4003,8 @@
             <path d="M -349.931 4002.12 A 4017.39 4017.39 0 0 0 -335.477 4003.36" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-341.183" y1="3902.07" x2="-349.931" y2="4002.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -341.183 3902.07 A 3916.96 3916.96 0 0 0 -326.178 3903.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-311.169" y1="3904.58" x2="-367.02" y2="4605.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -326.178 3903.35 A 3916.96 3916.96 0 0 0 -311.169 3904.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-311.169" y1="3904.58" x2="-367.02" y2="4605.4" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -326.178 3903.35 A 3916.96 3916.96 0 0 0 -311.169 3904.58" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-317.815" y1="3803.27" x2="-326.178" y2="3903.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -317.815 3803.27 A 3816.52 3816.52 0 0 0 -284.48 3805.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-315.121" y1="4407.88" x2="-329.445" y2="4608.24" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4025,8 +4025,8 @@
             <path d="M -288.642 4208.37 A 4218.26 4218.26 0 0 0 -277.914 4209.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-281.769" y1="4108.17" x2="-288.642" y2="4208.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -281.769 4108.17 A 4117.83 4117.83 0 0 0 -270.948 4108.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-260.125" y1="4109.6" x2="-291.847" y2="4610.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -270.948 4108.9 A 4117.83 4117.83 0 0 0 -260.125 4109.6" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-260.125" y1="4109.6" x2="-291.847" y2="4610.77" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -270.948 4108.9 A 4117.83 4117.83 0 0 0 -260.125 4109.6" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-251.122" y1="3808.25" x2="-270.948" y2="4108.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -284.48 3805.9 A 3816.52 3816.52 0 0 0 -251.122 3808.25" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-276.993" y1="3705.75" x2="-284.48" y2="3805.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4107,8 +4107,8 @@
             <path d="M 24.0295 4419.07 A 4419.13 4419.13 0 0 0 33.0404 4419.01" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="22.3911" y1="4117.77" x2="24.0295" y2="4419.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4.54822 4117.82 A 4117.83 4117.83 0 0 0 22.3911 4117.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-27.0331" y1="4419.05" x2="-28.2619" y2="4619.91" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -36.044 4418.98 A 4419.13 4419.13 0 0 0 -27.0331 4419.05" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-27.0331" y1="4419.05" x2="-28.2619" y2="4619.91" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -36.044 4418.98 A 4419.13 4419.13 0 0 0 -27.0331 4419.05" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-39.9351" y1="4519.39" x2="-40.8225" y2="4619.82" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -46.0787 4519.33 A 4519.57 4519.57 0 0 0 -39.9351 4519.39" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-52.2223" y1="4519.26" x2="-53.3828" y2="4619.69" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4179,8 +4179,8 @@
             <path d="M 131.389 4015.24 A 4017.39 4017.39 0 0 0 151.685 4014.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="147.893" y1="3914.16" x2="151.685" y2="4014.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 147.893 3914.16 A 3916.96 3916.96 0 0 0 169.756 3913.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="218.025" y1="4514.3" x2="222.87" y2="4614.62" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 211.888 4514.6 A 4519.57 4519.57 0 0 0 218.025 4514.3" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="218.025" y1="4514.3" x2="222.87" y2="4614.62" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 211.888 4514.6 A 4519.57 4519.57 0 0 0 218.025 4514.3" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="205.751" y1="4514.88" x2="210.323" y2="4615.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 205.751 4514.88 A 4519.57 4519.57 0 0 0 211.888 4514.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="207.179" y1="4414.27" x2="211.888" y2="4514.6" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4201,8 +4201,8 @@
             <path d="M 450.828 4497.02 A 4519.57 4519.57 0 0 0 456.941 4496.41" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="436.633" y1="4296.57" x2="456.941" y2="4496.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 423.489 4297.88 A 4318.7 4318.7 0 0 0 436.633 4296.57" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="428.853" y1="4398.27" x2="448.347" y2="4598.19" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 419.884 4399.14 A 4419.13 4419.13 0 0 0 428.853 4398.27" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="428.853" y1="4398.27" x2="448.347" y2="4598.19" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 419.884 4399.14 A 4419.13 4419.13 0 0 0 428.853 4398.27" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="426.368" y1="4499.41" x2="435.843" y2="4599.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 420.252 4499.98 A 4519.57 4519.57 0 0 0 426.368 4499.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="414.134" y1="4500.55" x2="423.337" y2="4600.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4245,8 +4245,8 @@
             <path d="M 336.194 4104.08 A 4117.83 4117.83 0 0 0 370.005 4101.17" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="360.981" y1="4001.14" x2="370.005" y2="4101.17" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 360.981 4001.14 A 4017.39 4017.39 0 0 0 403.283 3997.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="489.166" y1="4290.9" x2="523.294" y2="4590.27" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 478.956 4292.05 A 4318.7 4318.7 0 0 0 489.166 4290.9" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="489.166" y1="4290.9" x2="523.294" y2="4590.27" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 478.956 4292.05 A 4318.7 4318.7 0 0 0 489.166 4290.9" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="487.493" y1="4493.2" x2="498.326" y2="4593.05" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 481.384 4493.86 A 4519.57 4519.57 0 0 0 487.493 4493.2" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="475.275" y1="4494.51" x2="485.836" y2="4594.38" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4357,8 +4357,8 @@
             <path d="M -3690.36 -2431.05 A 4419.13 4419.13 0 0 0 -3695.31 -2423.52" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3019.38" y1="-1989.04" x2="-3690.36" y2="-2431.05" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3002.46 -2014.48 A 3615.65 3615.65 0 0 0 -3019.38 -1989.04" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3675.42" y1="-2453.58" x2="-3842.48" y2="-2565.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3670.4 -2461.07 A 4419.13 4419.13 0 0 0 -3675.42 -2453.58" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3675.42" y1="-2453.58" x2="-3842.48" y2="-2565.1" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3670.4 -2461.07 A 4419.13 4419.13 0 0 0 -3675.42 -2453.58" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3752.11" y1="-2519.55" x2="-3835.49" y2="-2575.54" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3748.68 -2524.65 A 4519.57 4519.57 0 0 0 -3752.11 -2519.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3745.25" y1="-2529.74" x2="-3828.47" y2="-2585.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4715,8 +4715,8 @@
             <path d="M -959.489 -4313.71 A 4419.13 4419.13 0 0 0 -968.283 -4311.74" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-937.682" y1="-4215.67" x2="-959.489" y2="-4313.71" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -937.682 -4215.67 A 4318.7 4318.7 0 0 0 -950.572 -4212.78" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-1014.25" y1="-4404.29" x2="-1036.79" y2="-4502.16" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -1008.26 -4405.66 A 4519.57 4519.57 0 0 0 -1014.25 -4404.29" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-1014.25" y1="-4404.29" x2="-1036.79" y2="-4502.16" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -1008.26 -4405.66 A 4519.57 4519.57 0 0 0 -1014.25 -4404.29" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1002.27" y1="-4407.03" x2="-1024.55" y2="-4504.96" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1002.27 -4407.03 A 4519.57 4519.57 0 0 0 -1008.26 -4405.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-963.453" y1="-4209.86" x2="-1008.26" y2="-4405.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4841,8 +4841,8 @@
             <path d="M -76.7955 -4518.91 A 4519.57 4519.57 0 0 0 -82.9385 -4518.8" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-81.0954" y1="-4418.39" x2="-82.9385" y2="-4518.8" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -81.0954 -4418.39 A 4419.13 4419.13 0 0 0 -90.1048 -4418.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-99.1138" y1="-4418.02" x2="-103.619" y2="-4618.84" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -90.1048 -4418.21 A 4419.13 4419.13 0 0 0 -99.1138 -4418.02" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-99.1138" y1="-4418.02" x2="-103.619" y2="-4618.84" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -90.1048 -4418.21 A 4419.13 4419.13 0 0 0 -99.1138 -4418.02" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-86.0091" y1="-4217.38" x2="-90.1048" y2="-4418.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -68.0923 -4217.71 A 4218.26 4218.26 0 0 0 -86.0091 -4217.38" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-61.6421" y1="-4318.26" x2="-65.9427" y2="-4619.53" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -4861,8 +4861,8 @@
             <path d="M -50.1743 -4217.96 A 4218.26 4218.26 0 0 0 -68.0923 -4217.71" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-66.4711" y1="-4117.29" x2="-68.0923" y2="-4217.71" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -66.4711 -4117.29 A 4117.83 4117.83 0 0 0 -93.4054 -4116.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-150.499" y1="-4517.06" x2="-153.843" y2="-4617.44" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -144.358 -4517.26 A 4519.57 4519.57 0 0 0 -150.499 -4517.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-150.499" y1="-4517.06" x2="-153.843" y2="-4617.44" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -144.358 -4517.26 A 4519.57 4519.57 0 0 0 -150.499 -4517.06" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-138.217" y1="-4517.45" x2="-141.288" y2="-4617.84" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -138.217 -4517.45 A 4519.57 4519.57 0 0 0 -144.358 -4517.26" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-141.15" y1="-4416.88" x2="-144.358" y2="-4517.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5017,8 +5017,8 @@
             <path d="M 566.371 -4281.4 A 4318.7 4318.7 0 0 0 553.273 -4283.11" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="553.199" y1="-4181.83" x2="566.371" y2="-4281.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 553.199 -4181.83 A 4218.26 4218.26 0 0 0 526.185 -4185.31" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="500.83" y1="-4289.56" x2="535.772" y2="-4588.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 511.033 -4288.35 A 4318.7 4318.7 0 0 0 500.83 -4289.56" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="500.83" y1="-4289.56" x2="535.772" y2="-4588.83" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 511.033 -4288.35 A 4318.7 4318.7 0 0 0 500.83 -4289.56" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="548.527" y1="-4486.16" x2="560.716" y2="-4585.85" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 554.625 -4485.41 A 4519.57 4519.57 0 0 0 548.527 -4486.16" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="560.722" y1="-4484.65" x2="573.182" y2="-4584.31" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5127,8 +5127,8 @@
             <path d="M 698.432 -4058.16 A 4117.83 4117.83 0 0 0 679.461 -4061.38" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="706.712" y1="-4463.97" x2="722.417" y2="-4563.17" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 712.78 -4463.01 A 4519.57 4519.57 0 0 0 706.712 -4463.97" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="718.846" y1="-4462.03" x2="734.821" y2="-4561.19" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 718.846 -4462.03 A 4519.57 4519.57 0 0 0 712.78 -4463.01" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="718.846" y1="-4462.03" x2="734.821" y2="-4561.19" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 718.846 -4462.03 A 4519.57 4519.57 0 0 0 712.78 -4463.01" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="696.94" y1="-4363.83" x2="712.78" y2="-4463.01" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 708.802 -4361.92 A 4419.13 4419.13 0 0 0 696.94 -4363.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="730.975" y1="-4460.06" x2="747.219" y2="-4559.17" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5375,8 +5375,8 @@
             <path d="M -2320.54 -3522.61 A 4218.26 4218.26 0 0 0 -2337.28 -3511.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2527.2" y1="-3746.97" x2="-2583.36" y2="-3830.23" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2522.1 -3750.4 A 4519.57 4519.57 0 0 0 -2527.2 -3746.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2517" y1="-3753.82" x2="-2572.93" y2="-3837.24" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2517 -3753.82 A 4519.57 4519.57 0 0 0 -2522.1 -3750.4" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2517" y1="-3753.82" x2="-2572.93" y2="-3837.24" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2517 -3753.82 A 4519.57 4519.57 0 0 0 -2522.1 -3750.4" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2353.96" y1="-3500.37" x2="-2522.1" y2="-3750.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2337.28 -3511.53 A 4218.26 4218.26 0 0 0 -2353.96 -3500.37" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2225.98" y1="-3344.32" x2="-2337.28" y2="-3511.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5395,8 +5395,8 @@
             <path d="M -2058.46 -3093.87 A 3716.09 3716.09 0 0 0 -2149.23 -3031.52" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2226.78" y1="-3700.35" x2="-2382.14" y2="-3958.51" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2217.97 -3705.64 A 4318.7 4318.7 0 0 0 -2226.78 -3700.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2309.26" y1="-3885.07" x2="-2360.58" y2="-3971.41" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2303.98 -3888.21 A 4519.57 4519.57 0 0 0 -2309.26 -3885.07" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2309.26" y1="-3885.07" x2="-2360.58" y2="-3971.41" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2303.98 -3888.21 A 4519.57 4519.57 0 0 0 -2309.26 -3885.07" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2298.69" y1="-3891.34" x2="-2349.77" y2="-3977.81" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2298.69 -3891.34 A 4519.57 4519.57 0 0 0 -2303.98 -3888.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2252.78" y1="-3801.8" x2="-2303.98" y2="-3888.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5415,8 +5415,8 @@
             <path d="M -2126.28 -3643.17 A 4218.26 4218.26 0 0 0 -2135.56 -3637.73" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2176.27" y1="-3730.28" x2="-2328.11" y2="-3990.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2167.39 -3735.44 A 4318.7 4318.7 0 0 0 -2176.27 -3730.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2216.5" y1="-3823.07" x2="-2317.25" y2="-3996.84" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2208.7 -3827.58 A 4419.13 4419.13 0 0 0 -2216.5 -3823.07" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2216.5" y1="-3823.07" x2="-2317.25" y2="-3996.84" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2208.7 -3827.58 A 4419.13 4419.13 0 0 0 -2216.5 -3823.07" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2256.23" y1="-3916.1" x2="-2306.37" y2="-4003.13" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2250.91 -3919.17 A 4519.57 4519.57 0 0 0 -2256.23 -3916.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2245.58" y1="-3922.22" x2="-2295.48" y2="-4009.39" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5441,8 +5441,8 @@
             <path d="M -2304.25 -3770.83 A 4419.13 4419.13 0 0 0 -2311.93 -3766.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2259.39" y1="-3680.53" x2="-2311.93" y2="-3766.12" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2259.39 -3680.53 A 4318.7 4318.7 0 0 0 -2268.14 -3675.14" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2276.88" y1="-3669.74" x2="-2435.73" y2="-3925.76" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2268.14 -3675.14 A 4318.7 4318.7 0 0 0 -2276.88 -3669.74" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2276.88" y1="-3669.74" x2="-2435.73" y2="-3925.76" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2268.14 -3675.14 A 4318.7 4318.7 0 0 0 -2276.88 -3669.74" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2215.39" y1="-3589.67" x2="-2268.14" y2="-3675.14" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2215.39 -3589.67 A 4218.26 4218.26 0 0 0 -2226.97 -3582.5" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2403.62" y1="-3827.41" x2="-2457.04" y2="-3912.46" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5477,8 +5477,8 @@
             <path d="M -2007.71 -2885.46 A 3515.22 3515.22 0 0 0 -2043.48 -2860.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2677.86" y1="-3640.81" x2="-2737.37" y2="-3721.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2672.91 -3644.45 A 4519.57 4519.57 0 0 0 -2677.86 -3640.81" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2667.95" y1="-3648.08" x2="-2727.24" y2="-3729.15" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2667.95 -3648.08 A 4519.57 4519.57 0 0 0 -2672.91 -3644.45" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2667.95" y1="-3648.08" x2="-2727.24" y2="-3729.15" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2667.95 -3648.08 A 4519.57 4519.57 0 0 0 -2672.91 -3644.45" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2078.93" y1="-2834.57" x2="-2672.91" y2="-3644.45" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2043.48 -2860.24 A 3515.22 3515.22 0 0 0 -2078.93 -2834.57" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1985.09" y1="-2778.52" x2="-2043.48" y2="-2860.24" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5501,8 +5501,8 @@
             <path d="M -1468.84 -2971.1 A 3314.35 3314.35 0 0 0 -1548.07 -2930.59" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2083.8" y1="-4010.52" x2="-2130.11" y2="-4099.64" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2078.35 -4013.35 A 4519.57 4519.57 0 0 0 -2083.8 -4010.52" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2072.89" y1="-4016.17" x2="-2118.95" y2="-4105.42" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2072.89 -4016.17 A 4519.57 4519.57 0 0 0 -2078.35 -4013.35" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2072.89" y1="-4016.17" x2="-2118.95" y2="-4105.42" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2072.89 -4016.17 A 4519.57 4519.57 0 0 0 -2078.35 -4013.35" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2032.16" y1="-3924.16" x2="-2078.35" y2="-4013.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2032.16 -3924.16 A 4419.13 4419.13 0 0 0 -2040.16 -3920.01" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2048.15" y1="-3915.84" x2="-2141.24" y2="-4093.83" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5551,8 +5551,8 @@
             <path d="M -1770.59 -3939.05 A 4318.7 4318.7 0 0 0 -1779.96 -3934.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1729.42" y1="-3847.45" x2="-1770.59" y2="-3939.05" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1729.42 -3847.45 A 4218.26 4218.26 0 0 0 -1745.75 -3840.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-1885.11" y1="-4107.65" x2="-1927" y2="-4198.93" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -1879.53 -4110.21 A 4519.57 4519.57 0 0 0 -1885.11 -4107.65" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-1885.11" y1="-4107.65" x2="-1927" y2="-4198.93" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -1879.53 -4110.21 A 4519.57 4519.57 0 0 0 -1885.11 -4107.65" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1873.94" y1="-4112.76" x2="-1915.58" y2="-4204.16" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1873.94 -4112.76 A 4519.57 4519.57 0 0 0 -1879.53 -4110.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1837.76" y1="-4018.87" x2="-1879.53" y2="-4110.21" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5599,8 +5599,8 @@
             <path d="M -1430.61 -3100.66 A 3414.78 3414.78 0 0 0 -1535.63 -3050.01" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1726.31" y1="-3958.66" x2="-1846.75" y2="-4234.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1716.88 -3962.76 A 4318.7 4318.7 0 0 0 -1726.31 -3958.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-1784.05" y1="-4152.55" x2="-1823.69" y2="-4244.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -1778.4 -4154.97 A 4519.57 4519.57 0 0 0 -1784.05 -4152.55" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-1784.05" y1="-4152.55" x2="-1823.69" y2="-4244.83" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -1778.4 -4154.97 A 4519.57 4519.57 0 0 0 -1784.05 -4152.55" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1772.75" y1="-4157.38" x2="-1812.14" y2="-4249.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1772.75 -4157.38 A 4519.57 4519.57 0 0 0 -1778.4 -4154.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1738.88" y1="-4062.64" x2="-1778.4" y2="-4154.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5629,8 +5629,8 @@
             <path d="M -1367.87 -4202.1 A 4419.13 4419.13 0 0 0 -1376.44 -4199.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1345.15" y1="-4103.86" x2="-1376.44" y2="-4199.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1345.15 -4103.86 A 4318.7 4318.7 0 0 0 -1357.7 -4099.73" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-1439.79" y1="-4284.1" x2="-1471.79" y2="-4379.3" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -1433.97 -4286.05 A 4519.57 4519.57 0 0 0 -1439.79 -4284.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-1439.79" y1="-4284.1" x2="-1471.79" y2="-4379.3" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -1433.97 -4286.05 A 4519.57 4519.57 0 0 0 -1439.79 -4284.1" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1428.14" y1="-4287.99" x2="-1459.87" y2="-4383.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1428.14 -4287.99 A 4519.57 4519.57 0 0 0 -1433.97 -4286.05" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1370.23" y1="-4095.56" x2="-1433.97" y2="-4286.05" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5751,8 +5751,8 @@
             <path d="M -1388.54 -3009.46 A 3314.35 3314.35 0 0 0 -1468.84 -2971.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1424.33" y1="-2881.06" x2="-1468.84" y2="-2971.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -1424.33 -2881.06 A 3213.91 3213.91 0 0 0 -1470.65 -2857.7" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2138.12" y1="-3981.82" x2="-2185.64" y2="-4070.31" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2132.71 -3984.72 A 4519.57 4519.57 0 0 0 -2138.12 -3981.82" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2138.12" y1="-3981.82" x2="-2185.64" y2="-4070.31" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2132.71 -3984.72 A 4519.57 4519.57 0 0 0 -2138.12 -3981.82" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2127.29" y1="-3987.62" x2="-2174.56" y2="-4076.23" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2127.29 -3987.62 A 4519.57 4519.57 0 0 0 -2132.71 -3984.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-1516.59" y1="-2833.58" x2="-2132.71" y2="-3984.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5911,8 +5911,8 @@
             <path d="M -2278.68 -2807.23 A 3615.65 3615.65 0 0 0 -2334.86 -2760.68" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2819.44" y1="-3137.59" x2="-3087.96" y2="-3436.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2809.83 -3146.2 A 4218.26 4218.26 0 0 0 -2819.44 -3137.59" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2877.83" y1="-3220.13" x2="-3078.6" y2="-3444.79" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2866.87 -3229.89 A 4318.7 4318.7 0 0 0 -2877.83 -3220.13" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2877.83" y1="-3220.13" x2="-3078.6" y2="-3444.79" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2866.87 -3229.89 A 4318.7 4318.7 0 0 0 -2877.83 -3220.13" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3002.51" y1="-3378.08" x2="-3069.23" y2="-3453.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2997.91 -3382.16 A 4519.57 4519.57 0 0 0 -3002.51 -3378.08" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2993.31" y1="-3386.23" x2="-3059.83" y2="-3461.48" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -5957,8 +5957,8 @@
             <path d="M -2725.45 -3219.57 A 4218.26 4218.26 0 0 0 -2735.83 -3210.75" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2670.69" y1="-3134.31" x2="-2735.83" y2="-3210.75" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2670.69 -3134.31 A 4117.83 4117.83 0 0 0 -2682.13 -3124.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2693.52" y1="-3114.71" x2="-3022" y2="-3494.55" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2682.13 -3124.53 A 4117.83 4117.83 0 0 0 -2693.52 -3114.71" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2693.52" y1="-3114.71" x2="-3022" y2="-3494.55" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2682.13 -3124.53 A 4117.83 4117.83 0 0 0 -2693.52 -3114.71" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2616.71" y1="-3048.32" x2="-2682.13" y2="-3124.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2616.71 -3048.32 A 4017.39 4017.39 0 0 0 -2626.41 -3039.97" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2636.08" y1="-3031.59" x2="-3031.49" y2="-3486.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6221,8 +6221,8 @@
             <path d="M 2436.99 -2937.16 A 3816.52 3816.52 0 0 0 2429.03 -2943.75" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2365.11" y1="-2866.28" x2="2429.03" y2="-2943.75" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2365.11 -2866.28 A 3716.09 3716.09 0 0 0 2355.37 -2874.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="2847.99" y1="-3509.33" x2="2911.28" y2="-3587.32" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 2852.76 -3505.46 A 4519.57 4519.57 0 0 0 2847.99 -3509.33" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="2847.99" y1="-3509.33" x2="2911.28" y2="-3587.32" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 2852.76 -3505.46 A 4519.57 4519.57 0 0 0 2847.99 -3509.33" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2857.52" y1="-3501.57" x2="2921.02" y2="-3579.39" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2857.52 -3501.57 A 4519.57 4519.57 0 0 0 2852.76 -3505.46" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2345.6" y1="-2882.26" x2="2852.76" y2="-3505.46" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6253,8 +6253,8 @@
             <path d="M 2828.25 -3263.77 A 4318.7 4318.7 0 0 0 2820.47 -3270.48" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2499.38" y1="-2884.26" x2="2828.25" y2="-3263.77" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2517.71 -2868.27 A 3816.52 3816.52 0 0 0 2499.38 -2884.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="2590.21" y1="-2938.26" x2="3055.12" y2="-3465.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 2602.67 -2927.23 A 3916.96 3916.96 0 0 0 2590.21 -2938.26" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="2590.21" y1="-2938.26" x2="3055.12" y2="-3465.64" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 2602.67 -2927.23 A 3916.96 3916.96 0 0 0 2590.21 -2938.26" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2840.7" y1="-3118.35" x2="3111.25" y2="-3415.34" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2854.45 -3105.77 A 4218.26 4218.26 0 0 0 2840.7 -3118.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2984.84" y1="-3258.74" x2="3120.52" y2="-3406.87" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6421,8 +6421,8 @@
             <path d="M 2501.67 -3764.06 A 4519.57 4519.57 0 0 0 2496.55 -3767.45" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2330.11" y1="-3516.29" x2="2496.55" y2="-3767.45" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2341.45 -3508.75 A 4218.26 4218.26 0 0 0 2330.11 -3516.29" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="2466.05" y1="-3667.06" x2="2578.15" y2="-3833.74" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 2473.53 -3662.02 A 4419.13 4419.13 0 0 0 2466.05 -3667.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="2466.05" y1="-3667.06" x2="2578.15" y2="-3833.74" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 2473.53 -3662.02 A 4419.13 4419.13 0 0 0 2466.05 -3667.06" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2532.29" y1="-3743.53" x2="2588.56" y2="-3826.72" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 2537.37 -3740.08 A 4519.57 4519.57 0 0 0 2532.29 -3743.53" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="2542.46" y1="-3736.63" x2="2598.95" y2="-3819.66" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6513,12 +6513,12 @@
             <path d="M 1495.61 -3511.27 A 3816.52 3816.52 0 0 0 1441.33 -3533.9" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1806.21" y1="-3812" x2="1978.23" y2="-4175.04" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1817.86 -3806.46 A 4218.26 4218.26 0 0 0 1806.21 -3812" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1859.82" y1="-3897.72" x2="1989.58" y2="-4169.65" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1873.06 -3891.37 A 4318.7 4318.7 0 0 0 1859.82 -3897.72" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1957.41" y1="-4073.7" x2="2000.9" y2="-4164.23" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1962.94 -4071.04 A 4519.57 4519.57 0 0 0 1957.41 -4073.7" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1968.47" y1="-4068.36" x2="2012.22" y2="-4158.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1968.47 -4068.36 A 4519.57 4519.57 0 0 0 1962.94 -4071.04" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1859.82" y1="-3897.72" x2="1989.58" y2="-4169.65" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1873.06 -3891.37 A 4318.7 4318.7 0 0 0 1859.82 -3897.72" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1957.41" y1="-4073.7" x2="2000.9" y2="-4164.23" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1962.94 -4071.04 A 4519.57 4519.57 0 0 0 1957.41 -4073.7" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1968.47" y1="-4068.36" x2="2012.22" y2="-4158.77" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1968.47 -4068.36 A 4519.57 4519.57 0 0 0 1962.94 -4071.04" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1919.32" y1="-3980.57" x2="1962.94" y2="-4071.04" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1930.14 -3975.33 A 4419.13 4419.13 0 0 0 1919.32 -3980.57" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1979.53" y1="-4063" x2="2023.52" y2="-4153.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6569,8 +6569,8 @@
             <path d="M 1812.23 -4140.32 A 4519.57 4519.57 0 0 0 1806.6 -4142.78" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1766.45" y1="-4050.72" x2="1806.6" y2="-4142.78" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1766.45 -4050.72 A 4419.13 4419.13 0 0 0 1758.19 -4054.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1749.92" y1="-4057.89" x2="1829.46" y2="-4242.34" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1758.19 -4054.32 A 4419.13 4419.13 0 0 0 1749.92 -4057.89" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1749.92" y1="-4057.89" x2="1829.46" y2="-4242.34" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1758.19 -4054.32 A 4419.13 4419.13 0 0 0 1749.92 -4057.89" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1678.27" y1="-3870.03" x2="1758.19" y2="-4054.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1694.7 -3862.86 A 4218.26 4218.26 0 0 0 1678.27 -3870.03" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1742.44" y1="-3951.59" x2="1864" y2="-4227.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6599,8 +6599,8 @@
             <path d="M 1549.54 -3487.8 A 3816.52 3816.52 0 0 0 1495.61 -3511.27" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1456.25" y1="-3418.86" x2="1495.61" y2="-3511.27" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1456.25 -3418.86 A 3716.09 3716.09 0 0 0 1417.33 -3435.18" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1378.22" y1="-3451.06" x2="1713.46" y2="-4290.51" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1417.33 -3435.18 A 3716.09 3716.09 0 0 0 1378.22 -3451.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1378.22" y1="-3451.06" x2="1713.46" y2="-4290.51" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1417.33 -3435.18 A 3716.09 3716.09 0 0 0 1378.22 -3451.06" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1379.02" y1="-3342.34" x2="1417.33" y2="-3435.18" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1379.02 -3342.34 A 3615.65 3615.65 0 0 0 1353.18 -3352.89" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1653.36" y1="-4206.29" x2="1690.1" y2="-4299.76" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6733,8 +6733,8 @@
             <path d="M 661.171 -2108.32 A 2209.57 2209.57 0 0 0 593.366 -2128.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="631.118" y1="-2012.49" x2="661.171" y2="-2108.32" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 631.118 -2012.49 A 2109.13 2109.13 0 0 0 571.524 -2030.22" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="1027.42" y1="-3987.59" x2="1152.72" y2="-4473.88" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 1037.92 -3984.87 A 4117.83 4117.83 0 0 0 1027.42 -3987.59" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="1027.42" y1="-3987.59" x2="1152.72" y2="-4473.88" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 1037.92 -3984.87 A 4117.83 4117.83 0 0 0 1027.42 -3987.59" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1100.27" y1="-4176.19" x2="1177.03" y2="-4467.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 1110.2 -4173.56 A 4318.7 4318.7 0 0 0 1100.27 -4176.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="1137.47" y1="-4270.23" x2="1189.17" y2="-4464.33" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6815,8 +6815,8 @@
             <path d="M 4148.9 -1792.51 A 4519.57 4519.57 0 0 0 4146.46 -1798.15" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4054.32" y1="-1758.19" x2="4146.46" y2="-1798.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4059.08 -1747.16 A 4419.13 4419.13 0 0 0 4054.32 -1758.19" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4153.76" y1="-1781.22" x2="4246.06" y2="-1820.81" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4156.18 -1775.58 A 4519.57 4519.57 0 0 0 4153.76 -1781.22" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4153.76" y1="-1781.22" x2="4246.06" y2="-1820.81" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4156.18 -1775.58 A 4519.57 4519.57 0 0 0 4153.76 -1781.22" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4158.59" y1="-1769.92" x2="4251" y2="-1809.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4158.59 -1769.92 A 4519.57 4519.57 0 0 0 4156.18 -1775.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4063.82" y1="-1736.12" x2="4156.18" y2="-1775.58" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -6869,8 +6869,8 @@
             <path d="M 3916.48 -1819.99 A 4318.7 4318.7 0 0 0 3909.02 -1835.94" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3825.4" y1="-1777.66" x2="3916.48" y2="-1819.99" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3825.4 -1777.66 A 4218.26 4218.26 0 0 0 3816.89 -1795.84" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4077.68" y1="-1949.1" x2="4168.3" y2="-1992.41" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4080.33 -1943.55 A 4519.57 4519.57 0 0 0 4077.68 -1949.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4077.68" y1="-1949.1" x2="4168.3" y2="-1992.41" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4080.33 -1943.55 A 4519.57 4519.57 0 0 0 4077.68 -1949.1" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4082.97" y1="-1938" x2="4173.7" y2="-1981.07" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4082.97 -1938 A 4519.57 4519.57 0 0 0 4080.33 -1943.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3808.31" y1="-1813.98" x2="4080.33" y2="-1943.55" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7047,8 +7047,8 @@
             <path d="M 3400.09 -1944.72 A 3916.96 3916.96 0 0 0 3378.91 -1981.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3292.27" y1="-1930.5" x2="3378.91" y2="-1981.3" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3292.27 -1930.5 A 3816.52 3816.52 0 0 0 3275.25 -1959.23" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3854.93" y1="-2359.24" x2="3940.59" y2="-2411.67" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3858.13 -2354 A 4519.57 4519.57 0 0 0 3854.93 -2359.24" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3854.93" y1="-2359.24" x2="3940.59" y2="-2411.67" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3858.13 -2354 A 4519.57 4519.57 0 0 0 3854.93 -2359.24" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3861.33" y1="-2348.75" x2="3947.13" y2="-2400.94" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3861.33 -2348.75 A 4519.57 4519.57 0 0 0 3858.13 -2354" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3257.98" y1="-1987.82" x2="3858.13" y2="-2354" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7459,8 +7459,8 @@
             <path d="M 4119.65 -906.777 A 4218.26 4218.26 0 0 0 4115.76 -924.27" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4021.56" y1="-885.187" x2="4119.65" y2="-906.777" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4021.56 -885.187 A 4117.83 4117.83 0 0 0 4014.59 -916.254" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4393.72" y1="-1059.1" x2="4491.36" y2="-1082.64" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4395.15 -1053.13 A 4519.57 4519.57 0 0 0 4393.72 -1059.1" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4393.72" y1="-1059.1" x2="4491.36" y2="-1082.64" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4395.15 -1053.13 A 4519.57 4519.57 0 0 0 4393.72 -1059.1" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4396.58" y1="-1047.15" x2="4494.28" y2="-1070.42" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4396.58 -1047.15 A 4519.57 4519.57 0 0 0 4395.15 -1053.13" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4199.81" y1="-1006.32" x2="4395.15" y2="-1053.13" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7507,8 +7507,8 @@
             <path d="M 4268.29 -657.901 A 4318.7 4318.7 0 0 0 4266.26 -670.954" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4167.04" y1="-655.35" x2="4266.26" y2="-670.954" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4167.04 -655.35 A 4218.26 4218.26 0 0 0 4163.53 -677.292" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4356.49" y1="-741.395" x2="4554.52" y2="-775.095" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4358 -732.51 A 4419.13 4419.13 0 0 0 4356.49 -741.395" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4356.49" y1="-741.395" x2="4554.52" y2="-775.095" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4358 -732.51 A 4419.13 4419.13 0 0 0 4356.49 -741.395" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4457.55" y1="-746.129" x2="4556.61" y2="-762.709" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4458.56 -740.068 A 4519.57 4519.57 0 0 0 4457.55 -746.129" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4459.56" y1="-734.007" x2="4558.66" y2="-750.318" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7569,8 +7569,8 @@
             <path d="M 4081.15 -548.351 A 4117.83 4117.83 0 0 0 4076.54 -581.62" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3981.61" y1="-534.976" x2="4081.15" y2="-548.351" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3981.61 -534.976 A 4017.39 4017.39 0 0 0 3977.98 -561.351" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3974.17" y1="-587.701" x2="4570.3" y2="-675.856" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3977.98 -561.351 A 4017.39 4017.39 0 0 0 3974.17 -587.701" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3974.17" y1="-587.701" x2="4570.3" y2="-675.856" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3977.98 -561.351 A 4017.39 4017.39 0 0 0 3974.17 -587.701" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3878.53" y1="-547.317" x2="3977.98" y2="-561.351" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3878.53 -547.317 A 3916.96 3916.96 0 0 0 3871.06 -597.852" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3573.29" y1="-551.864" x2="3871.06" y2="-597.852" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7581,8 +7581,8 @@
             <path d="M 4435.62 -867.031 A 4519.57 4519.57 0 0 0 4434.44 -873.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3843.18" y1="-756.652" x2="4434.44" y2="-873.06" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3845.71 -743.668 A 3916.96 3916.96 0 0 0 3843.18 -756.652" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4146.37" y1="-775.435" x2="4541.27" y2="-849.286" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4148.34 -764.864 A 4218.26 4218.26 0 0 0 4146.37 -775.435" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4146.37" y1="-775.435" x2="4541.27" y2="-849.286" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4148.34 -764.864 A 4218.26 4218.26 0 0 0 4146.37 -775.435" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4247.24" y1="-782.353" x2="4543.56" y2="-836.936" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4249.09 -772.247 A 4318.7 4318.7 0 0 0 4247.24 -782.353" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4449.17" y1="-794.561" x2="4548.04" y2="-812.217" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7727,8 +7727,8 @@
             <path d="M 4117.43 -57.3757 A 4117.83 4117.83 0 0 0 4116.94 -85.3604" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4016.53" y1="-83.2785" x2="4116.94" y2="-85.3604" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4016.53 -83.2785 A 4017.39 4017.39 0 0 0 4015.89 -109.894" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4516.74" y1="-159.709" x2="4617.11" y2="-163.258" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4516.96 -153.569 A 4519.57 4519.57 0 0 0 4516.74 -159.709" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4516.74" y1="-159.709" x2="4617.11" y2="-163.258" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4516.96 -153.569 A 4519.57 4519.57 0 0 0 4516.74 -159.709" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4517.16" y1="-147.428" x2="4617.54" y2="-150.704" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4517.16 -147.428 A 4519.57 4519.57 0 0 0 4516.96 -153.569" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4015.07" y1="-136.506" x2="4516.96" y2="-153.569" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7765,8 +7765,8 @@
             <path d="M 4500.27 -417.193 A 4519.57 4519.57 0 0 0 4499.7 -423.31" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4399.7" y1="-413.903" x2="4499.7" y2="-423.31" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4399.7 -413.903 A 4419.13 4419.13 0 0 0 4398.85 -422.874" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4397.98" y1="-431.843" x2="4597.89" y2="-451.472" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4398.85 -422.874 A 4419.13 4419.13 0 0 0 4397.98 -431.843" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4397.98" y1="-431.843" x2="4597.89" y2="-451.472" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4398.85 -422.874 A 4419.13 4419.13 0 0 0 4397.98 -431.843" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4298.88" y1="-413.263" x2="4398.85" y2="-422.874" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4298.88 -413.263 A 4318.7 4318.7 0 0 0 4297.59 -426.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4197.65" y1="-416.493" x2="4297.59" y2="-426.41" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7797,8 +7797,8 @@
             <path d="M 3658.88 -1085.55 A 3816.52 3816.52 0 0 0 3654.67 -1099.65" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3755.42" y1="-1113.28" x2="4429.46" y2="-1313.1" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3759.43 -1099.64 A 3916.96 3916.96 0 0 0 3755.42 -1113.28" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="3854.8" y1="-1131.35" x2="4433.02" y2="-1301.06" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 3859.9 -1113.82 A 4017.39 4017.39 0 0 0 3854.8 -1131.35" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="3854.8" y1="-1131.35" x2="4433.02" y2="-1301.06" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 3859.9 -1113.82 A 4017.39 4017.39 0 0 0 3854.8 -1131.35" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4360.08" y1="-1190.01" x2="4456.98" y2="-1216.46" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4361.7 -1184.09 A 4519.57 4519.57 0 0 0 4360.08 -1190.01" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4363.3" y1="-1178.15" x2="4460.27" y2="-1204.34" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -7813,8 +7813,8 @@
             <path d="M 4162.81 -1149.86 A 4318.7 4318.7 0 0 0 4160.06 -1159.76" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4066" y1="-1123.12" x2="4162.81" y2="-1149.86" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4066 -1123.12 A 4218.26 4218.26 0 0 0 4063.12 -1133.48" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4060.22" y1="-1143.83" x2="4446.91" y2="-1252.77" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4063.12 -1133.48 A 4218.26 4218.26 0 0 0 4060.22 -1143.83" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4060.22" y1="-1143.83" x2="4446.91" y2="-1252.77" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4063.12 -1133.48 A 4218.26 4218.26 0 0 0 4060.22 -1143.83" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="3966.38" y1="-1106.49" x2="4063.12" y2="-1133.48" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 3966.38 -1106.49 A 4117.83 4117.83 0 0 0 3961.55 -1123.67" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4243.65" y1="-1232.96" x2="4436.54" y2="-1289" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -8029,8 +8029,8 @@
             <path d="M -2920.53 -2456.9 A 3816.52 3816.52 0 0 0 -2929.66 -2446" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2852.57" y1="-2381.63" x2="-2929.66" y2="-2446" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2852.57 -2381.63 A 3716.09 3716.09 0 0 0 -2860.23 -2372.42" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-2867.86" y1="-2363.19" x2="-3565.45" y2="-2938.02" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -2860.23 -2372.42 A 3716.09 3716.09 0 0 0 -2867.86 -2363.19" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-2867.86" y1="-2363.19" x2="-3565.45" y2="-2938.02" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -2860.23 -2372.42 A 3716.09 3716.09 0 0 0 -2867.86 -2363.19" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-2705.62" y1="-2244.18" x2="-2860.23" y2="-2372.42" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -2660.06 -2298.01 A 3515.22 3515.22 0 0 0 -2705.62 -2244.18" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3376.04" y1="-3004.8" x2="-3451.06" y2="-3071.57" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -8199,8 +8199,8 @@
             <path d="M -4409.06 -993.286 A 4519.57 4519.57 0 0 0 -4410.41 -987.292" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4312.4" y1="-965.352" x2="-4410.41" y2="-987.292" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4309.76 -977.073 A 4419.13 4419.13 0 0 0 -4312.4 -965.352" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4406.35" y1="-1005.27" x2="-4504.27" y2="-1027.61" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4404.98 -1011.26 A 4519.57 4519.57 0 0 0 -4406.35 -1005.27" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4406.35" y1="-1005.27" x2="-4504.27" y2="-1027.61" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4404.98 -1011.26 A 4519.57 4519.57 0 0 0 -4406.35 -1005.27" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4403.6" y1="-1017.25" x2="-4501.46" y2="-1039.85" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4403.6 -1017.25 A 4519.57 4519.57 0 0 0 -4404.98 -1011.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4307.09" y1="-988.787" x2="-4404.98" y2="-1011.26" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -8219,8 +8219,8 @@
             <path d="M -4216.63 -933.383 A 4318.7 4318.7 0 0 0 -4221.33 -911.876" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4118.56" y1="-911.677" x2="-4216.63" y2="-933.383" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4118.56 -911.677 A 4218.26 4218.26 0 0 0 -4124.52 -884.363" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4328.79" y1="-888.995" x2="-4525.55" y2="-929.404" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4326.97 -897.82 A 4419.13 4419.13 0 0 0 -4328.79 -888.995" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4328.79" y1="-888.995" x2="-4525.55" y2="-929.404" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4326.97 -897.82 A 4419.13 4419.13 0 0 0 -4328.79 -888.995" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4424.68" y1="-921.233" x2="-4523.01" y2="-941.705" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4423.42 -927.247 A 4519.57 4519.57 0 0 0 -4424.68 -921.233" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4422.16" y1="-933.259" x2="-4520.43" y2="-953.998" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -8283,8 +8283,8 @@
             <path d="M -4081.79 -1064.28 A 4218.26 4218.26 0 0 0 -4086.28 -1046.93" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4271" y1="-1134.56" x2="-4465.14" y2="-1186.14" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4268.68 -1143.27 A 4419.13 4419.13 0 0 0 -4271 -1134.56" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4364.9" y1="-1172.22" x2="-4461.9" y2="-1198.27" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4363.3 -1178.15 A 4519.57 4519.57 0 0 0 -4364.9 -1172.22" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4364.9" y1="-1172.22" x2="-4461.9" y2="-1198.27" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4363.3 -1178.15 A 4519.57 4519.57 0 0 0 -4364.9 -1172.22" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4361.7" y1="-1184.09" x2="-4458.62" y2="-1210.4" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4361.7 -1184.09 A 4519.57 4519.57 0 0 0 -4363.3 -1178.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4266.34" y1="-1151.97" x2="-4363.3" y2="-1178.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -8331,12 +8331,12 @@
             <path d="M -4099.27 -1359.09 A 4318.7 4318.7 0 0 0 -4103.86 -1345.15" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3050.62" y1="-1011.42" x2="-4099.27" y2="-1359.09" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3016.94 -1107.83 A 3213.91 3213.91 0 0 0 -3050.62 -1011.42" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3558.86" y1="-1636.18" x2="-4197.62" y2="-1929.86" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3548.53 -1658.45 A 3916.96 3916.96 0 0 0 -3558.86 -1636.18" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3558.86" y1="-1636.18" x2="-4197.62" y2="-1929.86" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3548.53 -1658.45 A 3916.96 3916.96 0 0 0 -3558.86 -1636.18" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3793.38" y1="-1844.98" x2="-4154.66" y2="-2020.69" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3788.67 -1854.65 A 4218.26 4218.26 0 0 0 -3793.38 -1844.98" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-4048.08" y1="-2009.85" x2="-4138.04" y2="-2054.51" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -4045.35 -2015.35 A 4519.57 4519.57 0 0 0 -4048.08 -2009.85" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-4048.08" y1="-2009.85" x2="-4138.04" y2="-2054.51" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -4045.35 -2015.35 A 4519.57 4519.57 0 0 0 -4048.08 -2009.85" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4042.6" y1="-2020.85" x2="-4132.44" y2="-2065.76" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4042.6 -2020.85 A 4519.57 4519.57 0 0 0 -4045.35 -2015.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3955.45" y1="-1970.57" x2="-4045.35" y2="-2015.35" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -9093,8 +9093,8 @@
             <path d="M -3613.24 131.979 A 3615.65 3615.65 0 0 0 -3612.23 157.235" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-3815.25" y1="98.5651" x2="-4618.46" y2="119.316" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -3815.58 84.5852 A 3816.52 3816.52 0 0 0 -3815.25 98.5651" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="-3915.91" y1="90.5126" x2="-4618.77" y2="106.758" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M -3916.29 72.4623 A 3916.96 3916.96 0 0 0 -3915.91 90.5126" stroke="#c83e4f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="-3915.91" y1="90.5126" x2="-4618.77" y2="106.758" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M -3916.29 72.4623 A 3916.96 3916.96 0 0 0 -3915.91 90.5126" stroke="#ffa02f" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4519.53" y1="18.4318" x2="-4619.96" y2="18.8413" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M -4519.55 12.2879 A 4519.57 4519.57 0 0 0 -4519.53 18.4318" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="-4519.56" y1="6.14393" x2="-4620" y2="6.28046" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -9219,8 +9219,8 @@
             <path d="M 200.418 13.46 A 200.87 200.87 0 0 0 200.809 4.91466" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="100.209" y1="6.73002" x2="200.418" y2="13.46" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 100.209 6.73002 A 100.435 100.435 0 0 0 100.35 4.13436" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
-            <line x1="4418.54" y1="72.0856" x2="4619.39" y2="75.3623" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
-            <path d="M 4418.39 81.0954 A 4419.13 4419.13 0 0 0 4418.54 72.0856" stroke="#00000c" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
+            <line x1="4418.54" y1="72.0856" x2="4619.39" y2="75.3623" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
+            <path d="M 4418.39 81.0954 A 4419.13 4419.13 0 0 0 4418.54 72.0856" stroke="#87216b" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4518.75" y1="86.0099" x2="4619.16" y2="87.9212" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
             <path d="M 4518.63 92.1526 A 4519.57 4519.57 0 0 0 4518.75 86.0099" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" fill="none" />
             <line x1="4518.5" y1="98.2952" x2="4618.91" y2="100.48" stroke="#c0c0c0" stroke-opacity="1" stroke-width="8" stroke-linecap="round" />
@@ -11555,23 +11555,23 @@
             <text x="0" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1" alignment-baseline="middle" transform="translate( 4629.93, 25.1761 ) rotate( 0.311553 )">Eukaryota_Amoebozoa_Gracilipodida_LEMD267@AY082989_1588_bp</text>
             <text x="0" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1" alignment-baseline="middle" transform="translate( 4629.98, 12.5881 ) rotate( 0.155777 )">Eukaryota_Amoebozoa_Gracilipodida_Telaepolella_tubasferens@EU273440_1588_bp</text>
         </g>
-        <g transform="translate( 4620, 0 )">
+        <g transform="translate( 5544, 0 )">
             <rect x="0" y="3465" width="462" height="1155" stroke="none" fill="#00000c" fill-opacity="1" />
             <rect x="0" y="2310" width="462" height="1155" stroke="none" fill="#87216b" fill-opacity="1" />
             <rect x="0" y="1155" width="462" height="1155" stroke="none" fill="#c83e4f" fill-opacity="1" />
             <rect x="0" y="0" width="462" height="1155" stroke="none" fill="#ffa02f" fill-opacity="1" />
             <rect x="0" y="0" width="462" height="4620" stroke="#000000" stroke-opacity="1" stroke-width="1" fill="none" />
-            <text x="485.1" y="4620" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0</text>
+            <text x="485.1" y="4620" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0</text>
             <line x1="0" y1="3465" x2="69.3" y2="3465" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="392.7" y1="3465" x2="462" y2="3465" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="485.1" y="3465" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.11071</text>
+            <text x="485.1" y="3465" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0.00125</text>
             <line x1="0" y1="2310" x2="69.3" y2="2310" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="392.7" y1="2310" x2="462" y2="2310" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="485.1" y="2310" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.22142</text>
+            <text x="485.1" y="2310" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0.0025</text>
             <line x1="0" y1="1155" x2="69.3" y2="1155" stroke="#000000" stroke-opacity="1" stroke-width="1" />
             <line x1="392.7" y1="1155" x2="462" y2="1155" stroke="#000000" stroke-opacity="1" stroke-width="1" />
-            <text x="485.1" y="1155" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.332129</text>
-            <text x="485.1" y="0" font-size="10" font-family="Verdana" fill="#000000" fill-opacity="1">0.442839</text>
+            <text x="485.1" y="1155" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">0.00375</text>
+            <text x="485.1" y="0" font-size="154" font-family="Verdana" fill="#000000" fill-opacity="1">≥ 0.005</text>
         </g>
     </g>
 </svg>

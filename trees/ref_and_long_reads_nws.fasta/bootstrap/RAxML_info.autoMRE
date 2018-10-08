@@ -1,0 +1,45 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+RAxML a posteriori Bootstrap convergence assessment
+
+
+RAxML was called as follows:
+
+/home/alexey/hits/raxml-git/raxmlHPC-AVX2 -n autoMRE -z bsrep.tre -I autoMRE -m GTRGAMMA -p 3 -B 0.03 --bootstop-perms=1000 
+
+
+
+
+Found 300 trees in File bsrep.tre
+
+
+
+Found 300 trees in File bsrep.tre
+
+# Trees 	 Avg WRF in % 	 # Perms: wrf <= 3.00 %
+50 		 6.98 			 0
+100 		 4.84 			 0
+150 		 3.94 			 0
+200 		 3.37 			 0
+250 		 3.00 			 542
+300 		 2.77 			 997
+Converged after 300 replicates
