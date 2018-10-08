@@ -26,39 +26,47 @@
 
 source ~/haswell_modules.sh
 
-THREADS=40
+THREADS=20
 
 BASE="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 ALI=${BASE}/data/ref_only_nws.fasta
-# TDIR=${BASE}/trees/ref_only_nws.fasta/UNCONS_RAND
-TDIR=${BASE}/trees/ref_and_V4_reads_nws.fasta
-# TREE=${TDIR}/search.raxml.bestTree
-TREE=${TDIR}/pruned/pruned.newick
-# MODELFILE=${TDIR}/search.raxml.bestModel
-MODELFILE=${TDIR}/UNCONS_PARS/search.raxml.bestModel
-QRY=$1
-
-if [ -d ${BASE} -a -r ${ALI} -a -r ${QRY} -a -r ${TREE} -a -r ${MODELFILE} ]
-then echo "all paths OK!"
-else echo "ERROR: a path was wrong!" && exit
-fi
-
-# extract model string
-MODEL="$(head -n 1 ${MODELFILE} | awk -F "," '{print $1}')"
-
-QRYNAME=$(basename ${QRY})
-
-# OUT=${BASE}/jplace/${QRYNAME}/
-OUT=${BASE}/jplace/pruned_V4/${QRYNAME}/
-
-mkdir -p ${OUT}
-rm -f ${OUT}/*
 
 echo "start at `date`"
 
-epa-ng --tree ${TREE} --ref-msa ${ALI} --query ${QRY} --outdir ${OUT} --model ${MODEL} --threads ${THREADS} --no-heur --no-pre-mask --verbose
+for treename in "V4" "long" "ref_only"; do
+
+  for queryname in "V4" "long"; do
+
+    if [[ "${treename}" == "ref_only" ]];
+      then  TDIR=${BASE}/trees/${treename}_nws.fasta/
+            TPREFIX=""
+      else  TDIR=${BASE}/trees/ref_and_${treename}_reads_nws.fasta/pruned
+            TPREFIX="pruned_"
+    fi
+
+    TREE=${TDIR}/best.tre
+    MODELFILE=${TDIR}/best.model
+    QRY=${BASE}/data/${queryname}_reads_nws.fasta
+
+    if [ -d ${BASE} -a -r ${ALI} -a -r ${QRY} -a -r ${TREE} -a -r ${MODELFILE} ]
+    then echo "all paths OK!"
+    else echo "ERROR: a path was wrong!" && exit
+    fi
+
+    # extract model string
+    MODEL="$(head -n 1 ${MODELFILE} | awk -F "," '{print $1}')"
+
+    OUT=${BASE}/jplace/${TPREFIX}${treename}/${queryname}_read_queries/
+
+    mkdir -p ${OUT}
+    rm -f ${OUT}/*
+
+
+    epa-ng --tree ${TREE} --ref-msa ${ALI} --query ${QRY} --outdir ${OUT} --model ${MODEL} --threads ${THREADS} --no-heur --no-pre-mask --verbose
+
+
+  done
+
+done
 
 echo "end at `date`"
-
-
-
