@@ -1,0 +1,49 @@
+INFO Selected: Output dir: /hits/fast/sco/barbera/long-reads/jplace/pruned_long/V4_read_queries/
+INFO Selected: verbose (debug) output
+INFO Selected: Query file: /hits/fast/sco/barbera/long-reads/data/V4_reads_nws.fasta
+INFO Selected: Tree file: /hits/fast/sco/barbera/long-reads/trees/ref_and_long_reads_nws.fasta/pruned/best.tre
+INFO Selected: Reference MSA: /hits/fast/sco/barbera/long-reads/data/ref_only_nws.fasta
+INFO Selected: Disabling pre-masking. (repeats enabled!)
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model: GTR{1.597925/3.919959/1.658770/0.984742/5.665958/1.000000}+FU{0.247024/0.193831/0.269255/0.289890}+G4m{0.603331}
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.603331 (user),  weights&rates: (0.25,0.0537958) (0.25,0.314119) (0.25,0.883009) (0.25,2.74908) 
+        Base frequencies (user): 0.247024 0.193831 0.269255 0.28989 
+        Substitution rates (user): 1.59793 3.91996 1.65877 0.984742 5.66596 1
+INFO Selected: Using threads: 20
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.2.1-beta)
+DBG  Peeking into MSA files and generating masks
+DBG  Reference File:
+     Path: /hits/fast/sco/barbera/long-reads/data/ref_only_nws.fasta
+     Sequences: 1661
+     Sites: 1588
+     Gaps: 0
+     Fraction of gaps: 0
+DBG  Query File:
+     Path: /hits/fast/sco/barbera/long-reads/data/V4_reads_nws.fasta
+     Sequences: 650
+     Sites: 1588
+     Gaps: 1234
+     Fraction of gaps: 0.777078
+DBG  Failed to parse input as binary fasta (bfast), trying `fasta` instead.
+DBG  Reference File size: 1661
+DBG  Reference File width: 1588
+DBG     Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.603331 (user),  weights&rates: (0.25,0.0537958) (0.25,0.314119) (0.25,0.883009) (0.25,2.74908) 
+        Base frequencies (user): 0.247024 0.193831 0.269255 0.28989 
+        Substitution rates (user): 1.59793 3.91996 1.65877 0.984742 5.66596 1
+DBG  Tree length: 86.2796
+DBG  Reference tree log-likelihood: -289070.918753
+INFO Number of ranks: 1
+DBG  Failed to parse input as binary fasta (bfast), trying `fasta` instead.
+INFO Output file: /hits/fast/sco/barbera/long-reads/jplace/pruned_long/V4_read_queries/epa_result.jplace
+DBG  num_sequences: 650
+DBG  BLO Placement.
+DBG  Using threads: 20
+DBG  Max threads: 20
+DBG  Filtering output placements below threshold: 0.01
+INFO 650 Sequences done!
+INFO Time spent placing: 176s
+INFO Elapsed Time: 177s
