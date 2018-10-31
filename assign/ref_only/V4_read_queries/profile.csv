@@ -1,5 +1,5 @@
 LWR	fract	aLWR	afract	taxopath
-2.33	0.003951	589.8	1	Eukaryota
+2.331	0.003952	589.8	1	Eukaryota
 0	0	34.41	0.05835	Eukaryota;Archaeplastida
 0.1013	0.0001718	34.19	0.05798	Eukaryota;Archaeplastida;Chloroplastida
 1.939	0.003287	28.49	0.04831	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta
@@ -46,7 +46,6 @@ LWR	fract	aLWR	afract	taxopath
 0.0008826	1.496e-06	0.0008826	1.496e-06	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Chlamydomonas;rapa
 0.9388	0.001592	3.357	0.005692	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Tetracystis
 0.9888	0.001677	0.9888	0.001677	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Tetracystis;sarcinalis
--4.869e-17	-8.256e-20	-4.869e-17	-8.256e-20	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Tetracystis;pampae
 0.1682	0.0002852	0.1682	0.0002852	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Tetracystis;vinatzeri
 0.3359	0.0005695	0.3359	0.0005695	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Tetracystis;excentrica
 0.1681	0.000285	0.1681	0.000285	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Tetracystis;texensis
@@ -71,8 +70,6 @@ LWR	fract	aLWR	afract	taxopath
 0.00503	8.529e-06	0.00503	8.529e-06	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Ettlia;minuta
 0	0	0.1714	0.0002907	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Fasciculochloris
 0.1714	0.0002907	0.1714	0.0002907	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonadales;Fasciculochloris;boldii
-0	0	-3.62e-17	-6.138e-20	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonas
--3.62e-17	-6.138e-20	-3.62e-17	-6.138e-20	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlamydomonas;Antarctic2E9
 0.006202	1.052e-05	1.998	0.003388	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlorosarcinales
 0	0	0.9984	0.001693	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlorosarcinales;Neochlorosarcina
 0.9984	0.001693	0.9984	0.001693	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Chlorophyceae;Chlorosarcinales;Neochlorosarcina;negevensis
@@ -110,8 +107,6 @@ LWR	fract	aLWR	afract	taxopath
 0	0	0.01479	2.508e-05	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Pottiales
 0	0	0.01479	2.508e-05	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Pottiales;Syntrichia
 0.01479	2.508e-05	0.01479	2.508e-05	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Pottiales;Syntrichia;ruralis
-0	0	-2.631e-17	-4.461e-20	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Pottiales;Pottia
--2.631e-17	-4.461e-20	-2.631e-17	-4.461e-20	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Pottiales;Pottia;truncata
 0	0	0.06747	0.0001144	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Polytrichales
 0.06747	0.0001144	0.06747	0.0001144	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Bryophyta;Polytrichales;Viridiplantae
 0	0	3.79	0.006427	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Streptophyta;Embryophyta;Tracheophyta
@@ -141,7 +136,6 @@ LWR	fract	aLWR	afract	taxopath
 0.2491	0.0004224	0.2837	0.0004811	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Zygnematophyceae;Zygnematales
 0	0	0.03462	5.871e-05	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Zygnematophyceae;Zygnematales;Cylindrocystis
 0.03462	5.871e-05	0.03462	5.871e-05	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Zygnematophyceae;Zygnematales;Cylindrocystis;brebissonii
--1.228e-16	-2.082e-19	-1.228e-16	-2.082e-19	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Zygnematophyceae;Zygnema
 0.03493	5.923e-05	0.03493	5.923e-05	Eukaryota;Archaeplastida;Chloroplastida;Charophyta;Phragmoplastophyta;Zygnematophyceae;Desmidiales
 0.0105	1.78e-05	0.2218	0.0003761	Eukaryota;Archaeplastida;Rhodophyceae
 0.01377	2.335e-05	0.1643	0.0002786	Eukaryota;Archaeplastida;Rhodophyceae;Cyanidiales
@@ -346,7 +340,6 @@ LWR	fract	aLWR	afract	taxopath
 0	0	0.9977	0.001692	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Onygenales;Onygenaceae
 0.5937	0.001007	0.9977	0.001692	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Onygenales;Onygenaceae;Auxarthron
 0.202	0.0003425	0.202	0.0003425	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Onygenales;Onygenaceae;Auxarthron;thaxteri
--4.408e-17	-7.474e-20	-4.408e-17	-7.474e-20	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Onygenales;Onygenaceae;Auxarthron;umbrinum
 0.202	0.0003425	0.202	0.0003425	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Onygenales;Onygenaceae;Auxarthron;filamentosum
 0	0	0.9995	0.001695	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Chaetothyriales
 0.6648	0.001127	0.9995	0.001695	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae
@@ -361,7 +354,6 @@ LWR	fract	aLWR	afract	taxopath
 0	0	0.07469	0.0001266	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Roussoellaceae
 0	0	0.07469	0.0001266	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Roussoellaceae;Roussoella
 0.07469	0.0001266	0.07469	0.0001266	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Roussoellaceae;Roussoella;intermedia
--3.039e-17	-5.153e-20	-3.039e-17	-5.153e-20	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Roussoellaceae;Roussoella;Pleosporales
 0	0	0.116	0.0001966	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Didymosphaeriaceae
 0	0	0.0579	9.818e-05	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Letendraea
 0.0579	9.818e-05	0.0579	9.818e-05	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Letendraea;helminthicola
@@ -523,7 +515,6 @@ LWR	fract	aLWR	afract	taxopath
 0.1974	0.0003347	0.1974	0.0003347	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Incertae_Sedis;Sarocladium;Y40_1
 0	0	0.3575	0.0006062	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Incertae_Sedis;Acremonium
 0.3575	0.0006062	0.3575	0.0006062	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Incertae_Sedis;Acremonium;blochii
--4.501e-17	-7.632e-20	-4.501e-17	-7.632e-20	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Incertae_Sedis;Acremonium;curvulum
 0	0	1.277	0.002166	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Nectriaceae
 0.4588	0.0007779	1.267	0.002148	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium
 0.4731	0.0008021	0.4731	0.0008021	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;fujikuroi
@@ -619,7 +610,6 @@ LWR	fract	aLWR	afract	taxopath
 0	0	1.999	0.003389	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina;Saccharomycetes;Saccharomycetales;Incertae_Sedis
 0.9991	0.001694	0.9991	0.001694	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina;Saccharomycetes;Saccharomycetales;Incertae_Sedis;Candida
 0.2231	0.0003782	0.9998	0.001695	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina;Saccharomycetes;Saccharomycetales;Incertae_Sedis;Nadsonia
--2.034e-17	-3.449e-20	-2.034e-17	-3.449e-20	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina;Saccharomycetes;Saccharomycetales;Incertae_Sedis;Nadsonia;fulvescens
 0.7767	0.001317	0.7767	0.001317	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina;Saccharomycetes;Saccharomycetales;Incertae_Sedis;Nadsonia;commutata
 0	0	0.4741	0.0008039	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Entorrhizomycota
 0	0	0.4741	0.0008039	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Entorrhizomycota;Incertae_Sedis
@@ -918,8 +908,6 @@ LWR	fract	aLWR	afract	taxopath
 0.3117	0.0005286	2	0.003391	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera
 1.16	0.001966	1.688	0.002863	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea
 0.4967	0.0008422	0.5059	0.0008578	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea;Adinetida
-0	0	-5.033e-18	-8.534e-21	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea;Adinetida;Biomphalaria
--5.033e-18	-8.534e-21	-5.033e-18	-8.534e-21	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea;Adinetida;Biomphalaria;glabrata
 0	0	0.00923	1.565e-05	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea;Adinetida;Colobanthus
 0.00923	1.565e-05	0.00923	1.565e-05	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea;Adinetida;Colobanthus;quitensis
 0.02278	3.863e-05	0.02278	3.863e-05	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Rotifera;Bdelloidea;Philodinida
@@ -939,7 +927,6 @@ LWR	fract	aLWR	afract	taxopath
 0	0	0.07629	0.0001294	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Mollusca;Gastropoda;Heterobranchia;Acusta
 0	0	0.07629	0.0001294	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Mollusca;Gastropoda;Heterobranchia;Acusta;despecta
 0.07629	0.0001294	0.07629	0.0001294	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Mollusca;Gastropoda;Heterobranchia;Acusta;despecta;sieboldiana
--3.102e-17	-5.259e-20	-3.102e-17	-5.259e-20	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Mollusca;Gastropoda;Heterobranchia;Arion
 0.01304	2.211e-05	0.01716	2.909e-05	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Cnidaria
 0.004117	6.98e-06	0.004117	6.98e-06	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Cnidaria;Anthozoa
 0.0003593	6.092e-07	1.451	0.00246	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Porifera
@@ -1042,7 +1029,7 @@ LWR	fract	aLWR	afract	taxopath
 0.5462	0.0009261	0.5462	0.0009261	Eukaryota;SAR;Rhizaria;Cercozoa;Imbricatea;Silicofilosea;Thaumatomonadidae;Thaumatomonas
 0	0	0.972	0.001648	Eukaryota;SAR;Rhizaria;Cercozoa;Imbricatea;Spongomonadida
 0.972	0.001648	0.972	0.001648	Eukaryota;SAR;Rhizaria;Cercozoa;Imbricatea;Spongomonadida;Spongomonas
-1.001	0.001697	3.08	0.005222	Eukaryota;SAR;Rhizaria;Cercozoa;Thecofilosea
+1	0.001696	3.079	0.005221	Eukaryota;SAR;Rhizaria;Cercozoa;Thecofilosea
 0.08808	0.0001493	0.08808	0.0001493	Eukaryota;SAR;Rhizaria;Cercozoa;Thecofilosea;Incertae_Sedis
 0	0	1.991	0.003376	Eukaryota;SAR;Rhizaria;Cercozoa;Thecofilosea;Cryomonadida
 0	0	1.991	0.003376	Eukaryota;SAR;Rhizaria;Cercozoa;Thecofilosea;Cryomonadida;Rhizaspididae
@@ -1193,7 +1180,6 @@ LWR	fract	aLWR	afract	taxopath
 0.01796	3.045e-05	0.01796	3.045e-05	Eukaryota;SAR;Alveolata;Ciliophora;Intramacronucleata;Conthreep;Oligohymenophorea;Apostomatia;Platynematum;salinarum
 0.005254	8.908e-06	1.005	0.001704	Eukaryota;SAR;Alveolata;Ciliophora;Postciliodesmatophora
 0.7583	0.001286	1	0.001696	Eukaryota;SAR;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea
--2.579e-17	-4.372e-20	-2.579e-17	-4.372e-20	Eukaryota;SAR;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostoma
 0	0	0.2417	0.0004099	Eukaryota;SAR;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Stentor
 0.2417	0.0004099	0.2417	0.0004099	Eukaryota;SAR;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Stentor;coeruleus
 0.0338	5.731e-05	0.9775	0.001657	Eukaryota;SAR;Alveolata;Dinoflagellata
@@ -1356,9 +1342,6 @@ LWR	fract	aLWR	afract	taxopath
 0	0	0.9216	0.001563	Eukaryota;Amoebozoa;Schizoplasmodiida;Ceratiomyxella
 0.9216	0.001563	0.9216	0.001563	Eukaryota;Amoebozoa;Schizoplasmodiida;Ceratiomyxella;tahitiensis
 0.01216	2.062e-05	0.01216	2.062e-05	Eukaryota;Amoebozoa;Incertae_Sedis
-0	0	-9.721e-17	-1.648e-19	Eukaryota;Amoebozoa;Incertae_Sedis;Ischnamoeba
-0	0	-9.721e-17	-1.648e-19	Eukaryota;Amoebozoa;Incertae_Sedis;Ischnamoeba;Lobosea
--9.721e-17	-1.648e-19	-9.721e-17	-1.648e-19	Eukaryota;Amoebozoa;Incertae_Sedis;Ischnamoeba;Lobosea;Mb_5C
 0.07387	0.0001252	0.07455	0.0001264	Eukaryota;Amoebozoa;Gracilipodida
 0	0	0.0006886	1.168e-06	Eukaryota;Amoebozoa;Gracilipodida;Filamoeba
 0.0006886	1.168e-06	0.0006886	1.168e-06	Eukaryota;Amoebozoa;Gracilipodida;Filamoeba;nolandi

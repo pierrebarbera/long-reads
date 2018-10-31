@@ -1,4 +1,4 @@
-2.33	Eukaryota
+2.331	Eukaryota
 0	Eukaryota	Archaeplastida
 0.1013	Eukaryota	Archaeplastida	Chloroplastida
 1.939	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta
@@ -45,7 +45,6 @@
 0.0008826	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonas	rapa
 0.9388	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetracystis
 0.9888	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetracystis	sarcinalis
--4.869e-17	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetracystis	pampae
 0.1682	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetracystis	vinatzeri
 0.3359	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetracystis	excentrica
 0.1681	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Tetracystis	texensis
@@ -70,8 +69,6 @@
 0.00503	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Ettlia	minuta
 0	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Fasciculochloris
 0.1714	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonadales	Fasciculochloris	boldii
-0	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonas
--3.62e-17	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlamydomonas	Antarctic2E9
 0.006202	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlorosarcinales
 0	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlorosarcinales	Neochlorosarcina
 0.9984	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Chlorophyceae	Chlorosarcinales	Neochlorosarcina	negevensis
@@ -109,8 +106,6 @@
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales	Syntrichia
 0.01479	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales	Syntrichia	ruralis
-0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales	Pottia
--2.631e-17	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales	Pottia	truncata
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Polytrichales
 0.06747	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Polytrichales	Viridiplantae
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta
@@ -140,7 +135,6 @@
 0.2491	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Zygnematophyceae	Zygnematales
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Zygnematophyceae	Zygnematales	Cylindrocystis
 0.03462	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Zygnematophyceae	Zygnematales	Cylindrocystis	brebissonii
--1.228e-16	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Zygnematophyceae	Zygnema
 0.03493	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Zygnematophyceae	Desmidiales
 0.0105	Eukaryota	Archaeplastida	Rhodophyceae
 0.01377	Eukaryota	Archaeplastida	Rhodophyceae	Cyanidiales
@@ -345,7 +339,6 @@
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Onygenaceae
 0.5937	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Onygenaceae	Auxarthron
 0.202	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Onygenaceae	Auxarthron	thaxteri
--4.408e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Onygenaceae	Auxarthron	umbrinum
 0.202	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Onygenales	Onygenaceae	Auxarthron	filamentosum
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Chaetothyriales
 0.6648	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae
@@ -360,7 +353,6 @@
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Roussoellaceae
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Roussoellaceae	Roussoella
 0.07469	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Roussoellaceae	Roussoella	intermedia
--3.039e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Roussoellaceae	Roussoella	Pleosporales
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Didymosphaeriaceae
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Letendraea
 0.0579	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Letendraea	helminthicola
@@ -522,7 +514,6 @@
 0.1974	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Incertae_Sedis	Sarocladium	Y40_1
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Incertae_Sedis	Acremonium
 0.3575	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Incertae_Sedis	Acremonium	blochii
--4.501e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Incertae_Sedis	Acremonium	curvulum
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Nectriaceae
 0.4588	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium
 0.4731	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	fujikuroi
@@ -618,7 +609,6 @@
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Incertae_Sedis
 0.9991	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Incertae_Sedis	Candida
 0.2231	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Incertae_Sedis	Nadsonia
--2.034e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Incertae_Sedis	Nadsonia	fulvescens
 0.7767	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Saccharomycotina	Saccharomycetes	Saccharomycetales	Incertae_Sedis	Nadsonia	commutata
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Entorrhizomycota
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Entorrhizomycota	Incertae_Sedis
@@ -917,8 +907,6 @@
 0.3117	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera
 1.16	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea
 0.4967	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea	Adinetida
-0	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea	Adinetida	Biomphalaria
--5.033e-18	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea	Adinetida	Biomphalaria	glabrata
 0	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea	Adinetida	Colobanthus
 0.00923	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea	Adinetida	Colobanthus	quitensis
 0.02278	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Rotifera	Bdelloidea	Philodinida
@@ -938,7 +926,6 @@
 0	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Mollusca	Gastropoda	Heterobranchia	Acusta
 0	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Mollusca	Gastropoda	Heterobranchia	Acusta	despecta
 0.07629	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Mollusca	Gastropoda	Heterobranchia	Acusta	despecta	sieboldiana
--3.102e-17	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Mollusca	Gastropoda	Heterobranchia	Arion
 0.01304	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Cnidaria
 0.004117	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Cnidaria	Anthozoa
 0.0003593	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Porifera
@@ -1041,7 +1028,7 @@
 0.5462	Eukaryota	SAR	Rhizaria	Cercozoa	Imbricatea	Silicofilosea	Thaumatomonadidae	Thaumatomonas
 0	Eukaryota	SAR	Rhizaria	Cercozoa	Imbricatea	Spongomonadida
 0.972	Eukaryota	SAR	Rhizaria	Cercozoa	Imbricatea	Spongomonadida	Spongomonas
-1.001	Eukaryota	SAR	Rhizaria	Cercozoa	Thecofilosea
+1	Eukaryota	SAR	Rhizaria	Cercozoa	Thecofilosea
 0.08808	Eukaryota	SAR	Rhizaria	Cercozoa	Thecofilosea	Incertae_Sedis
 0	Eukaryota	SAR	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida
 0	Eukaryota	SAR	Rhizaria	Cercozoa	Thecofilosea	Cryomonadida	Rhizaspididae
@@ -1192,7 +1179,6 @@
 0.01796	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Apostomatia	Platynematum	salinarum
 0.005254	Eukaryota	SAR	Alveolata	Ciliophora	Postciliodesmatophora
 0.7583	Eukaryota	SAR	Alveolata	Ciliophora	Postciliodesmatophora	Heterotrichea
--2.579e-17	Eukaryota	SAR	Alveolata	Ciliophora	Postciliodesmatophora	Heterotrichea	Condylostoma
 0	Eukaryota	SAR	Alveolata	Ciliophora	Postciliodesmatophora	Heterotrichea	Stentor
 0.2417	Eukaryota	SAR	Alveolata	Ciliophora	Postciliodesmatophora	Heterotrichea	Stentor	coeruleus
 0.0338	Eukaryota	SAR	Alveolata	Dinoflagellata
@@ -1355,9 +1341,6 @@
 0	Eukaryota	Amoebozoa	Schizoplasmodiida	Ceratiomyxella
 0.9216	Eukaryota	Amoebozoa	Schizoplasmodiida	Ceratiomyxella	tahitiensis
 0.01216	Eukaryota	Amoebozoa	Incertae_Sedis
-0	Eukaryota	Amoebozoa	Incertae_Sedis	Ischnamoeba
-0	Eukaryota	Amoebozoa	Incertae_Sedis	Ischnamoeba	Lobosea
--9.721e-17	Eukaryota	Amoebozoa	Incertae_Sedis	Ischnamoeba	Lobosea	Mb_5C
 0.07387	Eukaryota	Amoebozoa	Gracilipodida
 0	Eukaryota	Amoebozoa	Gracilipodida	Filamoeba
 0.0006886	Eukaryota	Amoebozoa	Gracilipodida	Filamoeba	nolandi

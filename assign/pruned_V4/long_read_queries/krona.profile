@@ -1,4 +1,4 @@
-1.524	Eukaryota
+1.933	Eukaryota
 2.495	Eukaryota	Opisthokonta
 3.43	Eukaryota	Opisthokonta	Nucletmycea
 3.374	Eukaryota	Opisthokonta	Nucletmycea	Fungi
@@ -256,7 +256,6 @@
 0.0003289	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Glomerellales
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Glomerellales	Plectosphaerellaceae
 0.9997	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Plectosphaerella
--7.426e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Plectosphaerella	Verticillium
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Myrmecridiales
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Myrmecridiales	Myrmecridiaceae
 0.3357	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Sordariomycetes	Myrmecridiales	Myrmecridiaceae	Myrmecridium
@@ -304,7 +303,6 @@
 0.1361	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Extremaceae
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Extremaceae	Extremus
 0.5653	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Extremaceae	Extremus	Capnodiales
--6.627e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Extremaceae	Extremus	Capnodiales	CCFEE_5205
 0.2985	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Extremaceae	Extremus	Capnodiales	CCFEE_5271
 0.001553	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Cladosporiaceae
 0.3927	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium
@@ -351,8 +349,6 @@
 0.002936	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pyronemataceae	Geopyxis	majalis
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pyronemataceae	Byssonectria
 0.1882	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pyronemataceae	Byssonectria	fusispora
-0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pyronemataceae	Inermisia
--4.601e-18	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pyronemataceae	Inermisia	terrestris
 0.77	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pezizaceae
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pezizaceae	Boudiera
 0.2284	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Pezizomycetes	Pezizales	Pezizaceae	Boudiera	acanthospora
@@ -382,7 +378,6 @@
 0.9974	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	capsulatum
 0	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Trichocomaceae
 0.5684	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces
--3.184e-17	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	purpureogenus
 0.1435	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	verruculosus
 0.1434	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	amestolkiae
 0.1435	Eukaryota	Opisthokonta	Nucletmycea	Fungi	Dikarya	Ascomycota	Pezizomycotina	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	marneffei
@@ -518,7 +513,6 @@
 7.739	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida
 0.9621	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Pratylenchoides
 0.03412	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Pratylenchoides	ritteri
--7.537e-17	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Pratylenchoides	nevadensis
 0.2632	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Nematoda
 0.5608	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Ditylenchus
 0.0004593	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Ditylenchus	angustus
@@ -531,7 +525,6 @@
 0.9407	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Malenchus	andrassyi
 0.2442	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Coslenchus
 0.06209	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Coslenchus	franklinae
--3.281e-17	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Miculenchusalvus
 0.7361	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Filenchus
 0.2516	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Filenchus	hamuliger
 0.01226	Eukaryota	Opisthokonta	Holozoa	Metazoa	Animalia	Eumetazoa	Bilateria	Nematoda	Chromadorea	Tylenchida	Filenchus	thornei
@@ -634,7 +627,6 @@
 0.0266	Eukaryota	Opisthokonta	Holozoa	Filasterea	Ministeriida	Ministeridae	Ministeria	vibrans
 3.419	Eukaryota	Opisthokonta	Aphelidea
 2.714	Eukaryota	Opisthokonta	Aphelidea	Paraphelidium
--4.621e-17	Eukaryota	Opisthokonta	Aphelidea	Paraphelidium	letcheri
 0	Eukaryota	Opisthokonta	Aphelidea	Aphelidium
 0.0001198	Eukaryota	Opisthokonta	Aphelidea	Aphelidium	tribonemae
 10.24	Eukaryota	Excavata
@@ -669,8 +661,6 @@
 0.9857	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Liliopsida	Poales
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Liliopsida	Poales	Festuca
 0.01418	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Liliopsida	Poales	Festuca	arundinacea
-0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Liliopsida	Poales	Lolium
--3.148e-18	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Liliopsida	Poales	Lolium	temulentum
 0.1577	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Asterales
 0.235	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Asterales	Diplostephium
 0.1175	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Asterales	Diplostephium	lechleri
@@ -682,9 +672,6 @@
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Brassicales	Brassica	napus
 0.5958	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Tracheophyta	Spermatophyta	Magnoliophyta	Brassicales	Brassica	napus	rape
 0.789	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta
-0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales
-0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales	Syntrichia
--1.099e-17	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Pottiales	Syntrichia	ruralis
 0	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Polytrichales
 0.1963	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Streptophyta	Embryophyta	Bryophyta	Polytrichales	Viridiplantae
 0.544	Eukaryota	Archaeplastida	Chloroplastida	Charophyta	Phragmoplastophyta	Zygnematophyceae
@@ -738,7 +725,6 @@
 1.899	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae
 0	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae	Ctenocladales
 0.6666	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae	Ctenocladales	Leptosira
--7.401e-17	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae	Ctenocladales	Leptosira	obovata
 0.3334	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae	Ctenocladales	Leptosira	erumpens
 0	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae	Incertae_Sedis
 0	Eukaryota	Archaeplastida	Chloroplastida	Chlorophyta	Trebouxiophyceae	Incertae_Sedis	Coccomyxa
@@ -776,7 +762,7 @@
 0.005473	Eukaryota	Archaeplastida	Rhodophyceae	Cyanidiales
 0.2027	Eukaryota	Archaeplastida	Rhodophyceae	Cyanidiales	Galdieria
 0.00198	Eukaryota	SAR
-3.443	Eukaryota	SAR	Alveolata
+3.033	Eukaryota	SAR	Alveolata
 0.009615	Eukaryota	SAR	Alveolata	Dinoflagellata
 0	Eukaryota	SAR	Alveolata	Dinoflagellata	Incertae_Sedis
 0.007029	Eukaryota	SAR	Alveolata	Dinoflagellata	Incertae_Sedis	Blastodinium
@@ -836,10 +822,7 @@
 0.2186	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep
 0.9885	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea
 0.4871	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Scuticociliatia
-0	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Scuticociliatia	Dexiotricha
--2.137e-16	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Scuticociliatia	Dexiotricha	granulosa
 0.5129	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Scuticociliatia	Homalogastra
--4.204e-18	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Scuticociliatia	Pseudocohnilembus
 2.587	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Peritrichia
 0.4132	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Peritrichia	Opisthonecta
 3.266	Eukaryota	SAR	Alveolata	Ciliophora	Intramacronucleata	Conthreep	Colpodea
@@ -1085,8 +1068,6 @@
 0	Eukaryota	Amoebozoa	Tubulinea	Euamoebida	Amoeba
 0.01052	Eukaryota	Amoebozoa	Tubulinea	Euamoebida	Amoeba	proteus
 7.998	Eukaryota	Amoebozoa	Tubulinea	Euamoebida	BOLA868
-0	Eukaryota	Amoebozoa	Tubulinea	Euamoebida	Hartmannella
--6.147e-17	Eukaryota	Amoebozoa	Tubulinea	Euamoebida	Hartmannella	abertawensis
 0.1132	Eukaryota	Amoebozoa	Tubulinea	Arcellinida
 1.912	Eukaryota	Amoebozoa	Tubulinea	Arcellinida	Echinamoebida
 0	Eukaryota	Amoebozoa	Tubulinea	Arcellinida	Echinamoebida	Vermamoeba

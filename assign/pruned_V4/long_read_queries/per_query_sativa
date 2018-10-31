@@ -7,12 +7,12 @@ c-4893_conseq_Otu00115_16_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikar
 c-5788_conseq_Otu00137_13_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Zoopagomycota	0.983748;0.983748;0.983748;0.661148;0.661148
 c-6137_conseq_Otu00067_31_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Xylariales;Apiosporaceae;Arthrinium	1;1;1;1;1;1;1;1;1;0.999483;0.999483
 c-6725_conseq_Otu00152_12_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreales	0.989408;0.989408;0.989408;0.989408;0.989408;0.989408;0.989408;0.989408;0.989408
-c-8342_conseq_Otu00337_4_1588_bp	Eukaryota;SAR;Alveolata	0.440365;0.412374;0.412374
+c-8342_conseq_Otu00337_4_1588_bp	Eukaryota	0.440365
 c-8805_conseq_Otu00184_9_1588_bp	Eukaryota;SAR;Rhizaria;Cercozoa;Phytomyxea;Spongospora;subterranea	0.997957;0.997957;0.997957;0.997957;0.997957;0.502015;0.502015
 m54032_170210_154134_16515714_ccs_Otu00255_6_1588_bp	Eukaryota;SAR;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Pedospumella	0.999897;0.999897;0.999897;0.999897;0.999897;0.999537;0.575007
 m54032_170210_154134_29360267_ccs_Otu00175_10_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina;Agaricomycetes;Agaricales;Cortinariaceae;Cortinarius	1;1;1;1;1;1;1;1;1;0.996155;0.996155
 m54032_170210_154134_51118331_ccs_Otu00611_2_1588_bp	Eukaryota;SAR;Rhizaria;Cercozoa;Glissomonadida	0.998;0.998;0.998;0.998;0.655274
-m54032_170210_154134_65733281_ccs_Otu00555_2_1588_bp	Eukaryota;SAR;Alveolata	0.439891;0.37232;0.37232
+m54032_170210_154134_65733281_ccs_Otu00555_2_1588_bp	Eukaryota	0.439891
 m54088_170214_101554_21365230_ccs_Otu00390_3_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Cryptomycota	1;1;1;1;1
 m54088_170214_101554_32768766_ccs_Otu00585_2_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces;fabryi	0.999986;0.999986;0.999986;0.999986;0.999986;0.999986;0.999986;0.999986;0.999986;0.996366;0.996366;0.33799
 m54088_170214_101554_46858937_ccs_Otu00579_2_1588_bp	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Nematoda;Chromadorea;Rhabditida	0.999999;0.999999;0.999999;0.999999;0.999999;0.999999;0.999999;0.999999;0.999999;0.999999
@@ -85,7 +85,7 @@ c-1639_conseq_Otu00133_13_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikar
 c-474_conseq_Otu00105_18_1588_bp	Eukaryota;SAR;Stramenopiles;Peronosporomycetes	0.77602;0.77602;0.77602;0.77602
 c-5383_conseq_Otu00097_20_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina;Microbotryomycetes	1;1;1;1;1;1;1;0.9883
 c-806_conseq_Otu00116_16_1588_bp	Eukaryota;SAR;Rhizaria;Cercozoa;Cercomonadidae	1;1;1;1;1
-c-8622_conseq_Otu00298_5_1588_bp	Eukaryota;SAR;Alveolata	0.418019;0.384454;0.384454
+c-8622_conseq_Otu00298_5_1588_bp	Eukaryota;SAR;Alveolata;Apicomplexa	0.418019;0.277311;0.277311;0.214373
 c-8839_conseq_Otu00090_22_1588_bp	Eukaryota;SAR;Alveolata;Apicomplexa;Conoidasida	0.501138;0.501138;0.501138;0.466971;0.275916
 m54032_170210_154134_15925581_ccs_Otu00192_9_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Zoopagomycota	0.999352;0.999352;0.999352;0.999352;0.999352
 m54032_170210_154134_62128945_ccs_Otu00412_3_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Hysteriales;Hysteriaceae;Farlowiella;carmichaeliana	1;1;1;1;1;1;1;1;0.994743;0.994743;0.994743;0.994743
@@ -424,7 +424,7 @@ m54088_170216_085445_18809347_ccs_Otu00220_8_1588_bp	Eukaryota;SAR;Rhizaria;Cerc
 m54088_170216_085445_22282805_ccs_Otu00178_10_1588_bp	Eukaryota;SAR;Rhizaria;Cercozoa;Imbricatea;Silicofilosea	0.999312;0.999312;0.999312;0.999312;0.999312;0.517346
 m54088_170216_085445_45089714_ccs_Otu00391_3_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Leotiomycetes;Phacidiales;Bulgariaceae;Bulgaria;inquinans	0.381602;0.381602;0.381602;0.381602;0.381602;0.381602;0.381602;0.381602;0.165478;0.165478;0.165478;0.165478
 m54088_170216_085445_49742821_ccs_Otu00237_7_1588_bp	Eukaryota;Archaeplastida;Chloroplastida;Chlorophyta;Trebouxiophyceae;Spongiococcum;tetrasporum	0.999999;0.999999;0.999999;0.999999;0.777035;0.777035;0.777035
-m54088_170216_085445_69206648_ccs_Otu00366_3_1588_bp	Eukaryota;SAR;Alveolata	0.252222;0.245398;0.245398
+m54088_170216_085445_69206648_ccs_Otu00366_3_1588_bp	Eukaryota;SAR;Alveolata	0.252222;0.236966;0.236966
 c-557_conseq_Otu00113_17_1588_bp	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Eumetazoa;Bilateria;Arthropoda;Hexapoda;Ellipura;Collembola	1;1;1;1;1;1;1;1;0.91683;0.91683;0.91683
 c-6005_conseq_Otu00020_161_1588_bp	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Pleosporales	0.996878;0.996878;0.996878;0.996878;0.996878;0.996878;0.996878;0.996878;0.996878
 c-6410_conseq_Otu00159_11_1588_bp	Eukaryota;SAR;Alveolata;Apicomplexa;Conoidasida;Cryptosporida;Cryptosporidium;Colpodella	0.999802;0.999802;0.999802;0.999802;0.999802;0.999802;0.999802;0.999802

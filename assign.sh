@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 #@ job_name = longreads_search
 #@ job_type = parallel
 #@ energy_policy_tag = raxng_energy_tag
@@ -30,6 +30,7 @@ THREADS=10
 
 BASE="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 TAXONS=${BASE}/data/taxonomy.txt
+OUTGROUP=${BASE}/data/outgroup_names.txt
 
 for treename in "V4" "long" "ref_only"; do
 
@@ -52,7 +53,7 @@ for treename in "V4" "long" "ref_only"; do
     mkdir -p ${OUT}
     rm -f ${OUT}/*
 
-    gappa analyze assign --threads ${THREADS} --jplace-path ${QRY} --krona --taxon-file ${TAXONS} --out-dir ${OUT}
+    gappa analyze assign --threads ${THREADS} --jplace-path ${QRY} --krona --taxon-file ${TAXONS} --out-dir ${OUT} --root-outgroup ${OUTGROUP}
 
   done
 
