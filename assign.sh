@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 #@ job_name = longreads_search
 #@ job_type = parallel
 #@ energy_policy_tag = raxng_energy_tag
