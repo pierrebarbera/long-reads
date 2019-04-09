@@ -1,0 +1,20 @@
+Figure 1 : edpl exact
+Traceback (most recent call last):
+  File "./make_hists.py", line 155, in <module>
+    plot_dataset(datasets, measure, method)
+  File "./make_hists.py", line 83, in plot_dataset
+    plot_exact_hist( filename )
+  File "./make_hists.py", line 39, in plot_exact_hist
+    data = pd.read_csv( list_filename, header=None )
+  File "/usr/local/lib/python2.7/dist-packages/pandas/io/parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/local/lib/python2.7/dist-packages/pandas/io/parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/usr/local/lib/python2.7/dist-packages/pandas/io/parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/usr/local/lib/python2.7/dist-packages/pandas/io/parsers.py", line 1853, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 545, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file
