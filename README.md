@@ -20,7 +20,5 @@ The `V4` in this context means usage of the query alignments masked to only incl
 
 ### Citation
 ```
-Long metabarcoding of the eukaryotic rDNA operon to phylogenetically and taxonomically resolve environmental diversity
-Mahwash Jamy, Rachel Foster, Pierre Barbera, Lucas Czech, Alexey Kozlov, Alexandros Stamatakis, David Bass, Fabien Burki
-bioRxiv 627828; doi: https://doi.org/10.1101/627828
+Jamy, M, Foster, R, Barbera, P, et al. Long‐read metabarcoding of the eukaryotic rDNA operon to phylogenetically and taxonomically resolve environmental diversity. Mol Ecol Resour. 2020; 20: 429– 443. https://doi.org/10.1111/1755-0998.13117
 ```
