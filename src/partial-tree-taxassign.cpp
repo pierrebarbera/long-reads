@@ -36,7 +36,7 @@ constexpr char QUERY[]          = "query";
 void print_labelled(Tree const& tree,
                     std::vector<Taxopath> const& node_labels )
 {
-    DefaultTreeNewickWriter writer;
+    CommonTreeNewickWriter writer;
     writer.node_to_element_plugins.push_back(
         [&]( TreeNode const& node, NewickBrokerElement& element ){
             element.comments.emplace_back(
@@ -44,7 +44,7 @@ void print_labelled(Tree const& tree,
             );
         }
     );
-    writer.to_stream( tree, std::cout );
+    writer.write( tree, to_stream( std::cout ) );
 }
 
 Taxopath intersect( Taxopath const& lhs, Taxopath const& rhs )
@@ -96,20 +96,20 @@ std::vector<Taxopath> label_nodes(  Tree const& tree,
             throw std::runtime_error{"Could not find node with name: " + name};
         }
 
-        node_labels[ node_ptr->index() ] = tpp.from_string( tax_string );
+        node_labels[ node_ptr->index() ] = tpp.parse( tax_string );
     }
 
     // check if any leafs weren't assigned a Taxopath
     // for ( auto const& node_it : tree.nodes() ) {
     //     if ( node_it->is_leaf() and node_labels[ node_it->index() ].empty() ) {
-    //         auto name = node_it->data< DefaultNodeData >().name;
+    //         auto name = node_it->data< CommonNodeData >().name;
     //         throw std::runtime_error{"The leaf in the tree labelled '" + name
     //             + "' wasn't assigned a taxonomic path. Did you forget to include it in the taxon file?"};
     //     }
     // }
     // go through the tree in postorder fashion and label inner nodes according to the most common taxonomic rank of the children
     for ( auto it : postorder(tree) ) {
-        if ( it.node().is_inner() ) {
+        if ( is_inner( it.node() ) ) {
             auto const child_1_idx = it.node().link().next().outer().node().index();
             auto const child_2_idx = it.node().link().next().next().outer().node().index();
 
@@ -159,7 +159,7 @@ void print_query_taxassign( std::ostream& stream,
     // print all the query labels
     for ( auto const i : query_tip_indices ) {
         // output sativa-style taxassign
-        stream << tree.node_at(i).data<DefaultNodeData>().name;
+        stream << tree.node_at(i).data<CommonNodeData>().name;
         stream << "\t" << TaxopathGenerator().to_string( node_labels[i] );
         // stream << "\t" << join( confidences, ";" );
         stream << "\n";
@@ -221,7 +221,7 @@ void outgroup_rooting(  Tree& tree,
     assert( edge_ptr );
 
     // root on that edge
-    add_root_node( tree, *edge_ptr );
+    make_rooted( tree, *edge_ptr );
 }
 
 /**
@@ -242,7 +242,7 @@ int main( int argc, char** argv )
     std::string taxon_file(argv[2]);
 
 
-    auto tree = DefaultTreeNewickReader().from_file( tree_file );
+    auto tree = CommonTreeNewickReader().read( from_file( tree_file ) );
 
     if ( argc == 4 ) {
         if ( is_rooted( tree ) ) {
